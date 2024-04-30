@@ -7808,16 +7808,16 @@
     {
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          0.8862745,
-          0.8862745,
-          0.8862745,
+          0.4392157,
+          0.4392157,
+          0.4392157,
           1.0
         ],
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
       },
       "doubleSided": true,
-      "name": "Material #3559",
+      "name": "Material #4212",
       "extras": {
         "babylonSeparateCullingPass": false,
         "directIntensity": 1.0,
@@ -7862,7 +7862,7 @@
         "roughnessFactor": 0.3
       },
       "doubleSided": true,
-      "name": "Material #3560",
+      "name": "Material #4211",
       "extras": {
         "babylonSeparateCullingPass": false,
         "directIntensity": 1.0,
