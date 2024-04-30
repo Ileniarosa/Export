@@ -7328,7 +7328,7 @@
           "index": 42
         },
         "metallicFactor": 0.0,
-        "roughnessFactor": 0.4
+        "roughnessFactor": 0.6
       },
       "normalTexture": {
         "index": 41
@@ -7478,7 +7478,7 @@
           "index": 42
         },
         "metallicFactor": 0.0,
-        "roughnessFactor": 0.4
+        "roughnessFactor": 0.6
       },
       "normalTexture": {
         "index": 41
@@ -7926,7 +7926,7 @@
           "index": 42
         },
         "metallicFactor": 0.0,
-        "roughnessFactor": 0.4
+        "roughnessFactor": 0.6
       },
       "normalTexture": {
         "index": 41
@@ -8076,7 +8076,7 @@
           "index": 42
         },
         "metallicFactor": 0.0,
-        "roughnessFactor": 0.4
+        "roughnessFactor": 0.6
       },
       "normalTexture": {
         "index": 41
@@ -8277,7 +8277,7 @@
           0.5,
           0.5,
           0.5,
-          0.5
+          0.199999988
         ],
         "metallicFactor": 0.0
       },
