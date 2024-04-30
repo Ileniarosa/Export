@@ -7389,13 +7389,13 @@
     {
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          0.5827338,
-          0.5045712,
-          0.4527716,
+          0.460431665,
+          0.460431665,
+          0.460431665,
           1.0
         ],
-        "metallicFactor": 0.3,
-        "roughnessFactor": 0.7
+        "metallicFactor": 0.5,
+        "roughnessFactor": 0.6
       },
       "doubleSided": true,
       "name": "painted color",
@@ -7539,13 +7539,13 @@
     {
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          0.5827338,
-          0.5045712,
-          0.4527716,
+          0.460431665,
+          0.460431665,
+          0.460431665,
           1.0
         ],
-        "metallicFactor": 0.3,
-        "roughnessFactor": 0.7
+        "metallicFactor": 0.5,
+        "roughnessFactor": 0.6
       },
       "doubleSided": true,
       "name": "painted color",
@@ -7837,13 +7837,13 @@
     {
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          0.5827338,
-          0.5045712,
-          0.4527716,
+          0.460431665,
+          0.460431665,
+          0.460431665,
           1.0
         ],
-        "metallicFactor": 0.3,
-        "roughnessFactor": 0.7
+        "metallicFactor": 0.5,
+        "roughnessFactor": 0.6
       },
       "doubleSided": true,
       "name": "painted color",
@@ -7987,13 +7987,13 @@
     {
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          0.5827338,
-          0.5045712,
-          0.4527716,
+          0.460431665,
+          0.460431665,
+          0.460431665,
           1.0
         ],
-        "metallicFactor": 0.3,
-        "roughnessFactor": 0.7
+        "metallicFactor": 0.5,
+        "roughnessFactor": 0.6
       },
       "doubleSided": true,
       "name": "painted color",
@@ -8137,13 +8137,13 @@
     {
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          0.5827338,
-          0.5045712,
-          0.4527716,
+          0.460431665,
+          0.460431665,
+          0.460431665,
           1.0
         ],
-        "metallicFactor": 0.3,
-        "roughnessFactor": 0.7
+        "metallicFactor": 0.5,
+        "roughnessFactor": 0.6
       },
       "doubleSided": true,
       "name": "painted color",
@@ -8338,9 +8338,9 @@
     {
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          0.4316547,
-          0.4316547,
-          0.4316547,
+          1.0,
+          1.0,
+          1.0,
           0.5
         ],
         "metallicFactor": 0.15,
