@@ -6855,9 +6855,7 @@
           "index": 40
         },
         "metallicFactor": 0.0,
-        "metallicRoughnessTexture": {
-          "index": 41
-        }
+        "roughnessFactor": 0.44
       },
       "doubleSided": true,
       "name": "fabric",
@@ -6902,14 +6900,13 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 43
+          "index": 42
         },
         "metallicFactor": 0.0,
-        "roughnessFactor": 0.0
+        "roughnessFactor": 0.4
       },
       "normalTexture": {
-        "index": 42,
-        "scale": 0.3
+        "index": 41
       },
       "doubleSided": true,
       "name": "piel",
@@ -6954,16 +6951,18 @@
     {
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          0.4,
-          0.4,
-          0.4,
+          0.6745098,
+          0.6745098,
+          0.6745098,
           1.0
         ],
-        "roughnessFactor": 0.2
+        "metallicFactor": 0.3,
+        "roughnessFactor": 0.7
       },
       "doubleSided": true,
       "name": "metal",
       "extras": {
+        "babylonSeparateCullingPass": false,
         "directIntensity": 1.0,
         "emissiveIntensity": 1.0,
         "environmentIntensity": 1.0,
@@ -6997,8 +6996,7 @@
           "animations": [],
           "extensions": null,
           "samplingMode": 3
-        },
-        "babylonSeparateCullingPass": false
+        }
       }
     },
     {
@@ -7007,9 +7005,7 @@
           "index": 40
         },
         "metallicFactor": 0.0,
-        "metallicRoughnessTexture": {
-          "index": 41
-        }
+        "roughnessFactor": 0.44
       },
       "doubleSided": true,
       "name": "fabric",
@@ -7054,14 +7050,13 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 43
+          "index": 42
         },
         "metallicFactor": 0.0,
-        "roughnessFactor": 0.0
+        "roughnessFactor": 0.4
       },
       "normalTexture": {
-        "index": 42,
-        "scale": 0.3
+        "index": 41
       },
       "doubleSided": true,
       "name": "piel",
@@ -7106,16 +7101,18 @@
     {
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          0.4,
-          0.4,
-          0.4,
+          0.6745098,
+          0.6745098,
+          0.6745098,
           1.0
         ],
-        "roughnessFactor": 0.2
+        "metallicFactor": 0.3,
+        "roughnessFactor": 0.7
       },
       "doubleSided": true,
       "name": "metal",
       "extras": {
+        "babylonSeparateCullingPass": false,
         "directIntensity": 1.0,
         "emissiveIntensity": 1.0,
         "environmentIntensity": 1.0,
@@ -7149,8 +7146,7 @@
           "animations": [],
           "extensions": null,
           "samplingMode": 3
-        },
-        "babylonSeparateCullingPass": false
+        }
       }
     },
     {
@@ -7159,9 +7155,7 @@
           "index": 40
         },
         "metallicFactor": 0.0,
-        "metallicRoughnessTexture": {
-          "index": 41
-        }
+        "roughnessFactor": 0.44
       },
       "doubleSided": true,
       "name": "fabric",
@@ -7206,16 +7200,16 @@
     {
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          0.5,
-          0.5,
-          0.5,
+          0.474820167,
+          0.27962172,
+          0.218622223,
           1.0
         ],
         "metallicFactor": 0.0,
-        "roughnessFactor": 0.0
+        "roughnessFactor": 0.3
       },
       "doubleSided": true,
-      "name": "Material #4",
+      "name": "color",
       "extras": {
         "directIntensity": 1.0,
         "emissiveIntensity": 1.0,
@@ -7311,9 +7305,7 @@
           "index": 40
         },
         "metallicFactor": 0.0,
-        "metallicRoughnessTexture": {
-          "index": 41
-        }
+        "roughnessFactor": 0.44
       },
       "doubleSided": true,
       "name": "fabric",
@@ -7358,16 +7350,18 @@
     {
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          0.4,
-          0.4,
-          0.4,
+          0.6745098,
+          0.6745098,
+          0.6745098,
           1.0
         ],
-        "roughnessFactor": 0.2
+        "metallicFactor": 0.3,
+        "roughnessFactor": 0.7
       },
       "doubleSided": true,
       "name": "metal",
       "extras": {
+        "babylonSeparateCullingPass": false,
         "directIntensity": 1.0,
         "emissiveIntensity": 1.0,
         "environmentIntensity": 1.0,
@@ -7401,8 +7395,7 @@
           "animations": [],
           "extensions": null,
           "samplingMode": 3
-        },
-        "babylonSeparateCullingPass": false
+        }
       }
     },
     {
@@ -7411,11 +7404,12 @@
           0.474820167,
           0.4077099,
           0.372340977,
-          1.0
+          0.7
         ],
         "metallicFactor": 0.0,
         "roughnessFactor": 0.0
       },
+      "alphaMode": "BLEND",
       "doubleSided": true,
       "name": "mesa de centro_vidrio",
       "extras": {
@@ -7459,13 +7453,13 @@
     {
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          0.5,
-          0.5,
-          0.5,
+          0.474820167,
+          0.27962172,
+          0.218622223,
           1.0
         ],
         "metallicFactor": 0.0,
-        "roughnessFactor": 0.0
+        "roughnessFactor": 0.3
       },
       "doubleSided": true,
       "name": "color",
@@ -7510,16 +7504,18 @@
     {
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          0.4,
-          0.4,
-          0.4,
+          0.6745098,
+          0.6745098,
+          0.6745098,
           1.0
         ],
-        "roughnessFactor": 0.2
+        "metallicFactor": 0.3,
+        "roughnessFactor": 0.7
       },
       "doubleSided": true,
       "name": "metal",
       "extras": {
+        "babylonSeparateCullingPass": false,
         "directIntensity": 1.0,
         "emissiveIntensity": 1.0,
         "environmentIntensity": 1.0,
@@ -7553,8 +7549,7 @@
           "animations": [],
           "extensions": null,
           "samplingMode": 3
-        },
-        "babylonSeparateCullingPass": false
+        }
       }
     },
     {
@@ -7563,9 +7558,7 @@
           "index": 40
         },
         "metallicFactor": 0.0,
-        "metallicRoughnessTexture": {
-          "index": 41
-        }
+        "roughnessFactor": 0.44
       },
       "doubleSided": true,
       "name": "fabric",
@@ -7610,14 +7603,13 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 43
+          "index": 42
         },
         "metallicFactor": 0.0,
-        "roughnessFactor": 0.0
+        "roughnessFactor": 0.4
       },
       "normalTexture": {
-        "index": 42,
-        "scale": 0.3
+        "index": 41
       },
       "doubleSided": true,
       "name": "piel",
@@ -7662,16 +7654,18 @@
     {
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          0.4,
-          0.4,
-          0.4,
+          0.6745098,
+          0.6745098,
+          0.6745098,
           1.0
         ],
-        "roughnessFactor": 0.2
+        "metallicFactor": 0.3,
+        "roughnessFactor": 0.7
       },
       "doubleSided": true,
       "name": "metal",
       "extras": {
+        "babylonSeparateCullingPass": false,
         "directIntensity": 1.0,
         "emissiveIntensity": 1.0,
         "environmentIntensity": 1.0,
@@ -7705,8 +7699,7 @@
           "animations": [],
           "extensions": null,
           "samplingMode": 3
-        },
-        "babylonSeparateCullingPass": false
+        }
       }
     },
     {
@@ -7715,9 +7708,7 @@
           "index": 40
         },
         "metallicFactor": 0.0,
-        "metallicRoughnessTexture": {
-          "index": 41
-        }
+        "roughnessFactor": 0.44
       },
       "doubleSided": true,
       "name": "fabric",
@@ -7762,14 +7753,13 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 43
+          "index": 42
         },
         "metallicFactor": 0.0,
-        "roughnessFactor": 0.0
+        "roughnessFactor": 0.4
       },
       "normalTexture": {
-        "index": 42,
-        "scale": 0.3
+        "index": 41
       },
       "doubleSided": true,
       "name": "piel",
@@ -7814,16 +7804,18 @@
     {
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          0.4,
-          0.4,
-          0.4,
+          0.6745098,
+          0.6745098,
+          0.6745098,
           1.0
         ],
-        "roughnessFactor": 0.2
+        "metallicFactor": 0.3,
+        "roughnessFactor": 0.7
       },
       "doubleSided": true,
       "name": "metal",
       "extras": {
+        "babylonSeparateCullingPass": false,
         "directIntensity": 1.0,
         "emissiveIntensity": 1.0,
         "environmentIntensity": 1.0,
@@ -7857,8 +7849,7 @@
           "animations": [],
           "extensions": null,
           "samplingMode": 3
-        },
-        "babylonSeparateCullingPass": false
+        }
       }
     }
   ],
@@ -8071,16 +8062,11 @@
     {
       "sampler": 0,
       "source": 15,
-      "name": "vm_v1_075_fabric_blend0.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 16,
       "name": "vm_v1_075_leather_blend.jpg"
     },
     {
       "sampler": 0,
-      "source": 17,
+      "source": 16,
       "name": "piel_basecolor.jpg"
     }
   ],
@@ -8129,9 +8115,6 @@
     },
     {
       "uri": "fabric_beige_basecolor.jpg"
-    },
-    {
-      "uri": "vm_v1_075_fabric_blend0.jpg"
     },
     {
       "uri": "vm_v1_075_leather_blend.jpg"
