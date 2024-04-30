@@ -8558,9 +8558,9 @@
     {
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          0.4172662,
-          0.332823843,
-          0.2791781,
+          0.376171023,
+          0.597804666,
+          0.661870539,
           0.5
         ],
         "metallicFactor": 0.15,
@@ -8568,7 +8568,7 @@
       },
       "alphaMode": "BLEND",
       "doubleSided": true,
-      "name": "mesa de centro_vidrio",
+      "name": "Material #2135",
       "extras": {
         "directIntensity": 1.0,
         "emissiveIntensity": 1.0,
