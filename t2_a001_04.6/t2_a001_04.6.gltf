@@ -7388,14 +7388,8 @@
     },
     {
       "pbrMetallicRoughness": {
-        "baseColorFactor": [
-          0.460431665,
-          0.460431665,
-          0.460431665,
-          1.0
-        ],
-        "metallicFactor": 0.5,
-        "roughnessFactor": 0.6
+        "metallicFactor": 0.8,
+        "roughnessFactor": 0.3
       },
       "doubleSided": true,
       "name": "painted color",
@@ -7538,14 +7532,8 @@
     },
     {
       "pbrMetallicRoughness": {
-        "baseColorFactor": [
-          0.460431665,
-          0.460431665,
-          0.460431665,
-          1.0
-        ],
-        "metallicFactor": 0.5,
-        "roughnessFactor": 0.6
+        "metallicFactor": 0.8,
+        "roughnessFactor": 0.3
       },
       "doubleSided": true,
       "name": "painted color",
@@ -7590,7 +7578,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 39
+          "index": 36
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.44
@@ -7638,7 +7626,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 40
+          "index": 39
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.44
@@ -7738,7 +7726,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 39
+          "index": 36
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.44
@@ -7836,14 +7824,8 @@
     },
     {
       "pbrMetallicRoughness": {
-        "baseColorFactor": [
-          0.460431665,
-          0.460431665,
-          0.460431665,
-          1.0
-        ],
-        "metallicFactor": 0.5,
-        "roughnessFactor": 0.6
+        "metallicFactor": 0.8,
+        "roughnessFactor": 0.3
       },
       "doubleSided": true,
       "name": "painted color",
@@ -7986,14 +7968,8 @@
     },
     {
       "pbrMetallicRoughness": {
-        "baseColorFactor": [
-          0.460431665,
-          0.460431665,
-          0.460431665,
-          1.0
-        ],
-        "metallicFactor": 0.5,
-        "roughnessFactor": 0.6
+        "metallicFactor": 0.8,
+        "roughnessFactor": 0.3
       },
       "doubleSided": true,
       "name": "painted color",
@@ -8136,14 +8112,8 @@
     },
     {
       "pbrMetallicRoughness": {
-        "baseColorFactor": [
-          0.460431665,
-          0.460431665,
-          0.460431665,
-          1.0
-        ],
-        "metallicFactor": 0.5,
-        "roughnessFactor": 0.6
+        "metallicFactor": 0.8,
+        "roughnessFactor": 0.3
       },
       "doubleSided": true,
       "name": "painted color",
@@ -8239,7 +8209,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 40
+          "index": 39
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.44
@@ -8493,7 +8463,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 41
+          "index": 40
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.0
@@ -8592,7 +8562,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 42
+          "index": 41
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -8888,21 +8858,16 @@
     {
       "sampler": 0,
       "source": 18,
-      "name": "fabric_gris_basecolor.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 19,
       "name": "s2.jpg"
     },
     {
       "sampler": 0,
-      "source": 20,
+      "source": 19,
       "name": "travertine.jpg"
     },
     {
       "sampler": 0,
-      "source": 21,
+      "source": 20,
       "name": "modern-office-building-with-facade-glass.jpg"
     }
   ],
@@ -8960,9 +8925,6 @@
     },
     {
       "uri": "piel_basecolor.jpg"
-    },
-    {
-      "uri": "fabric_gris_basecolor.jpg"
     },
     {
       "uri": "s2.jpg"
