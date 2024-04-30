@@ -864,45 +864,45 @@
     {
       "mesh": 27,
       "translation": [
-        -0.695126534,
+        -2.66616869,
         -0.699277341,
-        -8.80651
+        -1.91213417
       ],
       "name": "Object016"
     },
     {
       "mesh": 28,
       "translation": [
-        0.62463665,
+        -1.34640551,
         -0.699277341,
-        -10.1335974
+        -3.23922157
       ],
       "name": "Object015"
     },
     {
       "mesh": 29,
       "translation": [
-        1.50119686,
+        -0.8511381,
         -0.6942974,
-        -8.216893
+        -1.2285614
       ],
       "name": "Cylinder002"
     },
     {
       "mesh": 30,
       "translation": [
-        -0.5779152,
+        -2.54895735,
         -0.6942974,
-        -10.1101513
+        -3.21577549
       ],
       "name": "Cylinder001"
     },
     {
       "mesh": 31,
       "translation": [
-        0.542320251,
+        -1.66169119,
         -0.6942974,
-        -8.917096
+        -1.97575378
       ],
       "name": "Box005"
     },
@@ -911,7 +911,7 @@
       "translation": [
         -0.677208066,
         -0.699277341,
-        -0.9828701
+        -13.7933807
       ],
       "name": "Object001"
     },
@@ -920,7 +920,7 @@
       "translation": [
         -1.68456233,
         -0.6942974,
-        -2.01268339
+        -14.8231945
       ],
       "name": "Box004"
     },
@@ -929,7 +929,7 @@
       "translation": [
         -2.86421967,
         -0.21395874,
-        -3.18930864
+        -15.9998188
       ],
       "scale": [
         0.6502517,
@@ -943,7 +943,7 @@
       "translation": [
         -1.6022464,
         -0.699277341,
-        -3.22918463
+        -16.0396957
       ],
       "name": "Object012"
     },
@@ -952,7 +952,7 @@
       "translation": [
         -2.92200947,
         -0.699277341,
-        -1.90209723
+        -14.7126083
       ],
       "name": "Object013"
     },
@@ -7797,7 +7797,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-5_comp_light.jpg",
+          "name": "Lightmap-4_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -7848,7 +7848,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-5_comp_light.jpg",
+          "name": "Lightmap-4_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -7900,7 +7900,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-5_comp_light.jpg",
+          "name": "Lightmap-4_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -8047,7 +8047,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-2_comp_light.jpg",
+          "name": "Lightmap-6_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -8198,7 +8198,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-6_comp_light.jpg",
+          "name": "Lightmap-2_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -8447,7 +8447,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-4_comp_light.jpg",
+          "name": "Lightmap-5_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -8498,7 +8498,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-4_comp_light.jpg",
+          "name": "Lightmap-5_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -8550,7 +8550,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-4_comp_light.jpg",
+          "name": "Lightmap-5_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
