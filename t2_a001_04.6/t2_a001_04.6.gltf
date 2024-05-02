@@ -6867,20 +6867,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 39,
-          "extensions": {
-            "KHR_texture_transform": {
-              "offset": [
-                0.0,
-                0.25
-              ],
-              "scale": [
-                1.0,
-                0.5
-              ],
-              "texCoord": 0
-            }
-          }
+          "index": 39
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.4
