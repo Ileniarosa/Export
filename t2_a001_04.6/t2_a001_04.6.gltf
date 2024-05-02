@@ -5877,13 +5877,13 @@
         "baseColorTexture": {
           "index": 37
         },
-        "metallicFactor": 0.0,
-        "roughnessFactor": 0.0
+        "metallicFactor": 0.0
       },
       "alphaMode": "BLEND",
       "doubleSided": true,
-      "name": "Material #25",
+      "name": "Material #34350",
       "extras": {
+        "babylonSeparateCullingPass": false,
         "directIntensity": 1.0,
         "emissiveIntensity": 1.0,
         "environmentIntensity": 1.0,
@@ -5917,8 +5917,7 @@
           "animations": [],
           "extensions": null,
           "samplingMode": 3
-        },
-        "babylonSeparateCullingPass": false
+        }
       }
     },
     {
