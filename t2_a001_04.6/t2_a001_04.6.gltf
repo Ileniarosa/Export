@@ -6867,7 +6867,21 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 39
+          "index": 39,
+          "extensions": {
+            "KHR_texture_transform": {
+              "offset": [
+                0.25000003,
+                0.75
+              ],
+              "rotation": 1.57079637,
+              "scale": [
+                0.5,
+                0.5
+              ],
+              "texCoord": 0
+            }
+          }
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.4
@@ -7159,7 +7173,7 @@
     {
       "sampler": 0,
       "source": 20,
-      "name": "Wood050_2K-JPG_Color.jpg"
+      "name": "Western Red Cedar None 2284 x 3230 mm texture.jpg"
     },
     {
       "sampler": 0,
@@ -7229,7 +7243,7 @@
       "uri": "scandi_living_plant_pot.jpg"
     },
     {
-      "uri": "Wood050_2K-JPG_Color.jpg"
+      "uri": "Western Red Cedar None 2284 x 3230 mm texture.jpg"
     },
     {
       "uri": "wood_spirit_dark.jpg"
