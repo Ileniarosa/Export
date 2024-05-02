@@ -7924,13 +7924,13 @@
     {
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          0.623529434,
-          0.623529434,
-          0.623529434,
+          0.858823538,
+          0.858823538,
+          0.858823538,
           0.7
         ],
         "metallicFactor": 0.0,
-        "roughnessFactor": 0.3
+        "roughnessFactor": 0.5
       },
       "alphaMode": "BLEND",
       "doubleSided": true,
