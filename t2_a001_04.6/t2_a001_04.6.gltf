@@ -7927,9 +7927,10 @@
           0.623529434,
           0.623529434,
           0.623529434,
-          0.9
+          1.0
         ],
-        "metallicFactor": 0.0
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.3
       },
       "alphaMode": "BLEND",
       "doubleSided": true,
