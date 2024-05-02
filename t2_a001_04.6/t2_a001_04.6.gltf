@@ -6871,11 +6871,11 @@
           "extensions": {
             "KHR_texture_transform": {
               "offset": [
-                0.25,
+                0.0,
                 0.25
               ],
               "scale": [
-                0.5,
+                1.0,
                 0.5
               ],
               "texCoord": 0
