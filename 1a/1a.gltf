@@ -59471,10 +59471,11 @@
           0.7,
           0.7,
           0.7,
-          1.0
+          0.95
         ],
         "metallicFactor": 0.0
       },
+      "alphaMode": "BLEND",
       "doubleSided": true,
       "name": "fabric",
       "extras": {
@@ -59572,10 +59573,11 @@
           0.7,
           0.7,
           0.7,
-          1.0
+          0.95
         ],
         "metallicFactor": 0.0
       },
+      "alphaMode": "BLEND",
       "doubleSided": true,
       "name": "fabric",
       "extras": {
@@ -59673,10 +59675,11 @@
           0.7,
           0.7,
           0.7,
-          1.0
+          0.95
         ],
         "metallicFactor": 0.0
       },
+      "alphaMode": "BLEND",
       "doubleSided": true,
       "name": "fabric",
       "extras": {
@@ -59774,10 +59777,11 @@
           0.7,
           0.7,
           0.7,
-          1.0
+          0.95
         ],
         "metallicFactor": 0.0
       },
+      "alphaMode": "BLEND",
       "doubleSided": true,
       "name": "fabric",
       "extras": {
@@ -59875,10 +59879,11 @@
           0.7,
           0.7,
           0.7,
-          1.0
+          0.95
         ],
         "metallicFactor": 0.0
       },
+      "alphaMode": "BLEND",
       "doubleSided": true,
       "name": "fabric",
       "extras": {
@@ -59976,10 +59981,11 @@
           0.7,
           0.7,
           0.7,
-          1.0
+          0.95
         ],
         "metallicFactor": 0.0
       },
+      "alphaMode": "BLEND",
       "doubleSided": true,
       "name": "fabric",
       "extras": {
@@ -60077,10 +60083,11 @@
           0.7,
           0.7,
           0.7,
-          1.0
+          0.95
         ],
         "metallicFactor": 0.0
       },
+      "alphaMode": "BLEND",
       "doubleSided": true,
       "name": "fabric",
       "extras": {
@@ -60178,10 +60185,11 @@
           0.7,
           0.7,
           0.7,
-          1.0
+          0.95
         ],
         "metallicFactor": 0.0
       },
+      "alphaMode": "BLEND",
       "doubleSided": true,
       "name": "fabric",
       "extras": {
@@ -60279,10 +60287,11 @@
           0.7,
           0.7,
           0.7,
-          1.0
+          0.95
         ],
         "metallicFactor": 0.0
       },
+      "alphaMode": "BLEND",
       "doubleSided": true,
       "name": "fabric",
       "extras": {
@@ -60380,10 +60389,11 @@
           0.7,
           0.7,
           0.7,
-          1.0
+          0.95
         ],
         "metallicFactor": 0.0
       },
+      "alphaMode": "BLEND",
       "doubleSided": true,
       "name": "fabric",
       "extras": {
