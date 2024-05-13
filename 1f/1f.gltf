@@ -25559,10 +25559,10 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 8
+          "index": 47
         },
         "metallicFactor": 0.0,
-        "roughnessFactor": 0.7
+        "roughnessFactor": 0.6
       },
       "doubleSided": true,
       "name": "Material #2",
@@ -25610,10 +25610,10 @@
           1.0,
           1.0,
           1.0,
-          0.5
+          0.199999988
         ],
-        "metallicFactor": 0.2,
-        "roughnessFactor": 0.0
+        "metallicFactor": 0.6,
+        "roughnessFactor": 0.4
       },
       "alphaMode": "BLEND",
       "doubleSided": true,
@@ -25892,6 +25892,11 @@
       "sampler": 0,
       "source": 29,
       "name": "scandi_living_plant_soil.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 30,
+      "name": "color_blue_super_light---Copy.jpg"
     }
   ],
   "images": [
@@ -25984,6 +25989,9 @@
     },
     {
       "uri": "scandi_living_plant_soil.jpg"
+    },
+    {
+      "uri": "color_blue_super_light---Copy.jpg"
     }
   ],
   "samplers": [
