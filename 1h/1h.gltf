@@ -95,7 +95,10 @@
         73,
         74,
         75,
-        76
+        76,
+        77,
+        78,
+        79
       ],
       "name": "1h"
     },
@@ -228,6 +231,7 @@
       ],
       "name": "ceiling_01",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -240,8 +244,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -253,6 +256,7 @@
       ],
       "name": "ceiling_02",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -265,8 +269,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -278,6 +281,7 @@
       ],
       "name": "ceiling_03",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -290,8 +294,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -303,6 +306,7 @@
       ],
       "name": "ceiling_04",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -315,8 +319,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -334,6 +337,7 @@
       ],
       "name": "door_01",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -346,8 +350,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -359,6 +362,7 @@
       ],
       "name": "ground_hall_01",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -371,8 +375,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -384,6 +387,7 @@
       ],
       "name": "ground_living_01",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -396,8 +400,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -409,6 +412,7 @@
       ],
       "name": "ground_office_01",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -421,8 +425,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -434,6 +437,7 @@
       ],
       "name": "ground_office_02",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -446,8 +450,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -459,6 +462,7 @@
       ],
       "name": "ground_office_03",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -471,8 +475,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -484,6 +487,7 @@
       ],
       "name": "interior_door_frame_01",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -496,8 +500,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -509,6 +512,7 @@
       ],
       "name": "interior_door_frame_02",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -521,8 +525,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -534,6 +537,7 @@
       ],
       "name": "interior_door_frame_03",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -546,8 +550,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -559,6 +562,7 @@
       ],
       "name": "interior_door_handle_01",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -571,8 +575,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -584,6 +587,7 @@
       ],
       "name": "interior_door_handle_02",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -596,8 +600,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -609,6 +612,7 @@
       ],
       "name": "interior_door_handle_03",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -621,8 +625,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -634,6 +637,7 @@
       ],
       "name": "interior_door_panel_01",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -646,8 +650,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -659,6 +662,7 @@
       ],
       "name": "interior_door_panel_02",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -671,8 +675,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -684,6 +687,7 @@
       ],
       "name": "interior_door_panel_03",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -696,8 +700,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -709,6 +712,7 @@
       ],
       "name": "masonry_01",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -721,8 +725,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -776,6 +779,7 @@
       ],
       "name": "rail_double_01",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -788,8 +792,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -816,6 +819,7 @@
       ],
       "name": "windows_01",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -828,8 +832,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -852,7 +855,7 @@
       ],
       "name": "ceiling_ac_005",
       "extras": {
-        "MaxHandle": 0,
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -866,7 +869,7 @@
           0.0
         ],
         "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "MaxHandle": 0
       }
     },
     {
@@ -889,7 +892,7 @@
       ],
       "name": "ceiling_ac_007",
       "extras": {
-        "MaxHandle": 0,
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -903,7 +906,7 @@
           0.0
         ],
         "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "MaxHandle": 0
       }
     },
     {
@@ -926,7 +929,7 @@
       ],
       "name": "ceiling_ac_010",
       "extras": {
-        "MaxHandle": 0,
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -940,7 +943,7 @@
           0.0
         ],
         "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "MaxHandle": 0
       }
     },
     {
@@ -963,7 +966,7 @@
       ],
       "name": "ceiling_ac_011",
       "extras": {
-        "MaxHandle": 0,
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -977,7 +980,7 @@
           0.0
         ],
         "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "MaxHandle": 0
       }
     },
     {
@@ -1000,7 +1003,7 @@
       ],
       "name": "ceiling_ac_012",
       "extras": {
-        "MaxHandle": 0,
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -1014,7 +1017,7 @@
           0.0
         ],
         "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "MaxHandle": 0
       }
     },
     {
@@ -1350,7 +1353,6 @@
       ],
       "name": "furniture_deco_table005",
       "extras": {
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -1363,7 +1365,8 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -1381,7 +1384,6 @@
       ],
       "name": "furniture_deco_table027",
       "extras": {
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -1394,7 +1396,8 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -1412,7 +1415,6 @@
       ],
       "name": "furniture_frame_a006",
       "extras": {
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -1425,7 +1427,8 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -1443,7 +1446,6 @@
       ],
       "name": "furniture_frame_b009",
       "extras": {
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -1456,7 +1458,8 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -1464,7 +1467,7 @@
       "translation": [
         -4.155846,
         1.41517472,
-        4.188784
+        2.20891047
       ],
       "rotation": [
         4.214684E-08,
@@ -1472,7 +1475,12 @@
         -4.21468549E-08,
         0.70710665
       ],
-      "name": "furniture_frame_b010",
+      "scale": [
+        0.8610583,
+        1.0,
+        1.0
+      ],
+      "name": "furniture_frame_n",
       "extras": {
         "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
@@ -1699,37 +1707,6 @@
       ],
       "name": "scandi_living_shelf001",
       "extras": {
-        "paramrenderwidth": 2048,
-        "paramrenderheight": 2048,
-        "paramfacecolor": [
-          0.7058824,
-          0.20784314,
-          0.09019608
-        ],
-        "paramedgecolor": [
-          1.0,
-          0.7764706,
-          0.0
-        ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
-      }
-    },
-    {
-      "mesh": 63,
-      "translation": [
-        -1.45082879,
-        1.6837461,
-        2.820631
-      ],
-      "rotation": [
-        -0.49999994,
-        -0.50000006,
-        0.5000001,
-        -0.499999881
-      ],
-      "name": "shelf_wall_008",
-      "extras": {
         "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
@@ -1747,9 +1724,9 @@
       }
     },
     {
-      "mesh": 64,
+      "mesh": 63,
       "translation": [
-        1.24918342,
+        -1.45082879,
         1.6837461,
         2.820631
       ],
@@ -1759,7 +1736,38 @@
         0.5000001,
         -0.499999881
       ],
-      "name": "shelf_wall_009",
+      "name": "shelf_wall_008",
+      "extras": {
+        "paramrenderwidth": 2048,
+        "paramrenderheight": 2048,
+        "paramfacecolor": [
+          0.7058824,
+          0.20784314,
+          0.09019608
+        ],
+        "paramedgecolor": [
+          1.0,
+          0.7764706,
+          0.0
+        ],
+        "paramedgewidth": 1,
+        "scaleInLightmap": 1.0
+      }
+    },
+    {
+      "mesh": 64,
+      "translation": [
+        -4.155823,
+        1.15668941,
+        -1.75844812
+      ],
+      "rotation": [
+        4.21468478E-08,
+        0.7071068,
+        -4.214685E-08,
+        0.7071067
+      ],
+      "name": "furniture_frame_m",
       "extras": {
         "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
@@ -1780,17 +1788,34 @@
     {
       "mesh": 65,
       "translation": [
-        -4.155823,
-        1.15668941,
-        -2.136866
+        0.6824951,
+        0.0,
+        -4.48291
+      ],
+      "name": "furniture_plant_new",
+      "extras": {
+        "scaleInLightmap": 1.0
+      }
+    },
+    {
+      "mesh": 66,
+      "translation": [
+        1.24757957,
+        1.434706,
+        3.02879572
       ],
       "rotation": [
-        4.21468478E-08,
-        0.7071068,
-        -4.214685E-08,
-        0.7071067
+        4.214684E-08,
+        0.7071069,
+        -4.21468549E-08,
+        0.70710665
       ],
-      "name": "furniture_frame_c003",
+      "scale": [
+        1.00990629,
+        1.00894642,
+        1.0
+      ],
+      "name": "furniture_frame_0",
       "extras": {
         "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
@@ -1809,14 +1834,81 @@
       }
     },
     {
-      "mesh": 66,
+      "mesh": 67,
       "translation": [
-        0.6824951,
-        0.0,
-        -4.48291
+        -1.55329561,
+        1.60687232,
+        3.6418
       ],
-      "name": "furniture_plant_new",
+      "rotation": [
+        4.21468656E-08,
+        -0.7071066,
+        4.21468371E-08,
+        0.707107067
+      ],
+      "scale": [
+        0.8610583,
+        0.8667067,
+        1.0
+      ],
+      "name": "furniture_frame_n001",
       "extras": {
+        "paramrenderwidth": 2048,
+        "paramrenderheight": 2048,
+        "paramfacecolor": [
+          0.7058824,
+          0.20784314,
+          0.09019608
+        ],
+        "paramedgecolor": [
+          1.0,
+          0.7764706,
+          0.0
+        ],
+        "paramedgewidth": 1,
+        "scaleInLightmap": 1.0
+      }
+    },
+    {
+      "mesh": 68,
+      "translation": [
+        -1.49582124,
+        0.0,
+        -3.79238868
+      ],
+      "name": "Box003",
+      "extras": {
+        "scaleInLightmap": 1.0
+      }
+    },
+    {
+      "mesh": 69,
+      "translation": [
+        -4.15582371,
+        1.369612,
+        4.128441
+      ],
+      "rotation": [
+        4.21468478E-08,
+        0.7071067,
+        -4.21468442E-08,
+        0.7071068
+      ],
+      "name": "furniture_frame_g006",
+      "extras": {
+        "paramrenderwidth": 2048,
+        "paramrenderheight": 2048,
+        "paramfacecolor": [
+          0.7058824,
+          0.20784314,
+          0.09019608
+        ],
+        "paramedgecolor": [
+          1.0,
+          0.7764706,
+          0.0
+        ],
+        "paramedgewidth": 1,
         "scaleInLightmap": 1.0
       }
     }
@@ -2943,7 +3035,7 @@
           "material": 81
         }
       ],
-      "name": "furniture_frame_b010"
+      "name": "furniture_frame_n"
     },
     {
       "primitives": [
@@ -4124,7 +4216,12 @@
           },
           "indices": 1031,
           "material": 185
-        },
+        }
+      ],
+      "name": "furniture_frame_m"
+    },
+    {
+      "primitives": [
         {
           "attributes": {
             "POSITION": 1037,
@@ -4154,7 +4251,12 @@
           },
           "indices": 1046,
           "material": 188
-        },
+        }
+      ],
+      "name": "furniture_plant_new"
+    },
+    {
+      "primitives": [
         {
           "attributes": {
             "POSITION": 1052,
@@ -4176,7 +4278,7 @@
           "material": 190
         }
       ],
-      "name": "shelf_wall_009"
+      "name": "furniture_frame_0"
     },
     {
       "primitives": [
@@ -4201,7 +4303,7 @@
           "material": 192
         }
       ],
-      "name": "furniture_frame_c003"
+      "name": "furniture_frame_n001"
     },
     {
       "primitives": [
@@ -4234,9 +4336,94 @@
           },
           "indices": 1081,
           "material": 195
+        },
+        {
+          "attributes": {
+            "POSITION": 1087,
+            "NORMAL": 1088,
+            "TEXCOORD_0": 1089,
+            "TEXCOORD_1": 1090
+          },
+          "indices": 1086,
+          "material": 196
+        },
+        {
+          "attributes": {
+            "POSITION": 1092,
+            "NORMAL": 1093,
+            "TEXCOORD_0": 1094,
+            "TEXCOORD_1": 1095
+          },
+          "indices": 1091,
+          "material": 197
+        },
+        {
+          "attributes": {
+            "POSITION": 1097,
+            "NORMAL": 1098,
+            "TEXCOORD_0": 1099,
+            "TEXCOORD_1": 1100
+          },
+          "indices": 1096,
+          "material": 198
+        },
+        {
+          "attributes": {
+            "POSITION": 1102,
+            "NORMAL": 1103,
+            "TEXCOORD_0": 1104,
+            "TEXCOORD_1": 1105
+          },
+          "indices": 1101,
+          "material": 199
+        },
+        {
+          "attributes": {
+            "POSITION": 1107,
+            "NORMAL": 1108,
+            "TEXCOORD_0": 1109,
+            "TEXCOORD_1": 1110
+          },
+          "indices": 1106,
+          "material": 200
+        },
+        {
+          "attributes": {
+            "POSITION": 1112,
+            "NORMAL": 1113,
+            "TEXCOORD_0": 1114,
+            "TEXCOORD_1": 1115
+          },
+          "indices": 1111,
+          "material": 201
         }
       ],
-      "name": "furniture_plant_new"
+      "name": "Box003"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 1117,
+            "NORMAL": 1118,
+            "TEXCOORD_0": 1119,
+            "TEXCOORD_1": 1120
+          },
+          "indices": 1116,
+          "material": 202
+        },
+        {
+          "attributes": {
+            "POSITION": 1122,
+            "NORMAL": 1123,
+            "TEXCOORD_0": 1124,
+            "TEXCOORD_1": 1125
+          },
+          "indices": 1121,
+          "material": 203
+        }
+      ],
+      "name": "furniture_frame_g006"
     }
   ],
   "accessors": [
@@ -8504,14 +8691,14 @@
       "componentType": 5126,
       "count": 48,
       "max": [
-        0.742396832,
-        0.683038056,
-        0.0115778614
+        0.7423967,
+        0.6374751,
+        0.011577867
       ],
       "min": [
-        -0.238847673,
-        -1.49011612E-07,
-        -1.05705112E-07
+        -0.238847733,
+        0.0454808176,
+        -1.10827386E-07
       ],
       "type": "VEC3",
       "name": "accessorPositions"
@@ -8555,13 +8742,13 @@
       "count": 4,
       "max": [
         0.723469257,
-        0.6641763,
-        0.0077888947
+        0.6186133,
+        0.0077889
       ],
       "min": [
-        -0.219916463,
-        0.0188616216,
-        0.00778882857
+        -0.219916523,
+        0.06434259,
+        0.007788823
       ],
       "type": "VEC3",
       "name": "accessorPositions"
@@ -14318,363 +14505,13 @@
       "bufferView": 0,
       "byteOffset": 402588,
       "componentType": 5123,
-      "count": 372,
-      "type": "SCALAR",
-      "name": "accessorIndices"
-    },
-    {
-      "bufferView": 1,
-      "byteOffset": 2051592,
-      "componentType": 5126,
-      "count": 144,
-      "max": [
-        0.46,
-        0.005,
-        0.235000044
-      ],
-      "min": [
-        -0.46,
-        -0.005,
-        -0.235000044
-      ],
-      "type": "VEC3",
-      "name": "accessorPositions"
-    },
-    {
-      "bufferView": 1,
-      "byteOffset": 2053320,
-      "componentType": 5126,
-      "count": 144,
-      "type": "VEC3",
-      "name": "accessorNormals"
-    },
-    {
-      "bufferView": 2,
-      "byteOffset": 1367216,
-      "componentType": 5126,
-      "count": 144,
-      "type": "VEC2",
-      "name": "accessorUVs"
-    },
-    {
-      "bufferView": 2,
-      "byteOffset": 1368368,
-      "componentType": 5126,
-      "count": 144,
-      "type": "VEC2",
-      "name": "accessorUV2s"
-    },
-    {
-      "bufferView": 0,
-      "byteOffset": 403332,
-      "componentType": 5123,
-      "count": 642,
-      "type": "SCALAR",
-      "name": "accessorIndices"
-    },
-    {
-      "bufferView": 1,
-      "byteOffset": 2055048,
-      "componentType": 5126,
-      "count": 309,
-      "max": [
-        0.4666512,
-        0.1148491,
-        0.185885385
-      ],
-      "min": [
-        -0.464564532,
-        -0.00391741842,
-        -0.3928462
-      ],
-      "type": "VEC3",
-      "name": "accessorPositions"
-    },
-    {
-      "bufferView": 1,
-      "byteOffset": 2058756,
-      "componentType": 5126,
-      "count": 309,
-      "type": "VEC3",
-      "name": "accessorNormals"
-    },
-    {
-      "bufferView": 2,
-      "byteOffset": 1369520,
-      "componentType": 5126,
-      "count": 309,
-      "type": "VEC2",
-      "name": "accessorUVs"
-    },
-    {
-      "bufferView": 2,
-      "byteOffset": 1371992,
-      "componentType": 5126,
-      "count": 309,
-      "type": "VEC2",
-      "name": "accessorUV2s"
-    },
-    {
-      "bufferView": 0,
-      "byteOffset": 404616,
-      "componentType": 5123,
-      "count": 6,
-      "type": "SCALAR",
-      "name": "accessorIndices"
-    },
-    {
-      "bufferView": 1,
-      "byteOffset": 2062464,
-      "componentType": 5126,
-      "count": 4,
-      "max": [
-        0.339147031,
-        0.0563035533,
-        -0.155340075
-      ],
-      "min": [
-        0.100436792,
-        0.0148519613,
-        -0.3904238
-      ],
-      "type": "VEC3",
-      "name": "accessorPositions"
-    },
-    {
-      "bufferView": 1,
-      "byteOffset": 2062512,
-      "componentType": 5126,
-      "count": 4,
-      "type": "VEC3",
-      "name": "accessorNormals"
-    },
-    {
-      "bufferView": 2,
-      "byteOffset": 1374464,
-      "componentType": 5126,
-      "count": 4,
-      "type": "VEC2",
-      "name": "accessorUVs"
-    },
-    {
-      "bufferView": 2,
-      "byteOffset": 1374496,
-      "componentType": 5126,
-      "count": 4,
-      "type": "VEC2",
-      "name": "accessorUV2s"
-    },
-    {
-      "bufferView": 0,
-      "byteOffset": 404628,
-      "componentType": 5123,
-      "count": 18,
-      "type": "SCALAR",
-      "name": "accessorIndices"
-    },
-    {
-      "bufferView": 1,
-      "byteOffset": 2062560,
-      "componentType": 5126,
-      "count": 12,
-      "max": [
-        0.2184386,
-        0.118276775,
-        0.126008317
-      ],
-      "min": [
-        0.06111998,
-        0.0203849152,
-        0.0924201757
-      ],
-      "type": "VEC3",
-      "name": "accessorPositions"
-    },
-    {
-      "bufferView": 1,
-      "byteOffset": 2062704,
-      "componentType": 5126,
-      "count": 12,
-      "type": "VEC3",
-      "name": "accessorNormals"
-    },
-    {
-      "bufferView": 2,
-      "byteOffset": 1374528,
-      "componentType": 5126,
-      "count": 12,
-      "type": "VEC2",
-      "name": "accessorUVs"
-    },
-    {
-      "bufferView": 2,
-      "byteOffset": 1374624,
-      "componentType": 5126,
-      "count": 12,
-      "type": "VEC2",
-      "name": "accessorUV2s"
-    },
-    {
-      "bufferView": 0,
-      "byteOffset": 404664,
-      "componentType": 5123,
-      "count": 18,
-      "type": "SCALAR",
-      "name": "accessorIndices"
-    },
-    {
-      "bufferView": 1,
-      "byteOffset": 2062848,
-      "componentType": 5126,
-      "count": 12,
-      "max": [
-        0.1979588,
-        0.101026624,
-        0.0924797356
-      ],
-      "min": [
-        0.06579762,
-        0.00589408726,
-        0.06854162
-      ],
-      "type": "VEC3",
-      "name": "accessorPositions"
-    },
-    {
-      "bufferView": 1,
-      "byteOffset": 2062992,
-      "componentType": 5126,
-      "count": 12,
-      "type": "VEC3",
-      "name": "accessorNormals"
-    },
-    {
-      "bufferView": 2,
-      "byteOffset": 1374720,
-      "componentType": 5126,
-      "count": 12,
-      "type": "VEC2",
-      "name": "accessorUVs"
-    },
-    {
-      "bufferView": 2,
-      "byteOffset": 1374816,
-      "componentType": 5126,
-      "count": 12,
-      "type": "VEC2",
-      "name": "accessorUV2s"
-    },
-    {
-      "bufferView": 0,
-      "byteOffset": 404700,
-      "componentType": 5123,
-      "count": 18,
-      "type": "SCALAR",
-      "name": "accessorIndices"
-    },
-    {
-      "bufferView": 1,
-      "byteOffset": 2063136,
-      "componentType": 5126,
-      "count": 12,
-      "max": [
-        0.1822315,
-        0.0901186839,
-        0.06843298
-      ],
-      "min": [
-        0.08145695,
-        0.0175789818,
-        0.04985366
-      ],
-      "type": "VEC3",
-      "name": "accessorPositions"
-    },
-    {
-      "bufferView": 1,
-      "byteOffset": 2063280,
-      "componentType": 5126,
-      "count": 12,
-      "type": "VEC3",
-      "name": "accessorNormals"
-    },
-    {
-      "bufferView": 2,
-      "byteOffset": 1374912,
-      "componentType": 5126,
-      "count": 12,
-      "type": "VEC2",
-      "name": "accessorUVs"
-    },
-    {
-      "bufferView": 2,
-      "byteOffset": 1375008,
-      "componentType": 5126,
-      "count": 12,
-      "type": "VEC2",
-      "name": "accessorUV2s"
-    },
-    {
-      "bufferView": 0,
-      "byteOffset": 404736,
-      "componentType": 5123,
-      "count": 954,
-      "type": "SCALAR",
-      "name": "accessorIndices"
-    },
-    {
-      "bufferView": 1,
-      "byteOffset": 2063424,
-      "componentType": 5126,
-      "count": 796,
-      "max": [
-        0.449541479,
-        0.09511414,
-        0.178768575
-      ],
-      "min": [
-        -0.375726342,
-        -0.00391741842,
-        -0.398858219
-      ],
-      "type": "VEC3",
-      "name": "accessorPositions"
-    },
-    {
-      "bufferView": 1,
-      "byteOffset": 2072976,
-      "componentType": 5126,
-      "count": 796,
-      "type": "VEC3",
-      "name": "accessorNormals"
-    },
-    {
-      "bufferView": 2,
-      "byteOffset": 1375104,
-      "componentType": 5126,
-      "count": 796,
-      "type": "VEC2",
-      "name": "accessorUVs"
-    },
-    {
-      "bufferView": 2,
-      "byteOffset": 1381472,
-      "componentType": 5126,
-      "count": 796,
-      "type": "VEC2",
-      "name": "accessorUV2s"
-    },
-    {
-      "bufferView": 0,
-      "byteOffset": 406644,
-      "componentType": 5123,
       "count": 84,
       "type": "SCALAR",
       "name": "accessorIndices"
     },
     {
       "bufferView": 1,
-      "byteOffset": 2082528,
+      "byteOffset": 2051592,
       "componentType": 5126,
       "count": 48,
       "max": [
@@ -14692,7 +14529,7 @@
     },
     {
       "bufferView": 1,
-      "byteOffset": 2083104,
+      "byteOffset": 2052168,
       "componentType": 5126,
       "count": 48,
       "type": "VEC3",
@@ -14700,7 +14537,7 @@
     },
     {
       "bufferView": 2,
-      "byteOffset": 1387840,
+      "byteOffset": 1367216,
       "componentType": 5126,
       "count": 48,
       "type": "VEC2",
@@ -14708,7 +14545,7 @@
     },
     {
       "bufferView": 2,
-      "byteOffset": 1388224,
+      "byteOffset": 1367600,
       "componentType": 5126,
       "count": 48,
       "type": "VEC2",
@@ -14716,7 +14553,7 @@
     },
     {
       "bufferView": 0,
-      "byteOffset": 406812,
+      "byteOffset": 402756,
       "componentType": 5123,
       "count": 6,
       "type": "SCALAR",
@@ -14724,7 +14561,7 @@
     },
     {
       "bufferView": 1,
-      "byteOffset": 2083680,
+      "byteOffset": 2052744,
       "componentType": 5126,
       "count": 4,
       "max": [
@@ -14742,7 +14579,7 @@
     },
     {
       "bufferView": 1,
-      "byteOffset": 2083728,
+      "byteOffset": 2052792,
       "componentType": 5126,
       "count": 4,
       "type": "VEC3",
@@ -14750,7 +14587,7 @@
     },
     {
       "bufferView": 2,
-      "byteOffset": 1388608,
+      "byteOffset": 1367984,
       "componentType": 5126,
       "count": 4,
       "type": "VEC2",
@@ -14758,7 +14595,7 @@
     },
     {
       "bufferView": 2,
-      "byteOffset": 1388640,
+      "byteOffset": 1368016,
       "componentType": 5126,
       "count": 4,
       "type": "VEC2",
@@ -14766,7 +14603,7 @@
     },
     {
       "bufferView": 0,
-      "byteOffset": 406824,
+      "byteOffset": 402768,
       "componentType": 5123,
       "count": 1134,
       "type": "SCALAR",
@@ -14774,7 +14611,7 @@
     },
     {
       "bufferView": 1,
-      "byteOffset": 2083776,
+      "byteOffset": 2052840,
       "componentType": 5126,
       "count": 314,
       "max": [
@@ -14792,7 +14629,7 @@
     },
     {
       "bufferView": 1,
-      "byteOffset": 2087544,
+      "byteOffset": 2056608,
       "componentType": 5126,
       "count": 314,
       "type": "VEC3",
@@ -14800,7 +14637,7 @@
     },
     {
       "bufferView": 2,
-      "byteOffset": 1388672,
+      "byteOffset": 1368048,
       "componentType": 5126,
       "count": 314,
       "type": "VEC2",
@@ -14808,7 +14645,7 @@
     },
     {
       "bufferView": 2,
-      "byteOffset": 1391184,
+      "byteOffset": 1370560,
       "componentType": 5126,
       "count": 314,
       "type": "VEC2",
@@ -14816,7 +14653,7 @@
     },
     {
       "bufferView": 0,
-      "byteOffset": 409092,
+      "byteOffset": 405036,
       "componentType": 5123,
       "count": 54,
       "type": "SCALAR",
@@ -14824,7 +14661,7 @@
     },
     {
       "bufferView": 1,
-      "byteOffset": 2091312,
+      "byteOffset": 2060376,
       "componentType": 5126,
       "count": 20,
       "max": [
@@ -14842,7 +14679,7 @@
     },
     {
       "bufferView": 1,
-      "byteOffset": 2091552,
+      "byteOffset": 2060616,
       "componentType": 5126,
       "count": 20,
       "type": "VEC3",
@@ -14850,7 +14687,7 @@
     },
     {
       "bufferView": 2,
-      "byteOffset": 1393696,
+      "byteOffset": 1373072,
       "componentType": 5126,
       "count": 20,
       "type": "VEC2",
@@ -14858,7 +14695,7 @@
     },
     {
       "bufferView": 2,
-      "byteOffset": 1393856,
+      "byteOffset": 1373232,
       "componentType": 5126,
       "count": 20,
       "type": "VEC2",
@@ -14866,7 +14703,7 @@
     },
     {
       "bufferView": 0,
-      "byteOffset": 409200,
+      "byteOffset": 405144,
       "componentType": 5123,
       "count": 12,
       "type": "SCALAR",
@@ -14874,7 +14711,7 @@
     },
     {
       "bufferView": 1,
-      "byteOffset": 2091792,
+      "byteOffset": 2060856,
       "componentType": 5126,
       "count": 8,
       "max": [
@@ -14892,7 +14729,7 @@
     },
     {
       "bufferView": 1,
-      "byteOffset": 2091888,
+      "byteOffset": 2060952,
       "componentType": 5126,
       "count": 8,
       "type": "VEC3",
@@ -14900,7 +14737,7 @@
     },
     {
       "bufferView": 2,
-      "byteOffset": 1394016,
+      "byteOffset": 1373392,
       "componentType": 5126,
       "count": 8,
       "type": "VEC2",
@@ -14908,9 +14745,759 @@
     },
     {
       "bufferView": 2,
-      "byteOffset": 1394080,
+      "byteOffset": 1373456,
       "componentType": 5126,
       "count": 8,
+      "type": "VEC2",
+      "name": "accessorUV2s"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 405168,
+      "componentType": 5123,
+      "count": 84,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2061048,
+      "componentType": 5126,
+      "count": 48,
+      "max": [
+        0.742396832,
+        0.683038056,
+        0.0115778614
+      ],
+      "min": [
+        -0.238847673,
+        -1.49011612E-07,
+        -1.05705112E-07
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2061624,
+      "componentType": 5126,
+      "count": 48,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1373520,
+      "componentType": 5126,
+      "count": 48,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1373904,
+      "componentType": 5126,
+      "count": 48,
+      "type": "VEC2",
+      "name": "accessorUV2s"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 405336,
+      "componentType": 5123,
+      "count": 6,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2062200,
+      "componentType": 5126,
+      "count": 4,
+      "max": [
+        0.723469257,
+        0.6641763,
+        0.0077888947
+      ],
+      "min": [
+        -0.219916463,
+        0.0188616216,
+        0.00778882857
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2062248,
+      "componentType": 5126,
+      "count": 4,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1374288,
+      "componentType": 5126,
+      "count": 4,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1374320,
+      "componentType": 5126,
+      "count": 4,
+      "type": "VEC2",
+      "name": "accessorUV2s"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 405348,
+      "componentType": 5123,
+      "count": 84,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2062296,
+      "componentType": 5126,
+      "count": 48,
+      "max": [
+        0.490622282,
+        0.341519117,
+        0.005789021
+      ],
+      "min": [
+        -0.490622222,
+        -0.3415191,
+        -0.00578894652
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2062872,
+      "componentType": 5126,
+      "count": 48,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1374352,
+      "componentType": 5126,
+      "count": 48,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1374736,
+      "componentType": 5126,
+      "count": 48,
+      "type": "VEC2",
+      "name": "accessorUV2s"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 405516,
+      "componentType": 5123,
+      "count": 6,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2063448,
+      "componentType": 5126,
+      "count": 4,
+      "max": [
+        0.4716947,
+        0.322657347,
+        0.00200005365
+      ],
+      "min": [
+        -0.471691,
+        -0.322657317,
+        0.00199998775
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2063496,
+      "componentType": 5126,
+      "count": 4,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1375120,
+      "componentType": 5126,
+      "count": 4,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1375152,
+      "componentType": 5126,
+      "count": 4,
+      "type": "VEC2",
+      "name": "accessorUV2s"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 405528,
+      "componentType": 5123,
+      "count": 3492,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2063544,
+      "componentType": 5126,
+      "count": 2688,
+      "max": [
+        0.174709231,
+        2.00938034,
+        0.584376
+      ],
+      "min": [
+        -0.130256772,
+        0.4597081,
+        -1.05587113
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2095800,
+      "componentType": 5126,
+      "count": 2688,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1375184,
+      "componentType": 5126,
+      "count": 2688,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1396688,
+      "componentType": 5126,
+      "count": 2688,
+      "type": "VEC2",
+      "name": "accessorUV2s"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 412512,
+      "componentType": 5123,
+      "count": 1428,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2128056,
+      "componentType": 5126,
+      "count": 1334,
+      "max": [
+        0.17739886,
+        2.004375,
+        0.587074637
+      ],
+      "min": [
+        -0.132585436,
+        0.4577161,
+        -1.02387393
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2144064,
+      "componentType": 5126,
+      "count": 1334,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1418192,
+      "componentType": 5126,
+      "count": 1334,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1428864,
+      "componentType": 5126,
+      "count": 1334,
+      "type": "VEC2",
+      "name": "accessorUV2s"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 415368,
+      "componentType": 5123,
+      "count": 816,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2160072,
+      "componentType": 5126,
+      "count": 770,
+      "max": [
+        0.17422387,
+        1.998717,
+        0.574596763
+      ],
+      "min": [
+        -0.132585436,
+        0.4577161,
+        -1.0584408
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2169312,
+      "componentType": 5126,
+      "count": 770,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1439536,
+      "componentType": 5126,
+      "count": 770,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1445696,
+      "componentType": 5126,
+      "count": 770,
+      "type": "VEC2",
+      "name": "accessorUV2s"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 417000,
+      "componentType": 5123,
+      "count": 816,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2178552,
+      "componentType": 5126,
+      "count": 746,
+      "max": [
+        0.17422387,
+        2.01163483,
+        0.559255958
+      ],
+      "min": [
+        -0.116351433,
+        0.457744479,
+        -1.037942
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2187504,
+      "componentType": 5126,
+      "count": 746,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1451856,
+      "componentType": 5126,
+      "count": 746,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1457824,
+      "componentType": 5126,
+      "count": 746,
+      "type": "VEC2",
+      "name": "accessorUV2s"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 418632,
+      "componentType": 5123,
+      "count": 2004,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2196456,
+      "componentType": 5126,
+      "count": 978,
+      "max": [
+        0.164354771,
+        1.98691261,
+        0.469494224
+      ],
+      "min": [
+        -0.09145147,
+        0.6779788,
+        -0.6080767
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2208192,
+      "componentType": 5126,
+      "count": 978,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1463792,
+      "componentType": 5126,
+      "count": 978,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1471616,
+      "componentType": 5126,
+      "count": 978,
+      "type": "VEC2",
+      "name": "accessorUV2s"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 422640,
+      "componentType": 5123,
+      "count": 408,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2219928,
+      "componentType": 5126,
+      "count": 382,
+      "max": [
+        0.114874527,
+        1.348718,
+        0.58034265
+      ],
+      "min": [
+        -0.132800132,
+        1.109712,
+        -0.249271035
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2224512,
+      "componentType": 5126,
+      "count": 382,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1479440,
+      "componentType": 5126,
+      "count": 382,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1482496,
+      "componentType": 5126,
+      "count": 382,
+      "type": "VEC2",
+      "name": "accessorUV2s"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 423456,
+      "componentType": 5123,
+      "count": 576,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2229096,
+      "componentType": 5126,
+      "count": 384,
+      "max": [
+        0.190000027,
+        2.22,
+        0.6487354
+      ],
+      "min": [
+        -0.210000008,
+        -1.1920929E-07,
+        -1.09123552
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2233704,
+      "componentType": 5126,
+      "count": 384,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1485552,
+      "componentType": 5126,
+      "count": 384,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1488624,
+      "componentType": 5126,
+      "count": 384,
+      "type": "VEC2",
+      "name": "accessorUV2s"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 424608,
+      "componentType": 5123,
+      "count": 468,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2238312,
+      "componentType": 5126,
+      "count": 312,
+      "max": [
+        0.190000117,
+        1.08499992,
+        0.6237062
+      ],
+      "min": [
+        -0.210000038,
+        0.0299999416,
+        -1.05620611
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2242056,
+      "componentType": 5126,
+      "count": 312,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1491696,
+      "componentType": 5126,
+      "count": 312,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1494192,
+      "componentType": 5126,
+      "count": 312,
+      "type": "VEC2",
+      "name": "accessorUV2s"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 425544,
+      "componentType": 5123,
+      "count": 108,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2245800,
+      "componentType": 5126,
+      "count": 72,
+      "max": [
+        -0.19,
+        2.18475151,
+        0.6237062
+      ],
+      "min": [
+        -0.210000038,
+        1.11408329,
+        -1.05620611
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2246664,
+      "componentType": 5126,
+      "count": 72,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1496688,
+      "componentType": 5126,
+      "count": 72,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1497264,
+      "componentType": 5126,
+      "count": 72,
+      "type": "VEC2",
+      "name": "accessorUV2s"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 425760,
+      "componentType": 5123,
+      "count": 84,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2247528,
+      "componentType": 5126,
+      "count": 48,
+      "max": [
+        0.238847613,
+        0.683038056,
+        0.0115778614
+      ],
+      "min": [
+        -0.238847673,
+        -1.49011612E-07,
+        -1.05705112E-07
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2248104,
+      "componentType": 5126,
+      "count": 48,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1497840,
+      "componentType": 5126,
+      "count": 48,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1498224,
+      "componentType": 5126,
+      "count": 48,
+      "type": "VEC2",
+      "name": "accessorUV2s"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 425928,
+      "componentType": 5123,
+      "count": 6,
+      "type": "SCALAR",
+      "name": "accessorIndices"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2248680,
+      "componentType": 5126,
+      "count": 4,
+      "max": [
+        0.219920039,
+        0.6641763,
+        0.0077888947
+      ],
+      "min": [
+        -0.219916463,
+        0.0188616216,
+        0.00778882857
+      ],
+      "type": "VEC3",
+      "name": "accessorPositions"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2248728,
+      "componentType": 5126,
+      "count": 4,
+      "type": "VEC3",
+      "name": "accessorNormals"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1498608,
+      "componentType": 5126,
+      "count": 4,
+      "type": "VEC2",
+      "name": "accessorUVs"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1498640,
+      "componentType": 5126,
+      "count": 4,
       "type": "VEC2",
       "name": "accessorUV2s"
     }
@@ -14918,26 +15505,26 @@
   "bufferViews": [
     {
       "buffer": 0,
-      "byteLength": 409224,
+      "byteLength": 425940,
       "name": "bufferViewScalar"
     },
     {
       "buffer": 0,
-      "byteOffset": 409224,
-      "byteLength": 2091984,
+      "byteOffset": 425940,
+      "byteLength": 2248776,
       "byteStride": 12,
       "name": "bufferViewFloatVec3"
     },
     {
       "buffer": 0,
-      "byteOffset": 2501208,
-      "byteLength": 1394144,
+      "byteOffset": 2674716,
+      "byteLength": 1498672,
       "byteStride": 8,
       "name": "bufferViewFloatVec2"
     },
     {
       "buffer": 0,
-      "byteOffset": 3895352,
+      "byteOffset": 4173388,
       "byteLength": 770352,
       "byteStride": 16,
       "name": "bufferViewFloatVec4"
@@ -14946,7 +15533,7 @@
   "buffers": [
     {
       "uri": "1h.bin",
-      "byteLength": 4665704
+      "byteLength": 4943740
     }
   ],
   "materials": [
@@ -15451,7 +16038,83 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-8_comp_light.jpg",
+          "name": "Lightmap-9_comp_light.jpg",
+          "level": 1.0,
+          "hasAlpha": true,
+          "getAlphaFromRGB": false,
+          "coordinatesMode": 0,
+          "isCube": false,
+          "uOffset": 0.0,
+          "vOffset": 0.0,
+          "uScale": 1.0,
+          "vScale": 1.0,
+          "uRotationCenter": 0.5,
+          "vRotationCenter": 0.5,
+          "wRotationCenter": 0.5,
+          "invertY": false,
+          "uAng": 0.0,
+          "vAng": 0.0,
+          "wAng": 0.0,
+          "wrapU": 1,
+          "wrapV": 1,
+          "coordinatesIndex": 1,
+          "isRenderTarget": false,
+          "renderTargetSize": 0,
+          "mirrorPlane": null,
+          "renderList": null,
+          "animations": [],
+          "extensions": null,
+          "samplingMode": 3
+        },
+        "babylonSeparateCullingPass": false
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 11,
+          "extensions": {
+            "KHR_texture_transform": {
+              "offset": [
+                -0.333500028,
+                -0.333500028
+              ],
+              "scale": [
+                1.667,
+                1.667
+              ],
+              "texCoord": 0
+            }
+          }
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.0
+      },
+      "normalTexture": {
+        "index": 10,
+        "extensions": {
+          "KHR_texture_transform": {
+            "offset": [
+              -0.333500028,
+              -0.333500028
+            ],
+            "scale": [
+              1.667,
+              1.667
+            ],
+            "texCoord": 0
+          }
+        }
+      },
+      "name": "ceiling_office",
+      "extras": {
+        "directIntensity": 2.1,
+        "emissiveIntensity": 1.0,
+        "environmentIntensity": 0.0,
+        "specularIntensity": 1.0,
+        "cameraContrast": 1.0,
+        "lightmapTexture": {
+          "name": "Lightmap-9_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -15528,82 +16191,6 @@
         "cameraContrast": 1.0,
         "lightmapTexture": {
           "name": "Lightmap-8_comp_light.jpg",
-          "level": 1.0,
-          "hasAlpha": true,
-          "getAlphaFromRGB": false,
-          "coordinatesMode": 0,
-          "isCube": false,
-          "uOffset": 0.0,
-          "vOffset": 0.0,
-          "uScale": 1.0,
-          "vScale": 1.0,
-          "uRotationCenter": 0.5,
-          "vRotationCenter": 0.5,
-          "wRotationCenter": 0.5,
-          "invertY": false,
-          "uAng": 0.0,
-          "vAng": 0.0,
-          "wAng": 0.0,
-          "wrapU": 1,
-          "wrapV": 1,
-          "coordinatesIndex": 1,
-          "isRenderTarget": false,
-          "renderTargetSize": 0,
-          "mirrorPlane": null,
-          "renderList": null,
-          "animations": [],
-          "extensions": null,
-          "samplingMode": 3
-        },
-        "babylonSeparateCullingPass": false
-      }
-    },
-    {
-      "pbrMetallicRoughness": {
-        "baseColorTexture": {
-          "index": 11,
-          "extensions": {
-            "KHR_texture_transform": {
-              "offset": [
-                -0.333500028,
-                -0.333500028
-              ],
-              "scale": [
-                1.667,
-                1.667
-              ],
-              "texCoord": 0
-            }
-          }
-        },
-        "metallicFactor": 0.0,
-        "roughnessFactor": 0.0
-      },
-      "normalTexture": {
-        "index": 10,
-        "extensions": {
-          "KHR_texture_transform": {
-            "offset": [
-              -0.333500028,
-              -0.333500028
-            ],
-            "scale": [
-              1.667,
-              1.667
-            ],
-            "texCoord": 0
-          }
-        }
-      },
-      "name": "ceiling_office",
-      "extras": {
-        "directIntensity": 2.1,
-        "emissiveIntensity": 1.0,
-        "environmentIntensity": 0.0,
-        "specularIntensity": 1.0,
-        "cameraContrast": 1.0,
-        "lightmapTexture": {
-          "name": "Lightmap-7_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -15864,7 +16451,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-5_comp_light.jpg",
+          "name": "Lightmap-6_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -15924,127 +16511,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-5_comp_light.jpg",
-          "level": 1.0,
-          "hasAlpha": true,
-          "getAlphaFromRGB": false,
-          "coordinatesMode": 0,
-          "isCube": false,
-          "uOffset": 0.0,
-          "vOffset": 0.0,
-          "uScale": 1.0,
-          "vScale": 1.0,
-          "uRotationCenter": 0.5,
-          "vRotationCenter": 0.5,
-          "wRotationCenter": 0.5,
-          "invertY": false,
-          "uAng": 0.0,
-          "vAng": 0.0,
-          "wAng": 0.0,
-          "wrapU": 1,
-          "wrapV": 1,
-          "coordinatesIndex": 1,
-          "isRenderTarget": false,
-          "renderTargetSize": 0,
-          "mirrorPlane": null,
-          "renderList": null,
-          "animations": [],
-          "extensions": null,
-          "samplingMode": 3
-        }
-      }
-    },
-    {
-      "pbrMetallicRoughness": {
-        "baseColorTexture": {
-          "index": 22,
-          "extensions": {
-            "KHR_texture_transform": {
-              "offset": [
-                0.099999994,
-                0.100000024
-              ],
-              "scale": [
-                0.8,
-                0.8
-              ],
-              "texCoord": 0
-            }
-          }
-        },
-        "metallicFactor": 0.0
-      },
-      "doubleSided": true,
-      "name": "ground_moquette",
-      "extras": {
-        "babylonSeparateCullingPass": false,
-        "directIntensity": 1.3,
-        "emissiveIntensity": 1.0,
-        "environmentIntensity": 0.0,
-        "specularIntensity": 1.0,
-        "cameraContrast": 1.0,
-        "lightmapTexture": {
-          "name": "Lightmap-7_comp_light.jpg",
-          "level": 1.0,
-          "hasAlpha": true,
-          "getAlphaFromRGB": false,
-          "coordinatesMode": 0,
-          "isCube": false,
-          "uOffset": 0.0,
-          "vOffset": 0.0,
-          "uScale": 1.0,
-          "vScale": 1.0,
-          "uRotationCenter": 0.5,
-          "vRotationCenter": 0.5,
-          "wRotationCenter": 0.5,
-          "invertY": false,
-          "uAng": 0.0,
-          "vAng": 0.0,
-          "wAng": 0.0,
-          "wrapU": 1,
-          "wrapV": 1,
-          "coordinatesIndex": 1,
-          "isRenderTarget": false,
-          "renderTargetSize": 0,
-          "mirrorPlane": null,
-          "renderList": null,
-          "animations": [],
-          "extensions": null,
-          "samplingMode": 3
-        }
-      }
-    },
-    {
-      "pbrMetallicRoughness": {
-        "baseColorTexture": {
-          "index": 22,
-          "extensions": {
-            "KHR_texture_transform": {
-              "offset": [
-                0.099999994,
-                0.100000024
-              ],
-              "scale": [
-                0.8,
-                0.8
-              ],
-              "texCoord": 0
-            }
-          }
-        },
-        "metallicFactor": 0.0
-      },
-      "doubleSided": true,
-      "name": "ground_moquette",
-      "extras": {
-        "babylonSeparateCullingPass": false,
-        "directIntensity": 1.3,
-        "emissiveIntensity": 1.0,
-        "environmentIntensity": 0.0,
-        "specularIntensity": 1.0,
-        "cameraContrast": 1.0,
-        "lightmapTexture": {
-          "name": "Lightmap-7_comp_light.jpg",
+          "name": "Lightmap-6_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -16137,16 +16604,16 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 1,
+          "index": 22,
           "extensions": {
             "KHR_texture_transform": {
               "offset": [
-                2.98023224E-08,
-                -0.4000001
+                0.099999994,
+                0.100000024
               ],
               "scale": [
-                2.4,
-                2.4
+                0.8,
+                0.8
               ],
               "texCoord": 0
             }
@@ -16154,33 +16621,77 @@
         },
         "metallicFactor": 0.0
       },
-      "normalTexture": {
-        "index": 0,
-        "scale": 2.0,
-        "extensions": {
-          "KHR_texture_transform": {
-            "offset": [
-              -0.700000048,
-              -0.700000048
-            ],
-            "scale": [
-              2.4,
-              2.4
-            ],
-            "texCoord": 0
-          }
-        }
-      },
-      "name": "paint_indoor_white",
+      "doubleSided": true,
+      "name": "ground_moquette",
       "extras": {
         "babylonSeparateCullingPass": false,
-        "directIntensity": 1.5,
+        "directIntensity": 1.3,
         "emissiveIntensity": 1.0,
         "environmentIntensity": 0.0,
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-11_comp_light.jpg",
+          "name": "Lightmap-8_comp_light.jpg",
+          "level": 1.0,
+          "hasAlpha": true,
+          "getAlphaFromRGB": false,
+          "coordinatesMode": 0,
+          "isCube": false,
+          "uOffset": 0.0,
+          "vOffset": 0.0,
+          "uScale": 1.0,
+          "vScale": 1.0,
+          "uRotationCenter": 0.5,
+          "vRotationCenter": 0.5,
+          "wRotationCenter": 0.5,
+          "invertY": false,
+          "uAng": 0.0,
+          "vAng": 0.0,
+          "wAng": 0.0,
+          "wrapU": 1,
+          "wrapV": 1,
+          "coordinatesIndex": 1,
+          "isRenderTarget": false,
+          "renderTargetSize": 0,
+          "mirrorPlane": null,
+          "renderList": null,
+          "animations": [],
+          "extensions": null,
+          "samplingMode": 3
+        }
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 22,
+          "extensions": {
+            "KHR_texture_transform": {
+              "offset": [
+                0.099999994,
+                0.100000024
+              ],
+              "scale": [
+                0.8,
+                0.8
+              ],
+              "texCoord": 0
+            }
+          }
+        },
+        "metallicFactor": 0.0
+      },
+      "doubleSided": true,
+      "name": "ground_moquette",
+      "extras": {
+        "babylonSeparateCullingPass": false,
+        "directIntensity": 1.3,
+        "emissiveIntensity": 1.0,
+        "environmentIntensity": 0.0,
+        "specularIntensity": 1.0,
+        "cameraContrast": 1.0,
+        "lightmapTexture": {
+          "name": "Lightmap-9_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -16256,7 +16767,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-11_comp_light.jpg",
+          "name": "Lightmap-12_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -16332,7 +16843,83 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-11_comp_light.jpg",
+          "name": "Lightmap-12_comp_light.jpg",
+          "level": 1.0,
+          "hasAlpha": true,
+          "getAlphaFromRGB": false,
+          "coordinatesMode": 0,
+          "isCube": false,
+          "uOffset": 0.0,
+          "vOffset": 0.0,
+          "uScale": 1.0,
+          "vScale": 1.0,
+          "uRotationCenter": 0.5,
+          "vRotationCenter": 0.5,
+          "wRotationCenter": 0.5,
+          "invertY": false,
+          "uAng": 0.0,
+          "vAng": 0.0,
+          "wAng": 0.0,
+          "wrapU": 1,
+          "wrapV": 1,
+          "coordinatesIndex": 1,
+          "isRenderTarget": false,
+          "renderTargetSize": 0,
+          "mirrorPlane": null,
+          "renderList": null,
+          "animations": [],
+          "extensions": null,
+          "samplingMode": 3
+        }
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 1,
+          "extensions": {
+            "KHR_texture_transform": {
+              "offset": [
+                2.98023224E-08,
+                -0.4000001
+              ],
+              "scale": [
+                2.4,
+                2.4
+              ],
+              "texCoord": 0
+            }
+          }
+        },
+        "metallicFactor": 0.0
+      },
+      "normalTexture": {
+        "index": 0,
+        "scale": 2.0,
+        "extensions": {
+          "KHR_texture_transform": {
+            "offset": [
+              -0.700000048,
+              -0.700000048
+            ],
+            "scale": [
+              2.4,
+              2.4
+            ],
+            "texCoord": 0
+          }
+        }
+      },
+      "name": "paint_indoor_white",
+      "extras": {
+        "babylonSeparateCullingPass": false,
+        "directIntensity": 1.5,
+        "emissiveIntensity": 1.0,
+        "environmentIntensity": 0.0,
+        "specularIntensity": 1.0,
+        "cameraContrast": 1.0,
+        "lightmapTexture": {
+          "name": "Lightmap-12_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -16702,7 +17289,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-7_comp_light.jpg",
+          "name": "Lightmap-8_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -16778,7 +17365,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-11_comp_light.jpg",
+          "name": "Lightmap-12_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -16854,7 +17441,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-11_comp_light.jpg",
+          "name": "Lightmap-12_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -17370,7 +17957,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-6_comp_light.jpg",
+          "name": "Lightmap-7_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -17670,7 +18257,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-6_comp_light.jpg",
+          "name": "Lightmap-7_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -17718,7 +18305,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-6_comp_light.jpg",
+          "name": "Lightmap-7_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -17766,7 +18353,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-6_comp_light.jpg",
+          "name": "Lightmap-7_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -17817,7 +18404,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-6_comp_light.jpg",
+          "name": "Lightmap-7_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -17867,7 +18454,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-6_comp_light.jpg",
+          "name": "Lightmap-7_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -17919,7 +18506,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-6_comp_light.jpg",
+          "name": "Lightmap-7_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -17969,7 +18556,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-6_comp_light.jpg",
+          "name": "Lightmap-7_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -18020,7 +18607,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-6_comp_light.jpg",
+          "name": "Lightmap-7_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -18065,7 +18652,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-6_comp_light.jpg",
+          "name": "Lightmap-7_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -18115,7 +18702,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-6_comp_light.jpg",
+          "name": "Lightmap-7_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -18167,7 +18754,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-6_comp_light.jpg",
+          "name": "Lightmap-7_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -18218,7 +18805,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-6_comp_light.jpg",
+          "name": "Lightmap-7_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -18269,7 +18856,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-6_comp_light.jpg",
+          "name": "Lightmap-7_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -18320,7 +18907,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-6_comp_light.jpg",
+          "name": "Lightmap-7_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -18371,7 +18958,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-6_comp_light.jpg",
+          "name": "Lightmap-7_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -18419,7 +19006,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-6_comp_light.jpg",
+          "name": "Lightmap-7_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -18470,7 +19057,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-9_comp_light.jpg",
+          "name": "Lightmap-10_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -18518,211 +19105,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-9_comp_light.jpg",
-          "level": 1.0,
-          "hasAlpha": true,
-          "getAlphaFromRGB": false,
-          "coordinatesMode": 0,
-          "isCube": false,
-          "uOffset": 0.0,
-          "vOffset": 0.0,
-          "uScale": 1.0,
-          "vScale": 1.0,
-          "uRotationCenter": 0.5,
-          "vRotationCenter": 0.5,
-          "wRotationCenter": 0.5,
-          "invertY": false,
-          "uAng": 0.0,
-          "vAng": 0.0,
-          "wAng": 0.0,
-          "wrapU": 1,
-          "wrapV": 1,
-          "coordinatesIndex": 1,
-          "isRenderTarget": false,
-          "renderTargetSize": 0,
-          "mirrorPlane": null,
-          "renderList": null,
-          "animations": [],
-          "extensions": null,
-          "samplingMode": 3
-        }
-      }
-    },
-    {
-      "pbrMetallicRoughness": {
-        "baseColorFactor": [
-          0.6117647,
-          0.6117647,
-          0.6117647,
-          1.0
-        ],
-        "metallicFactor": 0.0,
-        "roughnessFactor": 0.5
-      },
-      "doubleSided": true,
-      "name": "base",
-      "extras": {
-        "directIntensity": 1.0,
-        "emissiveIntensity": 1.0,
-        "environmentIntensity": 1.0,
-        "specularIntensity": 1.0,
-        "cameraContrast": 1.0,
-        "lightmapTexture": {
-          "name": "Lightmap-9_comp_light.jpg",
-          "level": 1.0,
-          "hasAlpha": true,
-          "getAlphaFromRGB": false,
-          "coordinatesMode": 0,
-          "isCube": false,
-          "uOffset": 0.0,
-          "vOffset": 0.0,
-          "uScale": 1.0,
-          "vScale": 1.0,
-          "uRotationCenter": 0.5,
-          "vRotationCenter": 0.5,
-          "wRotationCenter": 0.5,
-          "invertY": false,
-          "uAng": 0.0,
-          "vAng": 0.0,
-          "wAng": 0.0,
-          "wrapU": 1,
-          "wrapV": 1,
-          "coordinatesIndex": 1,
-          "isRenderTarget": false,
-          "renderTargetSize": 0,
-          "mirrorPlane": null,
-          "renderList": null,
-          "animations": [],
-          "extensions": null,
-          "samplingMode": 3
-        },
-        "babylonSeparateCullingPass": false
-      }
-    },
-    {
-      "pbrMetallicRoughness": {
-        "baseColorFactor": [
-          0.7,
-          0.7,
-          0.7,
-          0.95
-        ],
-        "metallicFactor": 0.0
-      },
-      "alphaMode": "BLEND",
-      "doubleSided": true,
-      "name": "fabric",
-      "extras": {
-        "babylonSeparateCullingPass": false,
-        "directIntensity": 1.0,
-        "emissiveIntensity": 1.0,
-        "environmentIntensity": 1.0,
-        "specularIntensity": 1.0,
-        "cameraContrast": 1.0,
-        "lightmapTexture": {
-          "name": "Lightmap-9_comp_light.jpg",
-          "level": 1.0,
-          "hasAlpha": true,
-          "getAlphaFromRGB": false,
-          "coordinatesMode": 0,
-          "isCube": false,
-          "uOffset": 0.0,
-          "vOffset": 0.0,
-          "uScale": 1.0,
-          "vScale": 1.0,
-          "uRotationCenter": 0.5,
-          "vRotationCenter": 0.5,
-          "wRotationCenter": 0.5,
-          "invertY": false,
-          "uAng": 0.0,
-          "vAng": 0.0,
-          "wAng": 0.0,
-          "wrapU": 1,
-          "wrapV": 1,
-          "coordinatesIndex": 1,
-          "isRenderTarget": false,
-          "renderTargetSize": 0,
-          "mirrorPlane": null,
-          "renderList": null,
-          "animations": [],
-          "extensions": null,
-          "samplingMode": 3
-        }
-      }
-    },
-    {
-      "pbrMetallicRoughness": {
-        "baseColorFactor": [
-          0.6117647,
-          0.6117647,
-          0.6117647,
-          1.0
-        ],
-        "metallicFactor": 0.0,
-        "roughnessFactor": 0.5
-      },
-      "doubleSided": true,
-      "name": "base",
-      "extras": {
-        "directIntensity": 1.0,
-        "emissiveIntensity": 1.0,
-        "environmentIntensity": 1.0,
-        "specularIntensity": 1.0,
-        "cameraContrast": 1.0,
-        "lightmapTexture": {
-          "name": "Lightmap-11_comp_light.jpg",
-          "level": 1.0,
-          "hasAlpha": true,
-          "getAlphaFromRGB": false,
-          "coordinatesMode": 0,
-          "isCube": false,
-          "uOffset": 0.0,
-          "vOffset": 0.0,
-          "uScale": 1.0,
-          "vScale": 1.0,
-          "uRotationCenter": 0.5,
-          "vRotationCenter": 0.5,
-          "wRotationCenter": 0.5,
-          "invertY": false,
-          "uAng": 0.0,
-          "vAng": 0.0,
-          "wAng": 0.0,
-          "wrapU": 1,
-          "wrapV": 1,
-          "coordinatesIndex": 1,
-          "isRenderTarget": false,
-          "renderTargetSize": 0,
-          "mirrorPlane": null,
-          "renderList": null,
-          "animations": [],
-          "extensions": null,
-          "samplingMode": 3
-        },
-        "babylonSeparateCullingPass": false
-      }
-    },
-    {
-      "pbrMetallicRoughness": {
-        "baseColorFactor": [
-          0.7,
-          0.7,
-          0.7,
-          0.95
-        ],
-        "metallicFactor": 0.0
-      },
-      "alphaMode": "BLEND",
-      "doubleSided": true,
-      "name": "fabric",
-      "extras": {
-        "babylonSeparateCullingPass": false,
-        "directIntensity": 1.0,
-        "emissiveIntensity": 1.0,
-        "environmentIntensity": 1.0,
-        "specularIntensity": 1.0,
-        "cameraContrast": 1.0,
-        "lightmapTexture": {
-          "name": "Lightmap-11_comp_light.jpg",
+          "name": "Lightmap-10_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -18874,7 +19257,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-11_comp_light.jpg",
+          "name": "Lightmap-12_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -18926,7 +19309,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-11_comp_light.jpg",
+          "name": "Lightmap-12_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -18976,7 +19359,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-11_comp_light.jpg",
+          "name": "Lightmap-12_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -19028,7 +19411,211 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-11_comp_light.jpg",
+          "name": "Lightmap-12_comp_light.jpg",
+          "level": 1.0,
+          "hasAlpha": true,
+          "getAlphaFromRGB": false,
+          "coordinatesMode": 0,
+          "isCube": false,
+          "uOffset": 0.0,
+          "vOffset": 0.0,
+          "uScale": 1.0,
+          "vScale": 1.0,
+          "uRotationCenter": 0.5,
+          "vRotationCenter": 0.5,
+          "wRotationCenter": 0.5,
+          "invertY": false,
+          "uAng": 0.0,
+          "vAng": 0.0,
+          "wAng": 0.0,
+          "wrapU": 1,
+          "wrapV": 1,
+          "coordinatesIndex": 1,
+          "isRenderTarget": false,
+          "renderTargetSize": 0,
+          "mirrorPlane": null,
+          "renderList": null,
+          "animations": [],
+          "extensions": null,
+          "samplingMode": 3
+        }
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.6117647,
+          0.6117647,
+          0.6117647,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.5
+      },
+      "doubleSided": true,
+      "name": "base",
+      "extras": {
+        "directIntensity": 1.0,
+        "emissiveIntensity": 1.0,
+        "environmentIntensity": 1.0,
+        "specularIntensity": 1.0,
+        "cameraContrast": 1.0,
+        "lightmapTexture": {
+          "name": "Lightmap-12_comp_light.jpg",
+          "level": 1.0,
+          "hasAlpha": true,
+          "getAlphaFromRGB": false,
+          "coordinatesMode": 0,
+          "isCube": false,
+          "uOffset": 0.0,
+          "vOffset": 0.0,
+          "uScale": 1.0,
+          "vScale": 1.0,
+          "uRotationCenter": 0.5,
+          "vRotationCenter": 0.5,
+          "wRotationCenter": 0.5,
+          "invertY": false,
+          "uAng": 0.0,
+          "vAng": 0.0,
+          "wAng": 0.0,
+          "wrapU": 1,
+          "wrapV": 1,
+          "coordinatesIndex": 1,
+          "isRenderTarget": false,
+          "renderTargetSize": 0,
+          "mirrorPlane": null,
+          "renderList": null,
+          "animations": [],
+          "extensions": null,
+          "samplingMode": 3
+        },
+        "babylonSeparateCullingPass": false
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.7,
+          0.7,
+          0.7,
+          0.95
+        ],
+        "metallicFactor": 0.0
+      },
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "name": "fabric",
+      "extras": {
+        "babylonSeparateCullingPass": false,
+        "directIntensity": 1.0,
+        "emissiveIntensity": 1.0,
+        "environmentIntensity": 1.0,
+        "specularIntensity": 1.0,
+        "cameraContrast": 1.0,
+        "lightmapTexture": {
+          "name": "Lightmap-12_comp_light.jpg",
+          "level": 1.0,
+          "hasAlpha": true,
+          "getAlphaFromRGB": false,
+          "coordinatesMode": 0,
+          "isCube": false,
+          "uOffset": 0.0,
+          "vOffset": 0.0,
+          "uScale": 1.0,
+          "vScale": 1.0,
+          "uRotationCenter": 0.5,
+          "vRotationCenter": 0.5,
+          "wRotationCenter": 0.5,
+          "invertY": false,
+          "uAng": 0.0,
+          "vAng": 0.0,
+          "wAng": 0.0,
+          "wrapU": 1,
+          "wrapV": 1,
+          "coordinatesIndex": 1,
+          "isRenderTarget": false,
+          "renderTargetSize": 0,
+          "mirrorPlane": null,
+          "renderList": null,
+          "animations": [],
+          "extensions": null,
+          "samplingMode": 3
+        }
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.6117647,
+          0.6117647,
+          0.6117647,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.5
+      },
+      "doubleSided": true,
+      "name": "base",
+      "extras": {
+        "directIntensity": 1.0,
+        "emissiveIntensity": 1.0,
+        "environmentIntensity": 1.0,
+        "specularIntensity": 1.0,
+        "cameraContrast": 1.0,
+        "lightmapTexture": {
+          "name": "Lightmap-12_comp_light.jpg",
+          "level": 1.0,
+          "hasAlpha": true,
+          "getAlphaFromRGB": false,
+          "coordinatesMode": 0,
+          "isCube": false,
+          "uOffset": 0.0,
+          "vOffset": 0.0,
+          "uScale": 1.0,
+          "vScale": 1.0,
+          "uRotationCenter": 0.5,
+          "vRotationCenter": 0.5,
+          "wRotationCenter": 0.5,
+          "invertY": false,
+          "uAng": 0.0,
+          "vAng": 0.0,
+          "wAng": 0.0,
+          "wrapU": 1,
+          "wrapV": 1,
+          "coordinatesIndex": 1,
+          "isRenderTarget": false,
+          "renderTargetSize": 0,
+          "mirrorPlane": null,
+          "renderList": null,
+          "animations": [],
+          "extensions": null,
+          "samplingMode": 3
+        },
+        "babylonSeparateCullingPass": false
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.7,
+          0.7,
+          0.7,
+          0.95
+        ],
+        "metallicFactor": 0.0
+      },
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "name": "fabric",
+      "extras": {
+        "babylonSeparateCullingPass": false,
+        "directIntensity": 1.0,
+        "emissiveIntensity": 1.0,
+        "environmentIntensity": 1.0,
+        "specularIntensity": 1.0,
+        "cameraContrast": 1.0,
+        "lightmapTexture": {
+          "name": "Lightmap-12_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -19079,7 +19666,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-11_comp_light.jpg",
+          "name": "Lightmap-4_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -19127,7 +19714,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-11_comp_light.jpg",
+          "name": "Lightmap-4_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -19178,7 +19765,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-8_comp_light.jpg",
+          "name": "Lightmap-9_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -19226,7 +19813,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-8_comp_light.jpg",
+          "name": "Lightmap-9_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -19376,7 +19963,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-11_comp_light.jpg",
+          "name": "Lightmap-12_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -19424,7 +20011,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-11_comp_light.jpg",
+          "name": "Lightmap-12_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -19466,7 +20053,7 @@
         "roughnessFactor": 0.5
       },
       "doubleSided": true,
-      "name": "Material #17",
+      "name": "Material #37464",
       "extras": {
         "babylonSeparateCullingPass": false,
         "directIntensity": 1.0,
@@ -19475,7 +20062,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-11_comp_light.jpg",
+          "name": "Lightmap-6_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -19508,13 +20095,13 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 48
+          "index": 49
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
       },
       "doubleSided": true,
-      "name": "Material #15",
+      "name": "Material #37462",
       "extras": {
         "babylonSeparateCullingPass": false,
         "directIntensity": 1.0,
@@ -19523,7 +20110,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-11_comp_light.jpg",
+          "name": "Lightmap-6_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -19574,7 +20161,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-9_comp_light.jpg",
+          "name": "Lightmap-10_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -19625,7 +20212,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-9_comp_light.jpg",
+          "name": "Lightmap-10_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -19676,7 +20263,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-9_comp_light.jpg",
+          "name": "Lightmap-10_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -19727,7 +20314,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-9_comp_light.jpg",
+          "name": "Lightmap-10_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -19772,7 +20359,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-9_comp_light.jpg",
+          "name": "Lightmap-10_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -19823,7 +20410,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-9_comp_light.jpg",
+          "name": "Lightmap-10_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -19907,7 +20494,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 49
+          "index": 50
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -20102,7 +20689,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 50
+          "index": 51
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.44
@@ -20168,7 +20755,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-8_comp_light.jpg",
+          "name": "Lightmap-9_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -20201,7 +20788,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 49
+          "index": 50
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -20216,7 +20803,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-8_comp_light.jpg",
+          "name": "Lightmap-9_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -20267,7 +20854,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-8_comp_light.jpg",
+          "name": "Lightmap-9_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -20318,7 +20905,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-8_comp_light.jpg",
+          "name": "Lightmap-9_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -20363,7 +20950,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-8_comp_light.jpg",
+          "name": "Lightmap-9_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -20396,7 +20983,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 50
+          "index": 51
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.44
@@ -20411,7 +20998,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-8_comp_light.jpg",
+          "name": "Lightmap-9_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -20462,7 +21049,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-9_comp_light.jpg",
+          "name": "Lightmap-5_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -20495,12 +21082,12 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 52
+          "index": 53
         },
         "metallicFactor": 0.0
       },
       "normalTexture": {
-        "index": 51
+        "index": 52
       },
       "doubleSided": true,
       "name": "Material #19",
@@ -20511,7 +21098,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-9_comp_light.jpg",
+          "name": "Lightmap-5_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -20545,7 +21132,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 53
+          "index": 54
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.85
@@ -20559,7 +21146,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-9_comp_light.jpg",
+          "name": "Lightmap-5_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -20610,7 +21197,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-9_comp_light.jpg",
+          "name": "Lightmap-5_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -20655,7 +21242,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-9_comp_light.jpg",
+          "name": "Lightmap-5_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -20689,7 +21276,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 54
+          "index": 55
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -20704,7 +21291,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-9_comp_light.jpg",
+          "name": "Lightmap-5_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -20737,7 +21324,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 55
+          "index": 56
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -20752,7 +21339,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-9_comp_light.jpg",
+          "name": "Lightmap-5_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -20794,7 +21381,7 @@
         "roughnessFactor": 0.9
       },
       "normalTexture": {
-        "index": 56,
+        "index": 57,
         "scale": 0.3,
         "extensions": {
           "KHR_texture_transform": {
@@ -20817,7 +21404,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-9_comp_light.jpg",
+          "name": "Lightmap-5_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -20868,7 +21455,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-9_comp_light.jpg",
+          "name": "Lightmap-5_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -20919,7 +21506,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-9_comp_light.jpg",
+          "name": "Lightmap-5_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -20970,7 +21557,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-9_comp_light.jpg",
+          "name": "Lightmap-5_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -21021,7 +21608,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-10_comp_light.jpg",
+          "name": "Lightmap-11_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -21054,12 +21641,12 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 52
+          "index": 53
         },
         "metallicFactor": 0.0
       },
       "normalTexture": {
-        "index": 51
+        "index": 52
       },
       "doubleSided": true,
       "name": "Material #19",
@@ -21070,7 +21657,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-10_comp_light.jpg",
+          "name": "Lightmap-11_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -21104,7 +21691,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 53
+          "index": 54
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.85
@@ -21118,7 +21705,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-10_comp_light.jpg",
+          "name": "Lightmap-11_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -21169,7 +21756,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-10_comp_light.jpg",
+          "name": "Lightmap-11_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -21214,7 +21801,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-10_comp_light.jpg",
+          "name": "Lightmap-11_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -21248,7 +21835,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 54
+          "index": 55
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -21263,7 +21850,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-10_comp_light.jpg",
+          "name": "Lightmap-11_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -21296,7 +21883,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 55
+          "index": 56
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -21311,7 +21898,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-10_comp_light.jpg",
+          "name": "Lightmap-11_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -21353,7 +21940,7 @@
         "roughnessFactor": 0.9
       },
       "normalTexture": {
-        "index": 56,
+        "index": 57,
         "scale": 0.3,
         "extensions": {
           "KHR_texture_transform": {
@@ -21376,7 +21963,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-10_comp_light.jpg",
+          "name": "Lightmap-11_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -21427,7 +22014,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-10_comp_light.jpg",
+          "name": "Lightmap-11_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -21478,7 +22065,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-10_comp_light.jpg",
+          "name": "Lightmap-11_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -21529,7 +22116,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-10_comp_light.jpg",
+          "name": "Lightmap-11_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -21580,7 +22167,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-9_comp_light.jpg",
+          "name": "Lightmap-10_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -21613,12 +22200,12 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 52
+          "index": 53
         },
         "metallicFactor": 0.0
       },
       "normalTexture": {
-        "index": 51
+        "index": 52
       },
       "doubleSided": true,
       "name": "Material #19",
@@ -21629,151 +22216,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-9_comp_light.jpg",
-          "level": 1.0,
-          "hasAlpha": true,
-          "getAlphaFromRGB": false,
-          "coordinatesMode": 0,
-          "isCube": false,
-          "uOffset": 0.0,
-          "vOffset": 0.0,
-          "uScale": 1.0,
-          "vScale": 1.0,
-          "uRotationCenter": 0.5,
-          "vRotationCenter": 0.5,
-          "wRotationCenter": 0.5,
-          "invertY": false,
-          "uAng": 0.0,
-          "vAng": 0.0,
-          "wAng": 0.0,
-          "wrapU": 1,
-          "wrapV": 1,
-          "coordinatesIndex": 1,
-          "isRenderTarget": false,
-          "renderTargetSize": 0,
-          "mirrorPlane": null,
-          "renderList": null,
-          "animations": [],
-          "extensions": null,
-          "samplingMode": 3
-        },
-        "babylonSeparateCullingPass": false
-      }
-    },
-    {
-      "pbrMetallicRoughness": {
-        "baseColorTexture": {
-          "index": 53
-        },
-        "metallicFactor": 0.0,
-        "roughnessFactor": 0.85
-      },
-      "doubleSided": true,
-      "name": "Material #16",
-      "extras": {
-        "directIntensity": 1.0,
-        "emissiveIntensity": 1.0,
-        "environmentIntensity": 1.0,
-        "specularIntensity": 1.0,
-        "cameraContrast": 1.0,
-        "lightmapTexture": {
-          "name": "Lightmap-9_comp_light.jpg",
-          "level": 1.0,
-          "hasAlpha": true,
-          "getAlphaFromRGB": false,
-          "coordinatesMode": 0,
-          "isCube": false,
-          "uOffset": 0.0,
-          "vOffset": 0.0,
-          "uScale": 1.0,
-          "vScale": 1.0,
-          "uRotationCenter": 0.5,
-          "vRotationCenter": 0.5,
-          "wRotationCenter": 0.5,
-          "invertY": false,
-          "uAng": 0.0,
-          "vAng": 0.0,
-          "wAng": 0.0,
-          "wrapU": 1,
-          "wrapV": 1,
-          "coordinatesIndex": 1,
-          "isRenderTarget": false,
-          "renderTargetSize": 0,
-          "mirrorPlane": null,
-          "renderList": null,
-          "animations": [],
-          "extensions": null,
-          "samplingMode": 3
-        },
-        "babylonSeparateCullingPass": false
-      }
-    },
-    {
-      "pbrMetallicRoughness": {
-        "baseColorFactor": [
-          0.10071943,
-          0.10071943,
-          0.10071943,
-          1.0
-        ],
-        "metallicFactor": 0.0,
-        "roughnessFactor": 0.9
-      },
-      "doubleSided": true,
-      "name": "Material #47",
-      "extras": {
-        "directIntensity": 1.0,
-        "emissiveIntensity": 1.0,
-        "environmentIntensity": 1.0,
-        "specularIntensity": 1.0,
-        "cameraContrast": 1.0,
-        "lightmapTexture": {
-          "name": "Lightmap-9_comp_light.jpg",
-          "level": 1.0,
-          "hasAlpha": true,
-          "getAlphaFromRGB": false,
-          "coordinatesMode": 0,
-          "isCube": false,
-          "uOffset": 0.0,
-          "vOffset": 0.0,
-          "uScale": 1.0,
-          "vScale": 1.0,
-          "uRotationCenter": 0.5,
-          "vRotationCenter": 0.5,
-          "wRotationCenter": 0.5,
-          "invertY": false,
-          "uAng": 0.0,
-          "vAng": 0.0,
-          "wAng": 0.0,
-          "wrapU": 1,
-          "wrapV": 1,
-          "coordinatesIndex": 1,
-          "isRenderTarget": false,
-          "renderTargetSize": 0,
-          "mirrorPlane": null,
-          "renderList": null,
-          "animations": [],
-          "extensions": null,
-          "samplingMode": 3
-        },
-        "babylonSeparateCullingPass": false
-      }
-    },
-    {
-      "pbrMetallicRoughness": {
-        "metallicFactor": 0.8,
-        "roughnessFactor": 0.3
-      },
-      "doubleSided": true,
-      "name": "base",
-      "extras": {
-        "directIntensity": 1.0,
-        "emissiveIntensity": 1.0,
-        "environmentIntensity": 1.0,
-        "specularIntensity": 1.0,
-        "cameraContrast": 1.0,
-        "lightmapTexture": {
-          "name": "Lightmap-9_comp_light.jpg",
+          "name": "Lightmap-10_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -21808,421 +22251,6 @@
       "pbrMetallicRoughness": {
         "baseColorTexture": {
           "index": 54
-        },
-        "metallicFactor": 0.0,
-        "roughnessFactor": 0.5
-      },
-      "doubleSided": true,
-      "name": "Material #9375",
-      "extras": {
-        "babylonSeparateCullingPass": false,
-        "directIntensity": 1.0,
-        "emissiveIntensity": 1.0,
-        "environmentIntensity": 1.0,
-        "specularIntensity": 1.0,
-        "cameraContrast": 1.0,
-        "lightmapTexture": {
-          "name": "Lightmap-9_comp_light.jpg",
-          "level": 1.0,
-          "hasAlpha": true,
-          "getAlphaFromRGB": false,
-          "coordinatesMode": 0,
-          "isCube": false,
-          "uOffset": 0.0,
-          "vOffset": 0.0,
-          "uScale": 1.0,
-          "vScale": 1.0,
-          "uRotationCenter": 0.5,
-          "vRotationCenter": 0.5,
-          "wRotationCenter": 0.5,
-          "invertY": false,
-          "uAng": 0.0,
-          "vAng": 0.0,
-          "wAng": 0.0,
-          "wrapU": 1,
-          "wrapV": 1,
-          "coordinatesIndex": 1,
-          "isRenderTarget": false,
-          "renderTargetSize": 0,
-          "mirrorPlane": null,
-          "renderList": null,
-          "animations": [],
-          "extensions": null,
-          "samplingMode": 3
-        }
-      }
-    },
-    {
-      "pbrMetallicRoughness": {
-        "baseColorTexture": {
-          "index": 55
-        },
-        "metallicFactor": 0.0,
-        "roughnessFactor": 0.5
-      },
-      "doubleSided": true,
-      "name": "Material #9374",
-      "extras": {
-        "babylonSeparateCullingPass": false,
-        "directIntensity": 1.0,
-        "emissiveIntensity": 1.0,
-        "environmentIntensity": 1.0,
-        "specularIntensity": 1.0,
-        "cameraContrast": 1.0,
-        "lightmapTexture": {
-          "name": "Lightmap-9_comp_light.jpg",
-          "level": 1.0,
-          "hasAlpha": true,
-          "getAlphaFromRGB": false,
-          "coordinatesMode": 0,
-          "isCube": false,
-          "uOffset": 0.0,
-          "vOffset": 0.0,
-          "uScale": 1.0,
-          "vScale": 1.0,
-          "uRotationCenter": 0.5,
-          "vRotationCenter": 0.5,
-          "wRotationCenter": 0.5,
-          "invertY": false,
-          "uAng": 0.0,
-          "vAng": 0.0,
-          "wAng": 0.0,
-          "wrapU": 1,
-          "wrapV": 1,
-          "coordinatesIndex": 1,
-          "isRenderTarget": false,
-          "renderTargetSize": 0,
-          "mirrorPlane": null,
-          "renderList": null,
-          "animations": [],
-          "extensions": null,
-          "samplingMode": 3
-        }
-      }
-    },
-    {
-      "pbrMetallicRoughness": {
-        "baseColorFactor": [
-          0.697841763,
-          0.697841763,
-          0.697841763,
-          1.0
-        ],
-        "metallicFactor": 0.0,
-        "roughnessFactor": 0.9
-      },
-      "normalTexture": {
-        "index": 56,
-        "scale": 0.3,
-        "extensions": {
-          "KHR_texture_transform": {
-            "offset": [
-              0.50000006,
-              -0.207106829
-            ],
-            "rotation": -0.7853982,
-            "texCoord": 0
-          }
-        }
-      },
-      "doubleSided": true,
-      "name": "Material #9377",
-      "extras": {
-        "babylonSeparateCullingPass": false,
-        "directIntensity": 1.0,
-        "emissiveIntensity": 1.0,
-        "environmentIntensity": 1.0,
-        "specularIntensity": 1.0,
-        "cameraContrast": 1.0,
-        "lightmapTexture": {
-          "name": "Lightmap-9_comp_light.jpg",
-          "level": 1.0,
-          "hasAlpha": true,
-          "getAlphaFromRGB": false,
-          "coordinatesMode": 0,
-          "isCube": false,
-          "uOffset": 0.0,
-          "vOffset": 0.0,
-          "uScale": 1.0,
-          "vScale": 1.0,
-          "uRotationCenter": 0.5,
-          "vRotationCenter": 0.5,
-          "wRotationCenter": 0.5,
-          "invertY": false,
-          "uAng": 0.0,
-          "vAng": 0.0,
-          "wAng": 0.0,
-          "wrapU": 1,
-          "wrapV": 1,
-          "coordinatesIndex": 1,
-          "isRenderTarget": false,
-          "renderTargetSize": 0,
-          "mirrorPlane": null,
-          "renderList": null,
-          "animations": [],
-          "extensions": null,
-          "samplingMode": 3
-        }
-      }
-    },
-    {
-      "pbrMetallicRoughness": {
-        "baseColorFactor": [
-          0.8980392,
-          0.8980392,
-          0.8980392,
-          1.0
-        ],
-        "metallicFactor": 0.5,
-        "roughnessFactor": 0.8
-      },
-      "doubleSided": true,
-      "name": "Material #9379",
-      "extras": {
-        "babylonSeparateCullingPass": false,
-        "directIntensity": 1.0,
-        "emissiveIntensity": 1.0,
-        "environmentIntensity": 1.0,
-        "specularIntensity": 1.0,
-        "cameraContrast": 1.0,
-        "lightmapTexture": {
-          "name": "Lightmap-9_comp_light.jpg",
-          "level": 1.0,
-          "hasAlpha": true,
-          "getAlphaFromRGB": false,
-          "coordinatesMode": 0,
-          "isCube": false,
-          "uOffset": 0.0,
-          "vOffset": 0.0,
-          "uScale": 1.0,
-          "vScale": 1.0,
-          "uRotationCenter": 0.5,
-          "vRotationCenter": 0.5,
-          "wRotationCenter": 0.5,
-          "invertY": false,
-          "uAng": 0.0,
-          "vAng": 0.0,
-          "wAng": 0.0,
-          "wrapU": 1,
-          "wrapV": 1,
-          "coordinatesIndex": 1,
-          "isRenderTarget": false,
-          "renderTargetSize": 0,
-          "mirrorPlane": null,
-          "renderList": null,
-          "animations": [],
-          "extensions": null,
-          "samplingMode": 3
-        }
-      }
-    },
-    {
-      "pbrMetallicRoughness": {
-        "baseColorFactor": [
-          0.705036,
-          0.705036,
-          0.705036,
-          1.0
-        ],
-        "metallicFactor": 0.55,
-        "roughnessFactor": 0.4
-      },
-      "doubleSided": true,
-      "name": "Material #9380",
-      "extras": {
-        "babylonSeparateCullingPass": false,
-        "directIntensity": 1.0,
-        "emissiveIntensity": 1.0,
-        "environmentIntensity": 1.0,
-        "specularIntensity": 1.0,
-        "cameraContrast": 1.0,
-        "lightmapTexture": {
-          "name": "Lightmap-9_comp_light.jpg",
-          "level": 1.0,
-          "hasAlpha": true,
-          "getAlphaFromRGB": false,
-          "coordinatesMode": 0,
-          "isCube": false,
-          "uOffset": 0.0,
-          "vOffset": 0.0,
-          "uScale": 1.0,
-          "vScale": 1.0,
-          "uRotationCenter": 0.5,
-          "vRotationCenter": 0.5,
-          "wRotationCenter": 0.5,
-          "invertY": false,
-          "uAng": 0.0,
-          "vAng": 0.0,
-          "wAng": 0.0,
-          "wrapU": 1,
-          "wrapV": 1,
-          "coordinatesIndex": 1,
-          "isRenderTarget": false,
-          "renderTargetSize": 0,
-          "mirrorPlane": null,
-          "renderList": null,
-          "animations": [],
-          "extensions": null,
-          "samplingMode": 3
-        }
-      }
-    },
-    {
-      "pbrMetallicRoughness": {
-        "baseColorFactor": [
-          0.235294119,
-          0.235294119,
-          0.235294119,
-          1.0
-        ],
-        "metallicFactor": 0.25,
-        "roughnessFactor": 0.3
-      },
-      "doubleSided": true,
-      "name": "Material #9381",
-      "extras": {
-        "babylonSeparateCullingPass": false,
-        "directIntensity": 1.0,
-        "emissiveIntensity": 1.0,
-        "environmentIntensity": 1.0,
-        "specularIntensity": 1.0,
-        "cameraContrast": 1.0,
-        "lightmapTexture": {
-          "name": "Lightmap-9_comp_light.jpg",
-          "level": 1.0,
-          "hasAlpha": true,
-          "getAlphaFromRGB": false,
-          "coordinatesMode": 0,
-          "isCube": false,
-          "uOffset": 0.0,
-          "vOffset": 0.0,
-          "uScale": 1.0,
-          "vScale": 1.0,
-          "uRotationCenter": 0.5,
-          "vRotationCenter": 0.5,
-          "wRotationCenter": 0.5,
-          "invertY": false,
-          "uAng": 0.0,
-          "vAng": 0.0,
-          "wAng": 0.0,
-          "wrapU": 1,
-          "wrapV": 1,
-          "coordinatesIndex": 1,
-          "isRenderTarget": false,
-          "renderTargetSize": 0,
-          "mirrorPlane": null,
-          "renderList": null,
-          "animations": [],
-          "extensions": null,
-          "samplingMode": 3
-        }
-      }
-    },
-    {
-      "pbrMetallicRoughness": {
-        "baseColorFactor": [
-          0.841726661,
-          0.841726661,
-          0.841726661,
-          1.0
-        ],
-        "metallicFactor": 0.0,
-        "roughnessFactor": 0.7
-      },
-      "doubleSided": true,
-      "name": "Material #9376",
-      "extras": {
-        "babylonSeparateCullingPass": false,
-        "directIntensity": 1.0,
-        "emissiveIntensity": 1.0,
-        "environmentIntensity": 1.0,
-        "specularIntensity": 1.0,
-        "cameraContrast": 1.0,
-        "lightmapTexture": {
-          "name": "Lightmap-10_comp_light.jpg",
-          "level": 1.0,
-          "hasAlpha": true,
-          "getAlphaFromRGB": false,
-          "coordinatesMode": 0,
-          "isCube": false,
-          "uOffset": 0.0,
-          "vOffset": 0.0,
-          "uScale": 1.0,
-          "vScale": 1.0,
-          "uRotationCenter": 0.5,
-          "vRotationCenter": 0.5,
-          "wRotationCenter": 0.5,
-          "invertY": false,
-          "uAng": 0.0,
-          "vAng": 0.0,
-          "wAng": 0.0,
-          "wrapU": 1,
-          "wrapV": 1,
-          "coordinatesIndex": 1,
-          "isRenderTarget": false,
-          "renderTargetSize": 0,
-          "mirrorPlane": null,
-          "renderList": null,
-          "animations": [],
-          "extensions": null,
-          "samplingMode": 3
-        }
-      }
-    },
-    {
-      "pbrMetallicRoughness": {
-        "baseColorTexture": {
-          "index": 52
-        },
-        "metallicFactor": 0.0
-      },
-      "normalTexture": {
-        "index": 51
-      },
-      "doubleSided": true,
-      "name": "Material #19",
-      "extras": {
-        "directIntensity": 1.0,
-        "emissiveIntensity": 1.0,
-        "environmentIntensity": 1.0,
-        "specularIntensity": 1.0,
-        "cameraContrast": 1.0,
-        "lightmapTexture": {
-          "name": "Lightmap-10_comp_light.jpg",
-          "level": 1.0,
-          "hasAlpha": true,
-          "getAlphaFromRGB": false,
-          "coordinatesMode": 0,
-          "isCube": false,
-          "uOffset": 0.0,
-          "vOffset": 0.0,
-          "uScale": 1.0,
-          "vScale": 1.0,
-          "uRotationCenter": 0.5,
-          "vRotationCenter": 0.5,
-          "wRotationCenter": 0.5,
-          "invertY": false,
-          "uAng": 0.0,
-          "vAng": 0.0,
-          "wAng": 0.0,
-          "wrapU": 1,
-          "wrapV": 1,
-          "coordinatesIndex": 1,
-          "isRenderTarget": false,
-          "renderTargetSize": 0,
-          "mirrorPlane": null,
-          "renderList": null,
-          "animations": [],
-          "extensions": null,
-          "samplingMode": 3
-        },
-        "babylonSeparateCullingPass": false
-      }
-    },
-    {
-      "pbrMetallicRoughness": {
-        "baseColorTexture": {
-          "index": 53
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.85
@@ -22366,7 +22394,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 54
+          "index": 55
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -22414,7 +22442,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 55
+          "index": 56
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -22471,7 +22499,7 @@
         "roughnessFactor": 0.9
       },
       "normalTexture": {
-        "index": 56,
+        "index": 57,
         "scale": 0.3,
         "extensions": {
           "KHR_texture_transform": {
@@ -22731,12 +22759,12 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 52
+          "index": 53
         },
         "metallicFactor": 0.0
       },
       "normalTexture": {
-        "index": 51
+        "index": 52
       },
       "doubleSided": true,
       "name": "Material #19",
@@ -22781,7 +22809,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 53
+          "index": 54
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.85
@@ -22925,7 +22953,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 54
+          "index": 55
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -22973,7 +23001,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 55
+          "index": 56
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -23030,7 +23058,7 @@
         "roughnessFactor": 0.9
       },
       "normalTexture": {
-        "index": 56,
+        "index": 57,
         "scale": 0.3,
         "extensions": {
           "KHR_texture_transform": {
@@ -23257,7 +23285,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-10_comp_light.jpg",
+          "name": "Lightmap-11_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -23290,12 +23318,12 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 52
+          "index": 53
         },
         "metallicFactor": 0.0
       },
       "normalTexture": {
-        "index": 51
+        "index": 52
       },
       "doubleSided": true,
       "name": "Material #19",
@@ -23306,7 +23334,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-10_comp_light.jpg",
+          "name": "Lightmap-11_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -23340,7 +23368,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 53
+          "index": 54
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.85
@@ -23354,7 +23382,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-10_comp_light.jpg",
+          "name": "Lightmap-11_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -23405,7 +23433,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-10_comp_light.jpg",
+          "name": "Lightmap-11_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -23450,7 +23478,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-10_comp_light.jpg",
+          "name": "Lightmap-11_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -23484,7 +23512,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 54
+          "index": 55
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -23499,7 +23527,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-10_comp_light.jpg",
+          "name": "Lightmap-11_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -23532,7 +23560,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 55
+          "index": 56
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -23547,7 +23575,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-10_comp_light.jpg",
+          "name": "Lightmap-11_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -23589,7 +23617,7 @@
         "roughnessFactor": 0.9
       },
       "normalTexture": {
-        "index": 56,
+        "index": 57,
         "scale": 0.3,
         "extensions": {
           "KHR_texture_transform": {
@@ -23612,7 +23640,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-10_comp_light.jpg",
+          "name": "Lightmap-11_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -23663,7 +23691,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-10_comp_light.jpg",
+          "name": "Lightmap-11_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -23714,7 +23742,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-10_comp_light.jpg",
+          "name": "Lightmap-11_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -23765,7 +23793,58 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-10_comp_light.jpg",
+          "name": "Lightmap-11_comp_light.jpg",
+          "level": 1.0,
+          "hasAlpha": true,
+          "getAlphaFromRGB": false,
+          "coordinatesMode": 0,
+          "isCube": false,
+          "uOffset": 0.0,
+          "vOffset": 0.0,
+          "uScale": 1.0,
+          "vScale": 1.0,
+          "uRotationCenter": 0.5,
+          "vRotationCenter": 0.5,
+          "wRotationCenter": 0.5,
+          "invertY": false,
+          "uAng": 0.0,
+          "vAng": 0.0,
+          "wAng": 0.0,
+          "wrapU": 1,
+          "wrapV": 1,
+          "coordinatesIndex": 1,
+          "isRenderTarget": false,
+          "renderTargetSize": 0,
+          "mirrorPlane": null,
+          "renderList": null,
+          "animations": [],
+          "extensions": null,
+          "samplingMode": 3
+        }
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.841726661,
+          0.841726661,
+          0.841726661,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.7
+      },
+      "doubleSided": true,
+      "name": "Material #9376",
+      "extras": {
+        "babylonSeparateCullingPass": false,
+        "directIntensity": 1.0,
+        "emissiveIntensity": 1.0,
+        "environmentIntensity": 1.0,
+        "specularIntensity": 1.0,
+        "cameraContrast": 1.0,
+        "lightmapTexture": {
+          "name": "Lightmap-11_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -23798,13 +23877,473 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 62
+          "index": 53
         },
         "metallicFactor": 0.0
       },
-      "alphaMode": "BLEND",
+      "normalTexture": {
+        "index": 52
+      },
       "doubleSided": true,
-      "name": "Material #34125",
+      "name": "Material #19",
+      "extras": {
+        "directIntensity": 1.0,
+        "emissiveIntensity": 1.0,
+        "environmentIntensity": 1.0,
+        "specularIntensity": 1.0,
+        "cameraContrast": 1.0,
+        "lightmapTexture": {
+          "name": "Lightmap-11_comp_light.jpg",
+          "level": 1.0,
+          "hasAlpha": true,
+          "getAlphaFromRGB": false,
+          "coordinatesMode": 0,
+          "isCube": false,
+          "uOffset": 0.0,
+          "vOffset": 0.0,
+          "uScale": 1.0,
+          "vScale": 1.0,
+          "uRotationCenter": 0.5,
+          "vRotationCenter": 0.5,
+          "wRotationCenter": 0.5,
+          "invertY": false,
+          "uAng": 0.0,
+          "vAng": 0.0,
+          "wAng": 0.0,
+          "wrapU": 1,
+          "wrapV": 1,
+          "coordinatesIndex": 1,
+          "isRenderTarget": false,
+          "renderTargetSize": 0,
+          "mirrorPlane": null,
+          "renderList": null,
+          "animations": [],
+          "extensions": null,
+          "samplingMode": 3
+        },
+        "babylonSeparateCullingPass": false
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 54
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.85
+      },
+      "doubleSided": true,
+      "name": "Material #16",
+      "extras": {
+        "directIntensity": 1.0,
+        "emissiveIntensity": 1.0,
+        "environmentIntensity": 1.0,
+        "specularIntensity": 1.0,
+        "cameraContrast": 1.0,
+        "lightmapTexture": {
+          "name": "Lightmap-11_comp_light.jpg",
+          "level": 1.0,
+          "hasAlpha": true,
+          "getAlphaFromRGB": false,
+          "coordinatesMode": 0,
+          "isCube": false,
+          "uOffset": 0.0,
+          "vOffset": 0.0,
+          "uScale": 1.0,
+          "vScale": 1.0,
+          "uRotationCenter": 0.5,
+          "vRotationCenter": 0.5,
+          "wRotationCenter": 0.5,
+          "invertY": false,
+          "uAng": 0.0,
+          "vAng": 0.0,
+          "wAng": 0.0,
+          "wrapU": 1,
+          "wrapV": 1,
+          "coordinatesIndex": 1,
+          "isRenderTarget": false,
+          "renderTargetSize": 0,
+          "mirrorPlane": null,
+          "renderList": null,
+          "animations": [],
+          "extensions": null,
+          "samplingMode": 3
+        },
+        "babylonSeparateCullingPass": false
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.10071943,
+          0.10071943,
+          0.10071943,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9
+      },
+      "doubleSided": true,
+      "name": "Material #47",
+      "extras": {
+        "directIntensity": 1.0,
+        "emissiveIntensity": 1.0,
+        "environmentIntensity": 1.0,
+        "specularIntensity": 1.0,
+        "cameraContrast": 1.0,
+        "lightmapTexture": {
+          "name": "Lightmap-11_comp_light.jpg",
+          "level": 1.0,
+          "hasAlpha": true,
+          "getAlphaFromRGB": false,
+          "coordinatesMode": 0,
+          "isCube": false,
+          "uOffset": 0.0,
+          "vOffset": 0.0,
+          "uScale": 1.0,
+          "vScale": 1.0,
+          "uRotationCenter": 0.5,
+          "vRotationCenter": 0.5,
+          "wRotationCenter": 0.5,
+          "invertY": false,
+          "uAng": 0.0,
+          "vAng": 0.0,
+          "wAng": 0.0,
+          "wrapU": 1,
+          "wrapV": 1,
+          "coordinatesIndex": 1,
+          "isRenderTarget": false,
+          "renderTargetSize": 0,
+          "mirrorPlane": null,
+          "renderList": null,
+          "animations": [],
+          "extensions": null,
+          "samplingMode": 3
+        },
+        "babylonSeparateCullingPass": false
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0.8,
+        "roughnessFactor": 0.3
+      },
+      "doubleSided": true,
+      "name": "base",
+      "extras": {
+        "directIntensity": 1.0,
+        "emissiveIntensity": 1.0,
+        "environmentIntensity": 1.0,
+        "specularIntensity": 1.0,
+        "cameraContrast": 1.0,
+        "lightmapTexture": {
+          "name": "Lightmap-11_comp_light.jpg",
+          "level": 1.0,
+          "hasAlpha": true,
+          "getAlphaFromRGB": false,
+          "coordinatesMode": 0,
+          "isCube": false,
+          "uOffset": 0.0,
+          "vOffset": 0.0,
+          "uScale": 1.0,
+          "vScale": 1.0,
+          "uRotationCenter": 0.5,
+          "vRotationCenter": 0.5,
+          "wRotationCenter": 0.5,
+          "invertY": false,
+          "uAng": 0.0,
+          "vAng": 0.0,
+          "wAng": 0.0,
+          "wrapU": 1,
+          "wrapV": 1,
+          "coordinatesIndex": 1,
+          "isRenderTarget": false,
+          "renderTargetSize": 0,
+          "mirrorPlane": null,
+          "renderList": null,
+          "animations": [],
+          "extensions": null,
+          "samplingMode": 3
+        },
+        "babylonSeparateCullingPass": false
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 55
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.5
+      },
+      "doubleSided": true,
+      "name": "Material #9375",
+      "extras": {
+        "babylonSeparateCullingPass": false,
+        "directIntensity": 1.0,
+        "emissiveIntensity": 1.0,
+        "environmentIntensity": 1.0,
+        "specularIntensity": 1.0,
+        "cameraContrast": 1.0,
+        "lightmapTexture": {
+          "name": "Lightmap-11_comp_light.jpg",
+          "level": 1.0,
+          "hasAlpha": true,
+          "getAlphaFromRGB": false,
+          "coordinatesMode": 0,
+          "isCube": false,
+          "uOffset": 0.0,
+          "vOffset": 0.0,
+          "uScale": 1.0,
+          "vScale": 1.0,
+          "uRotationCenter": 0.5,
+          "vRotationCenter": 0.5,
+          "wRotationCenter": 0.5,
+          "invertY": false,
+          "uAng": 0.0,
+          "vAng": 0.0,
+          "wAng": 0.0,
+          "wrapU": 1,
+          "wrapV": 1,
+          "coordinatesIndex": 1,
+          "isRenderTarget": false,
+          "renderTargetSize": 0,
+          "mirrorPlane": null,
+          "renderList": null,
+          "animations": [],
+          "extensions": null,
+          "samplingMode": 3
+        }
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 56
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.5
+      },
+      "doubleSided": true,
+      "name": "Material #9374",
+      "extras": {
+        "babylonSeparateCullingPass": false,
+        "directIntensity": 1.0,
+        "emissiveIntensity": 1.0,
+        "environmentIntensity": 1.0,
+        "specularIntensity": 1.0,
+        "cameraContrast": 1.0,
+        "lightmapTexture": {
+          "name": "Lightmap-11_comp_light.jpg",
+          "level": 1.0,
+          "hasAlpha": true,
+          "getAlphaFromRGB": false,
+          "coordinatesMode": 0,
+          "isCube": false,
+          "uOffset": 0.0,
+          "vOffset": 0.0,
+          "uScale": 1.0,
+          "vScale": 1.0,
+          "uRotationCenter": 0.5,
+          "vRotationCenter": 0.5,
+          "wRotationCenter": 0.5,
+          "invertY": false,
+          "uAng": 0.0,
+          "vAng": 0.0,
+          "wAng": 0.0,
+          "wrapU": 1,
+          "wrapV": 1,
+          "coordinatesIndex": 1,
+          "isRenderTarget": false,
+          "renderTargetSize": 0,
+          "mirrorPlane": null,
+          "renderList": null,
+          "animations": [],
+          "extensions": null,
+          "samplingMode": 3
+        }
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.697841763,
+          0.697841763,
+          0.697841763,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9
+      },
+      "normalTexture": {
+        "index": 57,
+        "scale": 0.3,
+        "extensions": {
+          "KHR_texture_transform": {
+            "offset": [
+              0.50000006,
+              -0.207106829
+            ],
+            "rotation": -0.7853982,
+            "texCoord": 0
+          }
+        }
+      },
+      "doubleSided": true,
+      "name": "Material #9377",
+      "extras": {
+        "babylonSeparateCullingPass": false,
+        "directIntensity": 1.0,
+        "emissiveIntensity": 1.0,
+        "environmentIntensity": 1.0,
+        "specularIntensity": 1.0,
+        "cameraContrast": 1.0,
+        "lightmapTexture": {
+          "name": "Lightmap-11_comp_light.jpg",
+          "level": 1.0,
+          "hasAlpha": true,
+          "getAlphaFromRGB": false,
+          "coordinatesMode": 0,
+          "isCube": false,
+          "uOffset": 0.0,
+          "vOffset": 0.0,
+          "uScale": 1.0,
+          "vScale": 1.0,
+          "uRotationCenter": 0.5,
+          "vRotationCenter": 0.5,
+          "wRotationCenter": 0.5,
+          "invertY": false,
+          "uAng": 0.0,
+          "vAng": 0.0,
+          "wAng": 0.0,
+          "wrapU": 1,
+          "wrapV": 1,
+          "coordinatesIndex": 1,
+          "isRenderTarget": false,
+          "renderTargetSize": 0,
+          "mirrorPlane": null,
+          "renderList": null,
+          "animations": [],
+          "extensions": null,
+          "samplingMode": 3
+        }
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8980392,
+          0.8980392,
+          0.8980392,
+          1.0
+        ],
+        "metallicFactor": 0.5,
+        "roughnessFactor": 0.8
+      },
+      "doubleSided": true,
+      "name": "Material #9379",
+      "extras": {
+        "babylonSeparateCullingPass": false,
+        "directIntensity": 1.0,
+        "emissiveIntensity": 1.0,
+        "environmentIntensity": 1.0,
+        "specularIntensity": 1.0,
+        "cameraContrast": 1.0,
+        "lightmapTexture": {
+          "name": "Lightmap-11_comp_light.jpg",
+          "level": 1.0,
+          "hasAlpha": true,
+          "getAlphaFromRGB": false,
+          "coordinatesMode": 0,
+          "isCube": false,
+          "uOffset": 0.0,
+          "vOffset": 0.0,
+          "uScale": 1.0,
+          "vScale": 1.0,
+          "uRotationCenter": 0.5,
+          "vRotationCenter": 0.5,
+          "wRotationCenter": 0.5,
+          "invertY": false,
+          "uAng": 0.0,
+          "vAng": 0.0,
+          "wAng": 0.0,
+          "wrapU": 1,
+          "wrapV": 1,
+          "coordinatesIndex": 1,
+          "isRenderTarget": false,
+          "renderTargetSize": 0,
+          "mirrorPlane": null,
+          "renderList": null,
+          "animations": [],
+          "extensions": null,
+          "samplingMode": 3
+        }
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.705036,
+          0.705036,
+          0.705036,
+          1.0
+        ],
+        "metallicFactor": 0.55,
+        "roughnessFactor": 0.4
+      },
+      "doubleSided": true,
+      "name": "Material #9380",
+      "extras": {
+        "babylonSeparateCullingPass": false,
+        "directIntensity": 1.0,
+        "emissiveIntensity": 1.0,
+        "environmentIntensity": 1.0,
+        "specularIntensity": 1.0,
+        "cameraContrast": 1.0,
+        "lightmapTexture": {
+          "name": "Lightmap-11_comp_light.jpg",
+          "level": 1.0,
+          "hasAlpha": true,
+          "getAlphaFromRGB": false,
+          "coordinatesMode": 0,
+          "isCube": false,
+          "uOffset": 0.0,
+          "vOffset": 0.0,
+          "uScale": 1.0,
+          "vScale": 1.0,
+          "uRotationCenter": 0.5,
+          "vRotationCenter": 0.5,
+          "wRotationCenter": 0.5,
+          "invertY": false,
+          "uAng": 0.0,
+          "vAng": 0.0,
+          "wAng": 0.0,
+          "wrapU": 1,
+          "wrapV": 1,
+          "coordinatesIndex": 1,
+          "isRenderTarget": false,
+          "renderTargetSize": 0,
+          "mirrorPlane": null,
+          "renderList": null,
+          "animations": [],
+          "extensions": null,
+          "samplingMode": 3
+        }
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.235294119,
+          0.235294119,
+          0.235294119,
+          1.0
+        ],
+        "metallicFactor": 0.25,
+        "roughnessFactor": 0.3
+      },
+      "doubleSided": true,
+      "name": "Material #9381",
       "extras": {
         "babylonSeparateCullingPass": false,
         "directIntensity": 1.0,
@@ -23848,11 +24387,11 @@
         "baseColorTexture": {
           "index": 63
         },
-        "metallicFactor": 0.0,
-        "roughnessFactor": 0.2
+        "metallicFactor": 0.0
       },
+      "alphaMode": "BLEND",
       "doubleSided": true,
-      "name": "Material #34007",
+      "name": "Material #34125",
       "extras": {
         "babylonSeparateCullingPass": false,
         "directIntensity": 1.0,
@@ -23861,7 +24400,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-11_comp_light.jpg",
+          "name": "Lightmap-12_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -23897,6 +24436,54 @@
           "index": 64
         },
         "metallicFactor": 0.0,
+        "roughnessFactor": 0.2
+      },
+      "doubleSided": true,
+      "name": "Material #34007",
+      "extras": {
+        "babylonSeparateCullingPass": false,
+        "directIntensity": 1.0,
+        "emissiveIntensity": 1.0,
+        "environmentIntensity": 1.0,
+        "specularIntensity": 1.0,
+        "cameraContrast": 1.0,
+        "lightmapTexture": {
+          "name": "Lightmap-12_comp_light.jpg",
+          "level": 1.0,
+          "hasAlpha": true,
+          "getAlphaFromRGB": false,
+          "coordinatesMode": 0,
+          "isCube": false,
+          "uOffset": 0.0,
+          "vOffset": 0.0,
+          "uScale": 1.0,
+          "vScale": 1.0,
+          "uRotationCenter": 0.5,
+          "vRotationCenter": 0.5,
+          "wRotationCenter": 0.5,
+          "invertY": false,
+          "uAng": 0.0,
+          "vAng": 0.0,
+          "wAng": 0.0,
+          "wrapU": 1,
+          "wrapV": 1,
+          "coordinatesIndex": 1,
+          "isRenderTarget": false,
+          "renderTargetSize": 0,
+          "mirrorPlane": null,
+          "renderList": null,
+          "animations": [],
+          "extensions": null,
+          "samplingMode": 3
+        }
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 65
+        },
+        "metallicFactor": 0.0,
         "roughnessFactor": 0.8
       },
       "doubleSided": true,
@@ -23909,7 +24496,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-11_comp_light.jpg",
+          "name": "Lightmap-12_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -23960,7 +24547,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-11_comp_light.jpg",
+          "name": "Lightmap-12_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -24011,7 +24598,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-11_comp_light.jpg",
+          "name": "Lightmap-12_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -24062,7 +24649,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-11_comp_light.jpg",
+          "name": "Lightmap-12_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -24107,7 +24694,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-11_comp_light.jpg",
+          "name": "Lightmap-12_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -24158,7 +24745,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-11_comp_light.jpg",
+          "name": "Lightmap-12_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -24209,55 +24796,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-11_comp_light.jpg",
-          "level": 1.0,
-          "hasAlpha": true,
-          "getAlphaFromRGB": false,
-          "coordinatesMode": 0,
-          "isCube": false,
-          "uOffset": 0.0,
-          "vOffset": 0.0,
-          "uScale": 1.0,
-          "vScale": 1.0,
-          "uRotationCenter": 0.5,
-          "vRotationCenter": 0.5,
-          "wRotationCenter": 0.5,
-          "invertY": false,
-          "uAng": 0.0,
-          "vAng": 0.0,
-          "wAng": 0.0,
-          "wrapU": 1,
-          "wrapV": 1,
-          "coordinatesIndex": 1,
-          "isRenderTarget": false,
-          "renderTargetSize": 0,
-          "mirrorPlane": null,
-          "renderList": null,
-          "animations": [],
-          "extensions": null,
-          "samplingMode": 3
-        }
-      }
-    },
-    {
-      "pbrMetallicRoughness": {
-        "baseColorTexture": {
-          "index": 65
-        },
-        "metallicFactor": 0.0,
-        "roughnessFactor": 0.0
-      },
-      "doubleSided": true,
-      "name": "Material #32",
-      "extras": {
-        "babylonSeparateCullingPass": false,
-        "directIntensity": 1.0,
-        "emissiveIntensity": 1.0,
-        "environmentIntensity": 1.0,
-        "specularIntensity": 1.0,
-        "cameraContrast": 1.0,
-        "lightmapTexture": {
-          "name": "Lightmap-11_comp_light.jpg",
+          "name": "Lightmap-12_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -24296,6 +24835,54 @@
         "roughnessFactor": 0.0
       },
       "doubleSided": true,
+      "name": "Material #32",
+      "extras": {
+        "babylonSeparateCullingPass": false,
+        "directIntensity": 1.0,
+        "emissiveIntensity": 1.0,
+        "environmentIntensity": 1.0,
+        "specularIntensity": 1.0,
+        "cameraContrast": 1.0,
+        "lightmapTexture": {
+          "name": "Lightmap-12_comp_light.jpg",
+          "level": 1.0,
+          "hasAlpha": true,
+          "getAlphaFromRGB": false,
+          "coordinatesMode": 0,
+          "isCube": false,
+          "uOffset": 0.0,
+          "vOffset": 0.0,
+          "uScale": 1.0,
+          "vScale": 1.0,
+          "uRotationCenter": 0.5,
+          "vRotationCenter": 0.5,
+          "wRotationCenter": 0.5,
+          "invertY": false,
+          "uAng": 0.0,
+          "vAng": 0.0,
+          "wAng": 0.0,
+          "wrapU": 1,
+          "wrapV": 1,
+          "coordinatesIndex": 1,
+          "isRenderTarget": false,
+          "renderTargetSize": 0,
+          "mirrorPlane": null,
+          "renderList": null,
+          "animations": [],
+          "extensions": null,
+          "samplingMode": 3
+        }
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 67
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.0
+      },
+      "doubleSided": true,
       "name": "Material #33",
       "extras": {
         "babylonSeparateCullingPass": false,
@@ -24305,7 +24892,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-11_comp_light.jpg",
+          "name": "Lightmap-12_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -24337,12 +24924,9 @@
     },
     {
       "pbrMetallicRoughness": {
-        "baseColorFactor": [
-          0.674,
-          0.749,
-          0.772,
-          1.0
-        ],
+        "baseColorTexture": {
+          "index": 35
+        },
         "metallicFactor": 0.0
       },
       "doubleSided": true,
@@ -24438,7 +25022,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 67
+          "index": 68
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.8
@@ -24649,349 +25233,6 @@
         "cameraContrast": 1.0,
         "lightmapTexture": {
           "name": "Lightmap-3_comp_light.jpg",
-          "level": 1.0,
-          "hasAlpha": true,
-          "getAlphaFromRGB": false,
-          "coordinatesMode": 0,
-          "isCube": false,
-          "uOffset": 0.0,
-          "vOffset": 0.0,
-          "uScale": 1.0,
-          "vScale": 1.0,
-          "uRotationCenter": 0.5,
-          "vRotationCenter": 0.5,
-          "wRotationCenter": 0.5,
-          "invertY": false,
-          "uAng": 0.0,
-          "vAng": 0.0,
-          "wAng": 0.0,
-          "wrapU": 1,
-          "wrapV": 1,
-          "coordinatesIndex": 1,
-          "isRenderTarget": false,
-          "renderTargetSize": 0,
-          "mirrorPlane": null,
-          "renderList": null,
-          "animations": [],
-          "extensions": null,
-          "samplingMode": 3
-        }
-      }
-    },
-    {
-      "pbrMetallicRoughness": {
-        "baseColorFactor": [
-          0.674,
-          0.749,
-          0.772,
-          1.0
-        ],
-        "metallicFactor": 0.0
-      },
-      "doubleSided": true,
-      "name": "Material #14",
-      "extras": {
-        "babylonSeparateCullingPass": false,
-        "directIntensity": 1.0,
-        "emissiveIntensity": 1.0,
-        "environmentIntensity": 1.0,
-        "specularIntensity": 1.0,
-        "cameraContrast": 1.0,
-        "lightmapTexture": {
-          "name": "Lightmap-4_comp_light.jpg",
-          "level": 1.0,
-          "hasAlpha": true,
-          "getAlphaFromRGB": false,
-          "coordinatesMode": 0,
-          "isCube": false,
-          "uOffset": 0.0,
-          "vOffset": 0.0,
-          "uScale": 1.0,
-          "vScale": 1.0,
-          "uRotationCenter": 0.5,
-          "vRotationCenter": 0.5,
-          "wRotationCenter": 0.5,
-          "invertY": false,
-          "uAng": 0.0,
-          "vAng": 0.0,
-          "wAng": 0.0,
-          "wrapU": 1,
-          "wrapV": 1,
-          "coordinatesIndex": 1,
-          "isRenderTarget": false,
-          "renderTargetSize": 0,
-          "mirrorPlane": null,
-          "renderList": null,
-          "animations": [],
-          "extensions": null,
-          "samplingMode": 3
-        }
-      }
-    },
-    {
-      "pbrMetallicRoughness": {
-        "baseColorFactor": [
-          0.733333349,
-          0.733333349,
-          0.733333349,
-          1.0
-        ],
-        "metallicFactor": 0.0
-      },
-      "doubleSided": true,
-      "name": "Material #17",
-      "extras": {
-        "babylonSeparateCullingPass": false,
-        "directIntensity": 1.0,
-        "emissiveIntensity": 1.0,
-        "environmentIntensity": 1.0,
-        "specularIntensity": 1.0,
-        "cameraContrast": 1.0,
-        "lightmapTexture": {
-          "name": "Lightmap-4_comp_light.jpg",
-          "level": 1.0,
-          "hasAlpha": true,
-          "getAlphaFromRGB": false,
-          "coordinatesMode": 0,
-          "isCube": false,
-          "uOffset": 0.0,
-          "vOffset": 0.0,
-          "uScale": 1.0,
-          "vScale": 1.0,
-          "uRotationCenter": 0.5,
-          "vRotationCenter": 0.5,
-          "wRotationCenter": 0.5,
-          "invertY": false,
-          "uAng": 0.0,
-          "vAng": 0.0,
-          "wAng": 0.0,
-          "wrapU": 1,
-          "wrapV": 1,
-          "coordinatesIndex": 1,
-          "isRenderTarget": false,
-          "renderTargetSize": 0,
-          "mirrorPlane": null,
-          "renderList": null,
-          "animations": [],
-          "extensions": null,
-          "samplingMode": 3
-        }
-      }
-    },
-    {
-      "pbrMetallicRoughness": {
-        "baseColorTexture": {
-          "index": 67
-        },
-        "metallicFactor": 0.0,
-        "roughnessFactor": 0.8
-      },
-      "doubleSided": true,
-      "name": "Material #124",
-      "extras": {
-        "babylonSeparateCullingPass": false,
-        "directIntensity": 1.0,
-        "emissiveIntensity": 1.0,
-        "environmentIntensity": 1.0,
-        "specularIntensity": 1.0,
-        "cameraContrast": 1.0,
-        "lightmapTexture": {
-          "name": "Lightmap-4_comp_light.jpg",
-          "level": 1.0,
-          "hasAlpha": true,
-          "getAlphaFromRGB": false,
-          "coordinatesMode": 0,
-          "isCube": false,
-          "uOffset": 0.0,
-          "vOffset": 0.0,
-          "uScale": 1.0,
-          "vScale": 1.0,
-          "uRotationCenter": 0.5,
-          "vRotationCenter": 0.5,
-          "wRotationCenter": 0.5,
-          "invertY": false,
-          "uAng": 0.0,
-          "vAng": 0.0,
-          "wAng": 0.0,
-          "wrapU": 1,
-          "wrapV": 1,
-          "coordinatesIndex": 1,
-          "isRenderTarget": false,
-          "renderTargetSize": 0,
-          "mirrorPlane": null,
-          "renderList": null,
-          "animations": [],
-          "extensions": null,
-          "samplingMode": 3
-        }
-      }
-    },
-    {
-      "pbrMetallicRoughness": {
-        "baseColorFactor": [
-          0.733333349,
-          0.258513182,
-          0.258513182,
-          1.0
-        ],
-        "metallicFactor": 0.0
-      },
-      "doubleSided": true,
-      "name": "Material #125",
-      "extras": {
-        "babylonSeparateCullingPass": false,
-        "directIntensity": 1.0,
-        "emissiveIntensity": 1.0,
-        "environmentIntensity": 1.0,
-        "specularIntensity": 1.0,
-        "cameraContrast": 1.0,
-        "lightmapTexture": {
-          "name": "Lightmap-4_comp_light.jpg",
-          "level": 1.0,
-          "hasAlpha": true,
-          "getAlphaFromRGB": false,
-          "coordinatesMode": 0,
-          "isCube": false,
-          "uOffset": 0.0,
-          "vOffset": 0.0,
-          "uScale": 1.0,
-          "vScale": 1.0,
-          "uRotationCenter": 0.5,
-          "vRotationCenter": 0.5,
-          "wRotationCenter": 0.5,
-          "invertY": false,
-          "uAng": 0.0,
-          "vAng": 0.0,
-          "wAng": 0.0,
-          "wrapU": 1,
-          "wrapV": 1,
-          "coordinatesIndex": 1,
-          "isRenderTarget": false,
-          "renderTargetSize": 0,
-          "mirrorPlane": null,
-          "renderList": null,
-          "animations": [],
-          "extensions": null,
-          "samplingMode": 3
-        }
-      }
-    },
-    {
-      "pbrMetallicRoughness": {
-        "metallicFactor": 0.0
-      },
-      "doubleSided": true,
-      "name": "Material #126",
-      "extras": {
-        "babylonSeparateCullingPass": false,
-        "directIntensity": 1.0,
-        "emissiveIntensity": 1.0,
-        "environmentIntensity": 1.0,
-        "specularIntensity": 1.0,
-        "cameraContrast": 1.0,
-        "lightmapTexture": {
-          "name": "Lightmap-4_comp_light.jpg",
-          "level": 1.0,
-          "hasAlpha": true,
-          "getAlphaFromRGB": false,
-          "coordinatesMode": 0,
-          "isCube": false,
-          "uOffset": 0.0,
-          "vOffset": 0.0,
-          "uScale": 1.0,
-          "vScale": 1.0,
-          "uRotationCenter": 0.5,
-          "vRotationCenter": 0.5,
-          "wRotationCenter": 0.5,
-          "invertY": false,
-          "uAng": 0.0,
-          "vAng": 0.0,
-          "wAng": 0.0,
-          "wrapU": 1,
-          "wrapV": 1,
-          "coordinatesIndex": 1,
-          "isRenderTarget": false,
-          "renderTargetSize": 0,
-          "mirrorPlane": null,
-          "renderList": null,
-          "animations": [],
-          "extensions": null,
-          "samplingMode": 3
-        }
-      }
-    },
-    {
-      "pbrMetallicRoughness": {
-        "baseColorFactor": [
-          0.109760709,
-          0.225560889,
-          0.316546768,
-          1.0
-        ],
-        "metallicFactor": 0.0
-      },
-      "doubleSided": true,
-      "name": "Material #127",
-      "extras": {
-        "babylonSeparateCullingPass": false,
-        "directIntensity": 1.0,
-        "emissiveIntensity": 1.0,
-        "environmentIntensity": 1.0,
-        "specularIntensity": 1.0,
-        "cameraContrast": 1.0,
-        "lightmapTexture": {
-          "name": "Lightmap-4_comp_light.jpg",
-          "level": 1.0,
-          "hasAlpha": true,
-          "getAlphaFromRGB": false,
-          "coordinatesMode": 0,
-          "isCube": false,
-          "uOffset": 0.0,
-          "vOffset": 0.0,
-          "uScale": 1.0,
-          "vScale": 1.0,
-          "uRotationCenter": 0.5,
-          "vRotationCenter": 0.5,
-          "wRotationCenter": 0.5,
-          "invertY": false,
-          "uAng": 0.0,
-          "vAng": 0.0,
-          "wAng": 0.0,
-          "wrapU": 1,
-          "wrapV": 1,
-          "coordinatesIndex": 1,
-          "isRenderTarget": false,
-          "renderTargetSize": 0,
-          "mirrorPlane": null,
-          "renderList": null,
-          "animations": [],
-          "extensions": null,
-          "samplingMode": 3
-        }
-      }
-    },
-    {
-      "pbrMetallicRoughness": {
-        "baseColorFactor": [
-          0.7490196,
-          0.7490196,
-          0.7490196,
-          1.0
-        ],
-        "metallicFactor": 0.8,
-        "roughnessFactor": 0.4
-      },
-      "doubleSided": true,
-      "name": "Material #128",
-      "extras": {
-        "babylonSeparateCullingPass": false,
-        "directIntensity": 1.0,
-        "emissiveIntensity": 1.0,
-        "environmentIntensity": 1.0,
-        "specularIntensity": 1.0,
-        "cameraContrast": 1.0,
-        "lightmapTexture": {
-          "name": "Lightmap-4_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -25041,7 +25282,7 @@
         "specularIntensity": 1.0,
         "cameraContrast": 1.0,
         "lightmapTexture": {
-          "name": "Lightmap-11_comp_light.jpg",
+          "name": "Lightmap-12_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -25075,7 +25316,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 68
+          "index": 69
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -25137,7 +25378,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 64
+          "index": 65
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -25185,7 +25426,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 69
+          "index": 70
         },
         "metallicFactor": 0.0
       },
@@ -25201,6 +25442,753 @@
         "cameraContrast": 1.0,
         "lightmapTexture": {
           "name": "Lightmap-5_comp_light.jpg",
+          "level": 1.0,
+          "hasAlpha": true,
+          "getAlphaFromRGB": false,
+          "coordinatesMode": 0,
+          "isCube": false,
+          "uOffset": 0.0,
+          "vOffset": 0.0,
+          "uScale": 1.0,
+          "vScale": 1.0,
+          "uRotationCenter": 0.5,
+          "vRotationCenter": 0.5,
+          "wRotationCenter": 0.5,
+          "invertY": false,
+          "uAng": 0.0,
+          "vAng": 0.0,
+          "wAng": 0.0,
+          "wrapU": 1,
+          "wrapV": 1,
+          "coordinatesIndex": 1,
+          "isRenderTarget": false,
+          "renderTargetSize": 0,
+          "mirrorPlane": null,
+          "renderList": null,
+          "animations": [],
+          "extensions": null,
+          "samplingMode": 3
+        }
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8745098,
+          0.8745098,
+          0.8745098,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.5
+      },
+      "doubleSided": true,
+      "name": "Material #37466",
+      "extras": {
+        "babylonSeparateCullingPass": false,
+        "directIntensity": 1.0,
+        "emissiveIntensity": 1.0,
+        "environmentIntensity": 1.0,
+        "specularIntensity": 1.0,
+        "cameraContrast": 1.0,
+        "lightmapTexture": {
+          "name": "Lightmap-11_comp_light.jpg",
+          "level": 1.0,
+          "hasAlpha": true,
+          "getAlphaFromRGB": false,
+          "coordinatesMode": 0,
+          "isCube": false,
+          "uOffset": 0.0,
+          "vOffset": 0.0,
+          "uScale": 1.0,
+          "vScale": 1.0,
+          "uRotationCenter": 0.5,
+          "vRotationCenter": 0.5,
+          "wRotationCenter": 0.5,
+          "invertY": false,
+          "uAng": 0.0,
+          "vAng": 0.0,
+          "wAng": 0.0,
+          "wrapU": 1,
+          "wrapV": 1,
+          "coordinatesIndex": 1,
+          "isRenderTarget": false,
+          "renderTargetSize": 0,
+          "mirrorPlane": null,
+          "renderList": null,
+          "animations": [],
+          "extensions": null,
+          "samplingMode": 3
+        }
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 71
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.5
+      },
+      "doubleSided": true,
+      "name": "Material #37467",
+      "extras": {
+        "babylonSeparateCullingPass": false,
+        "directIntensity": 1.0,
+        "emissiveIntensity": 1.0,
+        "environmentIntensity": 1.0,
+        "specularIntensity": 1.0,
+        "cameraContrast": 1.0,
+        "lightmapTexture": {
+          "name": "Lightmap-11_comp_light.jpg",
+          "level": 1.0,
+          "hasAlpha": true,
+          "getAlphaFromRGB": false,
+          "coordinatesMode": 0,
+          "isCube": false,
+          "uOffset": 0.0,
+          "vOffset": 0.0,
+          "uScale": 1.0,
+          "vScale": 1.0,
+          "uRotationCenter": 0.5,
+          "vRotationCenter": 0.5,
+          "wRotationCenter": 0.5,
+          "invertY": false,
+          "uAng": 0.0,
+          "vAng": 0.0,
+          "wAng": 0.0,
+          "wrapU": 1,
+          "wrapV": 1,
+          "coordinatesIndex": 1,
+          "isRenderTarget": false,
+          "renderTargetSize": 0,
+          "mirrorPlane": null,
+          "renderList": null,
+          "animations": [],
+          "extensions": null,
+          "samplingMode": 3
+        }
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8745098,
+          0.8745098,
+          0.8745098,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.5
+      },
+      "doubleSided": true,
+      "name": "Material #37469",
+      "extras": {
+        "babylonSeparateCullingPass": false,
+        "directIntensity": 1.0,
+        "emissiveIntensity": 1.0,
+        "environmentIntensity": 1.0,
+        "specularIntensity": 1.0,
+        "cameraContrast": 1.0,
+        "lightmapTexture": {
+          "name": "Lightmap-4_comp_light.jpg",
+          "level": 1.0,
+          "hasAlpha": true,
+          "getAlphaFromRGB": false,
+          "coordinatesMode": 0,
+          "isCube": false,
+          "uOffset": 0.0,
+          "vOffset": 0.0,
+          "uScale": 1.0,
+          "vScale": 1.0,
+          "uRotationCenter": 0.5,
+          "vRotationCenter": 0.5,
+          "wRotationCenter": 0.5,
+          "invertY": false,
+          "uAng": 0.0,
+          "vAng": 0.0,
+          "wAng": 0.0,
+          "wrapU": 1,
+          "wrapV": 1,
+          "coordinatesIndex": 1,
+          "isRenderTarget": false,
+          "renderTargetSize": 0,
+          "mirrorPlane": null,
+          "renderList": null,
+          "animations": [],
+          "extensions": null,
+          "samplingMode": 3
+        }
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 72
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.5
+      },
+      "doubleSided": true,
+      "name": "Material #37470",
+      "extras": {
+        "babylonSeparateCullingPass": false,
+        "directIntensity": 1.0,
+        "emissiveIntensity": 1.0,
+        "environmentIntensity": 1.0,
+        "specularIntensity": 1.0,
+        "cameraContrast": 1.0,
+        "lightmapTexture": {
+          "name": "Lightmap-4_comp_light.jpg",
+          "level": 1.0,
+          "hasAlpha": true,
+          "getAlphaFromRGB": false,
+          "coordinatesMode": 0,
+          "isCube": false,
+          "uOffset": 0.0,
+          "vOffset": 0.0,
+          "uScale": 1.0,
+          "vScale": 1.0,
+          "uRotationCenter": 0.5,
+          "vRotationCenter": 0.5,
+          "wRotationCenter": 0.5,
+          "invertY": false,
+          "uAng": 0.0,
+          "vAng": 0.0,
+          "wAng": 0.0,
+          "wrapU": 1,
+          "wrapV": 1,
+          "coordinatesIndex": 1,
+          "isRenderTarget": false,
+          "renderTargetSize": 0,
+          "mirrorPlane": null,
+          "renderList": null,
+          "animations": [],
+          "extensions": null,
+          "samplingMode": 3
+        }
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.772549033,
+          0.772549033,
+          0.772549033,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.4
+      },
+      "doubleSided": true,
+      "name": "Material #40189",
+      "extras": {
+        "babylonSeparateCullingPass": false,
+        "directIntensity": 1.0,
+        "emissiveIntensity": 1.0,
+        "environmentIntensity": 1.0,
+        "specularIntensity": 1.0,
+        "cameraContrast": 1.0,
+        "lightmapTexture": {
+          "name": "Lightmap-5_comp_light.jpg",
+          "level": 1.0,
+          "hasAlpha": true,
+          "getAlphaFromRGB": false,
+          "coordinatesMode": 0,
+          "isCube": false,
+          "uOffset": 0.0,
+          "vOffset": 0.0,
+          "uScale": 1.0,
+          "vScale": 1.0,
+          "uRotationCenter": 0.5,
+          "vRotationCenter": 0.5,
+          "wRotationCenter": 0.5,
+          "invertY": false,
+          "uAng": 0.0,
+          "vAng": 0.0,
+          "wAng": 0.0,
+          "wrapU": 1,
+          "wrapV": 1,
+          "coordinatesIndex": 1,
+          "isRenderTarget": false,
+          "renderTargetSize": 0,
+          "mirrorPlane": null,
+          "renderList": null,
+          "animations": [],
+          "extensions": null,
+          "samplingMode": 3
+        }
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.618705034,
+          0.442531437,
+          0.398488015,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.4
+      },
+      "doubleSided": true,
+      "name": "Material #40187",
+      "extras": {
+        "babylonSeparateCullingPass": false,
+        "directIntensity": 1.0,
+        "emissiveIntensity": 1.0,
+        "environmentIntensity": 1.0,
+        "specularIntensity": 1.0,
+        "cameraContrast": 1.0,
+        "lightmapTexture": {
+          "name": "Lightmap-5_comp_light.jpg",
+          "level": 1.0,
+          "hasAlpha": true,
+          "getAlphaFromRGB": false,
+          "coordinatesMode": 0,
+          "isCube": false,
+          "uOffset": 0.0,
+          "vOffset": 0.0,
+          "uScale": 1.0,
+          "vScale": 1.0,
+          "uRotationCenter": 0.5,
+          "vRotationCenter": 0.5,
+          "wRotationCenter": 0.5,
+          "invertY": false,
+          "uAng": 0.0,
+          "vAng": 0.0,
+          "wAng": 0.0,
+          "wrapU": 1,
+          "wrapV": 1,
+          "coordinatesIndex": 1,
+          "isRenderTarget": false,
+          "renderTargetSize": 0,
+          "mirrorPlane": null,
+          "renderList": null,
+          "animations": [],
+          "extensions": null,
+          "samplingMode": 3
+        }
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.187050343,
+          0.290616333,
+          0.5,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.4
+      },
+      "doubleSided": true,
+      "name": "Material #40188",
+      "extras": {
+        "babylonSeparateCullingPass": false,
+        "directIntensity": 1.0,
+        "emissiveIntensity": 1.0,
+        "environmentIntensity": 1.0,
+        "specularIntensity": 1.0,
+        "cameraContrast": 1.0,
+        "lightmapTexture": {
+          "name": "Lightmap-5_comp_light.jpg",
+          "level": 1.0,
+          "hasAlpha": true,
+          "getAlphaFromRGB": false,
+          "coordinatesMode": 0,
+          "isCube": false,
+          "uOffset": 0.0,
+          "vOffset": 0.0,
+          "uScale": 1.0,
+          "vScale": 1.0,
+          "uRotationCenter": 0.5,
+          "vRotationCenter": 0.5,
+          "wRotationCenter": 0.5,
+          "invertY": false,
+          "uAng": 0.0,
+          "vAng": 0.0,
+          "wAng": 0.0,
+          "wrapU": 1,
+          "wrapV": 1,
+          "coordinatesIndex": 1,
+          "isRenderTarget": false,
+          "renderTargetSize": 0,
+          "mirrorPlane": null,
+          "renderList": null,
+          "animations": [],
+          "extensions": null,
+          "samplingMode": 3
+        }
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.227731481,
+          0.316984624,
+          0.359712243,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.4
+      },
+      "doubleSided": true,
+      "name": "Material #40186",
+      "extras": {
+        "babylonSeparateCullingPass": false,
+        "directIntensity": 1.0,
+        "emissiveIntensity": 1.0,
+        "environmentIntensity": 1.0,
+        "specularIntensity": 1.0,
+        "cameraContrast": 1.0,
+        "lightmapTexture": {
+          "name": "Lightmap-5_comp_light.jpg",
+          "level": 1.0,
+          "hasAlpha": true,
+          "getAlphaFromRGB": false,
+          "coordinatesMode": 0,
+          "isCube": false,
+          "uOffset": 0.0,
+          "vOffset": 0.0,
+          "uScale": 1.0,
+          "vScale": 1.0,
+          "uRotationCenter": 0.5,
+          "vRotationCenter": 0.5,
+          "wRotationCenter": 0.5,
+          "invertY": false,
+          "uAng": 0.0,
+          "vAng": 0.0,
+          "wAng": 0.0,
+          "wrapU": 1,
+          "wrapV": 1,
+          "coordinatesIndex": 1,
+          "isRenderTarget": false,
+          "renderTargetSize": 0,
+          "mirrorPlane": null,
+          "renderList": null,
+          "animations": [],
+          "extensions": null,
+          "samplingMode": 3
+        }
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5,
+          0.483153045,
+          0.424460441,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.4
+      },
+      "doubleSided": true,
+      "name": "Material #40191",
+      "extras": {
+        "babylonSeparateCullingPass": false,
+        "directIntensity": 1.0,
+        "emissiveIntensity": 1.0,
+        "environmentIntensity": 1.0,
+        "specularIntensity": 1.0,
+        "cameraContrast": 1.0,
+        "lightmapTexture": {
+          "name": "Lightmap-5_comp_light.jpg",
+          "level": 1.0,
+          "hasAlpha": true,
+          "getAlphaFromRGB": false,
+          "coordinatesMode": 0,
+          "isCube": false,
+          "uOffset": 0.0,
+          "vOffset": 0.0,
+          "uScale": 1.0,
+          "vScale": 1.0,
+          "uRotationCenter": 0.5,
+          "vRotationCenter": 0.5,
+          "wRotationCenter": 0.5,
+          "invertY": false,
+          "uAng": 0.0,
+          "vAng": 0.0,
+          "wAng": 0.0,
+          "wrapU": 1,
+          "wrapV": 1,
+          "coordinatesIndex": 1,
+          "isRenderTarget": false,
+          "renderTargetSize": 0,
+          "mirrorPlane": null,
+          "renderList": null,
+          "animations": [],
+          "extensions": null,
+          "samplingMode": 3
+        }
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.247679889,
+          0.22161144,
+          0.438848943,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.4
+      },
+      "doubleSided": true,
+      "name": "Material #40192",
+      "extras": {
+        "babylonSeparateCullingPass": false,
+        "directIntensity": 1.0,
+        "emissiveIntensity": 1.0,
+        "environmentIntensity": 1.0,
+        "specularIntensity": 1.0,
+        "cameraContrast": 1.0,
+        "lightmapTexture": {
+          "name": "Lightmap-5_comp_light.jpg",
+          "level": 1.0,
+          "hasAlpha": true,
+          "getAlphaFromRGB": false,
+          "coordinatesMode": 0,
+          "isCube": false,
+          "uOffset": 0.0,
+          "vOffset": 0.0,
+          "uScale": 1.0,
+          "vScale": 1.0,
+          "uRotationCenter": 0.5,
+          "vRotationCenter": 0.5,
+          "wRotationCenter": 0.5,
+          "invertY": false,
+          "uAng": 0.0,
+          "vAng": 0.0,
+          "wAng": 0.0,
+          "wrapU": 1,
+          "wrapV": 1,
+          "coordinatesIndex": 1,
+          "isRenderTarget": false,
+          "renderTargetSize": 0,
+          "mirrorPlane": null,
+          "renderList": null,
+          "animations": [],
+          "extensions": null,
+          "samplingMode": 3
+        }
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 35
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.4
+      },
+      "doubleSided": true,
+      "name": "Material #41431",
+      "extras": {
+        "babylonSeparateCullingPass": false,
+        "directIntensity": 1.0,
+        "emissiveIntensity": 1.0,
+        "environmentIntensity": 1.0,
+        "specularIntensity": 1.0,
+        "cameraContrast": 1.0,
+        "lightmapTexture": {
+          "name": "Lightmap-5_comp_light.jpg",
+          "level": 1.0,
+          "hasAlpha": true,
+          "getAlphaFromRGB": false,
+          "coordinatesMode": 0,
+          "isCube": false,
+          "uOffset": 0.0,
+          "vOffset": 0.0,
+          "uScale": 1.0,
+          "vScale": 1.0,
+          "uRotationCenter": 0.5,
+          "vRotationCenter": 0.5,
+          "wRotationCenter": 0.5,
+          "invertY": false,
+          "uAng": 0.0,
+          "vAng": 0.0,
+          "wAng": 0.0,
+          "wrapU": 1,
+          "wrapV": 1,
+          "coordinatesIndex": 1,
+          "isRenderTarget": false,
+          "renderTargetSize": 0,
+          "mirrorPlane": null,
+          "renderList": null,
+          "animations": [],
+          "extensions": null,
+          "samplingMode": 3
+        }
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 73
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.4
+      },
+      "doubleSided": true,
+      "name": "Material #41432",
+      "extras": {
+        "babylonSeparateCullingPass": false,
+        "directIntensity": 1.0,
+        "emissiveIntensity": 1.0,
+        "environmentIntensity": 1.0,
+        "specularIntensity": 1.0,
+        "cameraContrast": 1.0,
+        "lightmapTexture": {
+          "name": "Lightmap-5_comp_light.jpg",
+          "level": 1.0,
+          "hasAlpha": true,
+          "getAlphaFromRGB": false,
+          "coordinatesMode": 0,
+          "isCube": false,
+          "uOffset": 0.0,
+          "vOffset": 0.0,
+          "uScale": 1.0,
+          "vScale": 1.0,
+          "uRotationCenter": 0.5,
+          "vRotationCenter": 0.5,
+          "wRotationCenter": 0.5,
+          "invertY": false,
+          "uAng": 0.0,
+          "vAng": 0.0,
+          "wAng": 0.0,
+          "wrapU": 1,
+          "wrapV": 1,
+          "coordinatesIndex": 1,
+          "isRenderTarget": false,
+          "renderTargetSize": 0,
+          "mirrorPlane": null,
+          "renderList": null,
+          "animations": [],
+          "extensions": null,
+          "samplingMode": 3
+        }
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 73
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.4
+      },
+      "doubleSided": true,
+      "name": "Material #41433",
+      "extras": {
+        "babylonSeparateCullingPass": false,
+        "directIntensity": 1.0,
+        "emissiveIntensity": 1.0,
+        "environmentIntensity": 1.0,
+        "specularIntensity": 1.0,
+        "cameraContrast": 1.0,
+        "lightmapTexture": {
+          "name": "Lightmap-5_comp_light.jpg",
+          "level": 1.0,
+          "hasAlpha": true,
+          "getAlphaFromRGB": false,
+          "coordinatesMode": 0,
+          "isCube": false,
+          "uOffset": 0.0,
+          "vOffset": 0.0,
+          "uScale": 1.0,
+          "vScale": 1.0,
+          "uRotationCenter": 0.5,
+          "vRotationCenter": 0.5,
+          "wRotationCenter": 0.5,
+          "invertY": false,
+          "uAng": 0.0,
+          "vAng": 0.0,
+          "wAng": 0.0,
+          "wrapU": 1,
+          "wrapV": 1,
+          "coordinatesIndex": 1,
+          "isRenderTarget": false,
+          "renderTargetSize": 0,
+          "mirrorPlane": null,
+          "renderList": null,
+          "animations": [],
+          "extensions": null,
+          "samplingMode": 3
+        }
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8745098,
+          0.8745098,
+          0.8745098,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.5
+      },
+      "doubleSided": true,
+      "name": "Material #32",
+      "extras": {
+        "babylonSeparateCullingPass": false,
+        "directIntensity": 1.0,
+        "emissiveIntensity": 1.0,
+        "environmentIntensity": 1.0,
+        "specularIntensity": 1.0,
+        "cameraContrast": 1.0,
+        "lightmapTexture": {
+          "name": "Lightmap-12_comp_light.jpg",
+          "level": 1.0,
+          "hasAlpha": true,
+          "getAlphaFromRGB": false,
+          "coordinatesMode": 0,
+          "isCube": false,
+          "uOffset": 0.0,
+          "vOffset": 0.0,
+          "uScale": 1.0,
+          "vScale": 1.0,
+          "uRotationCenter": 0.5,
+          "vRotationCenter": 0.5,
+          "wRotationCenter": 0.5,
+          "invertY": false,
+          "uAng": 0.0,
+          "vAng": 0.0,
+          "wAng": 0.0,
+          "wrapU": 1,
+          "wrapV": 1,
+          "coordinatesIndex": 1,
+          "isRenderTarget": false,
+          "renderTargetSize": 0,
+          "mirrorPlane": null,
+          "renderList": null,
+          "animations": [],
+          "extensions": null,
+          "samplingMode": 3
+        }
+      }
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 74
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.5
+      },
+      "doubleSided": true,
+      "name": "Material #30",
+      "extras": {
+        "babylonSeparateCullingPass": false,
+        "directIntensity": 1.0,
+        "emissiveIntensity": 1.0,
+        "environmentIntensity": 1.0,
+        "specularIntensity": 1.0,
+        "cameraContrast": 1.0,
+        "lightmapTexture": {
+          "name": "Lightmap-12_comp_light.jpg",
           "level": 1.0,
           "hasAlpha": true,
           "getAlphaFromRGB": false,
@@ -25480,107 +26468,132 @@
     {
       "sampler": 0,
       "source": 18,
-      "name": "modern-office-building-with-facade-glass.jpg"
+      "name": "geo.jpg"
     },
     {
       "sampler": 0,
       "source": 19,
-      "name": "fabric_clair_basecolor.jpg"
+      "name": "modern-office-building-with-facade-glass.jpg"
     },
     {
       "sampler": 0,
       "source": 20,
-      "name": "fabric_normal.jpg"
+      "name": "fabric_clair_basecolor.jpg"
     },
     {
       "sampler": 0,
       "source": 21,
-      "name": "fabric_CrayolasCadet_albedo.jpg"
+      "name": "fabric_normal.jpg"
     },
     {
       "sampler": 0,
       "source": 22,
-      "name": "wood_clair.jpg"
+      "name": "fabric_CrayolasCadet_albedo.jpg"
     },
     {
       "sampler": 0,
       "source": 23,
-      "name": "wallpaper_pc.jpg"
+      "name": "wood_clair.jpg"
     },
     {
       "sampler": 0,
       "source": 24,
+      "name": "wallpaper_pc.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 25,
       "name": "pc_apple_01.jpg"
     },
     {
       "sampler": 0,
-      "source": 25,
-      "name": "vm_v1_007_leather_normal.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 25,
-      "name": "vm_v1_007_leather_normal.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 25,
-      "name": "vm_v1_007_leather_normal.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 25,
-      "name": "vm_v1_007_leather_normal.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 25,
-      "name": "vm_v1_007_leather_normal.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 25,
+      "source": 26,
       "name": "vm_v1_007_leather_normal.jpg"
     },
     {
       "sampler": 0,
       "source": 26,
-      "name": "plant_palmtree_albedo.png"
+      "name": "vm_v1_007_leather_normal.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 26,
+      "name": "vm_v1_007_leather_normal.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 26,
+      "name": "vm_v1_007_leather_normal.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 26,
+      "name": "vm_v1_007_leather_normal.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 26,
+      "name": "vm_v1_007_leather_normal.jpg"
     },
     {
       "sampler": 0,
       "source": 27,
-      "name": "scandi_terrace_plant_beige.jpg"
+      "name": "plant_palmtree_albedo.png"
     },
     {
       "sampler": 0,
       "source": 28,
-      "name": "scandi_living_plant_soil.jpg"
+      "name": "scandi_terrace_plant_beige.jpg"
     },
     {
       "sampler": 0,
       "source": 29,
-      "name": "harley-lin-Y5Vrxf2he9Q-unsplash (1).jpg"
+      "name": "scandi_living_plant_soil.jpg"
     },
     {
       "sampler": 0,
       "source": 30,
-      "name": "retro_abstract_design_background_2007.jpg"
+      "name": "harley-lin-Y5Vrxf2he9Q-unsplash (1).jpg"
     },
     {
       "sampler": 0,
       "source": 31,
-      "name": "59132.jpg"
+      "name": "retro_abstract_design_background_2007.jpg"
     },
     {
       "sampler": 0,
       "source": 32,
-      "name": "7335939.jpg"
+      "name": "59132.jpg"
     },
     {
       "sampler": 0,
       "source": 33,
+      "name": "abstract-seamless-pattern-design.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 34,
       "name": "plant_banano.png"
+    },
+    {
+      "sampler": 0,
+      "source": 35,
+      "name": "abstract-bluish-paint-background-wallpaper.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 36,
+      "name": "geometric-shape-background-engraving-style.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 37,
+      "name": "color_blue_super_light---Copy.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 38,
+      "name": "beautiful-geometric-modern-colorful-abstract-digital-art.jpg"
     }
   ],
   "images": [
@@ -25639,6 +26652,9 @@
       "uri": "07_geometric.jpg"
     },
     {
+      "uri": "geo.jpg"
+    },
+    {
       "uri": "modern-office-building-with-facade-glass.jpg"
     },
     {
@@ -25681,10 +26697,22 @@
       "uri": "59132.jpg"
     },
     {
-      "uri": "7335939.jpg"
+      "uri": "abstract-seamless-pattern-design.jpg"
     },
     {
       "uri": "plant_banano.png"
+    },
+    {
+      "uri": "abstract-bluish-paint-background-wallpaper.jpg"
+    },
+    {
+      "uri": "geometric-shape-background-engraving-style.jpg"
+    },
+    {
+      "uri": "color_blue_super_light---Copy.jpg"
+    },
+    {
+      "uri": "beautiful-geometric-modern-colorful-abstract-digital-art.jpg"
     }
   ],
   "samplers": [
