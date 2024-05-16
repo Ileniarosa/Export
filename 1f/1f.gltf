@@ -147,6 +147,7 @@
       ],
       "name": "ceiling_01",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -159,8 +160,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -178,6 +178,7 @@
       ],
       "name": "door_01",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -190,8 +191,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -209,6 +209,7 @@
       ],
       "name": "door_02",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -221,8 +222,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -234,6 +234,7 @@
       ],
       "name": "ground_hall_01",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -246,8 +247,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -259,6 +259,7 @@
       ],
       "name": "ground_office_01",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -271,8 +272,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -284,6 +284,7 @@
       ],
       "name": "masonry_01",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -296,8 +297,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -327,6 +327,7 @@
       ],
       "name": "rail_double_01",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -339,8 +340,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -361,6 +361,7 @@
       ],
       "name": "windows_01",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -373,8 +374,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -529,7 +529,7 @@
       ],
       "name": "ceiling_ac_004",
       "extras": {
-        "MaxHandle": 0,
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -543,7 +543,7 @@
           0.0
         ],
         "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "MaxHandle": 0
       }
     },
     {
@@ -566,7 +566,7 @@
       ],
       "name": "ceiling_ac_003",
       "extras": {
-        "MaxHandle": 0,
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -580,7 +580,7 @@
           0.0
         ],
         "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "MaxHandle": 0
       }
     },
     {
@@ -603,7 +603,7 @@
       ],
       "name": "ceiling_ac_002",
       "extras": {
-        "MaxHandle": 0,
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -617,7 +617,7 @@
           0.0
         ],
         "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "MaxHandle": 0
       }
     },
     {
@@ -676,7 +676,7 @@
       ],
       "name": "ceiling_ac_014",
       "extras": {
-        "MaxHandle": 0,
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -690,7 +690,7 @@
           0.0
         ],
         "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "MaxHandle": 0
       }
     },
     {
@@ -713,7 +713,7 @@
       ],
       "name": "ceiling_ac_015",
       "extras": {
-        "MaxHandle": 0,
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -727,7 +727,7 @@
           0.0
         ],
         "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "MaxHandle": 0
       }
     },
     {
@@ -745,6 +745,7 @@
       ],
       "name": "furniture_deco_table010",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -757,8 +758,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -776,6 +776,7 @@
       ],
       "name": "furniture_deco_table011",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -788,8 +789,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -807,6 +807,7 @@
       ],
       "name": "furniture_frame_c010",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -819,8 +820,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -928,7 +928,6 @@
       ],
       "name": "shelf_wall_014",
       "extras": {
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -941,7 +940,8 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -1381,7 +1381,6 @@
       ],
       "name": "furniture_frame_n",
       "extras": {
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -1394,7 +1393,8 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -1417,6 +1417,7 @@
       ],
       "name": "furniture_frame_n001",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -1429,8 +1430,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -1465,7 +1465,6 @@
       ],
       "name": "furniture_frame_0",
       "extras": {
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -1478,7 +1477,8 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "scaleInLightmap": 1.0
       }
     },
     {
