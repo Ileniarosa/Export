@@ -401,6 +401,7 @@
       ],
       "name": "ceiling_01",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -413,8 +414,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -432,6 +432,7 @@
       ],
       "name": "ceiling_02",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -444,8 +445,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -463,6 +463,7 @@
       ],
       "name": "ceiling_03",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -475,8 +476,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -494,6 +494,7 @@
       ],
       "name": "ceiling_04",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -506,8 +507,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -525,6 +525,7 @@
       ],
       "name": "ceiling_05",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -537,8 +538,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -556,6 +556,7 @@
       ],
       "name": "door_01",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -568,8 +569,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -587,6 +587,7 @@
       ],
       "name": "door_02",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -599,8 +600,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -618,6 +618,7 @@
       ],
       "name": "door_03",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -630,8 +631,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -649,6 +649,7 @@
       ],
       "name": "ground_hall_01",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -661,8 +662,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -680,6 +680,7 @@
       ],
       "name": "ground_living_01",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -692,8 +693,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -711,6 +711,7 @@
       ],
       "name": "ground_office_01",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -723,8 +724,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -742,6 +742,7 @@
       ],
       "name": "ground_office_02",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -754,8 +755,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -773,6 +773,7 @@
       ],
       "name": "ground_office_03",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -785,8 +786,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -804,6 +804,7 @@
       ],
       "name": "ground_office_04",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -816,8 +817,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -835,6 +835,7 @@
       ],
       "name": "ground_terrace_01",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -847,8 +848,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -866,6 +866,7 @@
       ],
       "name": "interior_door_frame_01",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -878,8 +879,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -897,6 +897,7 @@
       ],
       "name": "interior_door_frame_02",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -909,8 +910,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -928,6 +928,7 @@
       ],
       "name": "interior_door_frame_03",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -940,8 +941,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -959,6 +959,7 @@
       ],
       "name": "interior_door_frame_04",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -971,8 +972,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -990,6 +990,7 @@
       ],
       "name": "interior_door_handle_01",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -1002,8 +1003,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -1021,6 +1021,7 @@
       ],
       "name": "interior_door_handle_02",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -1033,8 +1034,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -1052,6 +1052,7 @@
       ],
       "name": "interior_door_handle_03",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -1064,8 +1065,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -1083,6 +1083,7 @@
       ],
       "name": "interior_door_handle_04",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -1095,8 +1096,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -1114,6 +1114,7 @@
       ],
       "name": "interior_door_panel_01",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -1126,8 +1127,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -1145,6 +1145,7 @@
       ],
       "name": "interior_door_panel_02",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -1157,8 +1158,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -1176,6 +1176,7 @@
       ],
       "name": "interior_door_panel_03",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -1188,8 +1189,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -1207,6 +1207,7 @@
       ],
       "name": "interior_door_panel_04",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -1219,8 +1220,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -1238,6 +1238,7 @@
       ],
       "name": "masonry_01",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -1250,8 +1251,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -1395,6 +1395,7 @@
       ],
       "name": "rail_double_01",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -1407,8 +1408,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -1441,6 +1441,7 @@
       ],
       "name": "window_01",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -1453,8 +1454,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -1477,7 +1477,7 @@
       ],
       "name": "ceiling_ac_002",
       "extras": {
-        "MaxHandle": 0,
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -1491,7 +1491,7 @@
           0.0
         ],
         "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "MaxHandle": 0
       }
     },
     {
@@ -1514,7 +1514,7 @@
       ],
       "name": "ceiling_ac_003",
       "extras": {
-        "MaxHandle": 0,
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -1528,7 +1528,7 @@
           0.0
         ],
         "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "MaxHandle": 0
       }
     },
     {
@@ -1551,7 +1551,7 @@
       ],
       "name": "ceiling_ac_004",
       "extras": {
-        "MaxHandle": 0,
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -1565,7 +1565,7 @@
           0.0
         ],
         "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "MaxHandle": 0
       }
     },
     {
@@ -1588,7 +1588,7 @@
       ],
       "name": "ceiling_ac_005",
       "extras": {
-        "MaxHandle": 0,
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -1602,7 +1602,7 @@
           0.0
         ],
         "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "MaxHandle": 0
       }
     },
     {
@@ -1625,7 +1625,7 @@
       ],
       "name": "ceiling_ac_010",
       "extras": {
-        "MaxHandle": 0,
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -1639,7 +1639,7 @@
           0.0
         ],
         "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "MaxHandle": 0
       }
     },
     {
@@ -1662,7 +1662,7 @@
       ],
       "name": "ceiling_ac_016",
       "extras": {
-        "MaxHandle": 0,
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -1676,7 +1676,7 @@
           0.0
         ],
         "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "MaxHandle": 0
       }
     },
     {
@@ -1975,7 +1975,7 @@
       ],
       "name": "ceiling_ac_017",
       "extras": {
-        "MaxHandle": 0,
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -1989,7 +1989,7 @@
           0.0
         ],
         "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "MaxHandle": 0
       }
     },
     {
@@ -2060,7 +2060,7 @@
       ],
       "name": "ceiling_ac_018",
       "extras": {
-        "MaxHandle": 0,
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -2074,7 +2074,7 @@
           0.0
         ],
         "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "MaxHandle": 0
       }
     },
     {
@@ -2145,7 +2145,7 @@
       ],
       "name": "ceiling_ac_019",
       "extras": {
-        "MaxHandle": 0,
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -2159,7 +2159,7 @@
           0.0
         ],
         "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "MaxHandle": 0
       }
     },
     {
@@ -2225,6 +2225,7 @@
       ],
       "name": "furniture_deco_table019",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -2237,8 +2238,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -2256,6 +2256,7 @@
       ],
       "name": "furniture_deco_table025",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -2268,8 +2269,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -2287,6 +2287,7 @@
       ],
       "name": "furniture_frame_c015",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -2299,8 +2300,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -2318,6 +2318,7 @@
       ],
       "name": "furniture_frame_c016",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -2330,8 +2331,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -2349,6 +2349,7 @@
       ],
       "name": "furniture_frame_c021",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -2361,8 +2362,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -2385,6 +2385,7 @@
       ],
       "name": "furniture_frame_d023",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -2397,8 +2398,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -2421,6 +2421,7 @@
       ],
       "name": "furniture_frame_d029",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -2433,8 +2434,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -2457,6 +2457,7 @@
       ],
       "name": "furniture_frame_f002",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -2469,8 +2470,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -2488,6 +2488,7 @@
       ],
       "name": "furniture_frame_g002",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -2500,8 +2501,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -2519,6 +2519,7 @@
       ],
       "name": "shelf_wall_021",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -2531,8 +2532,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -2550,6 +2550,7 @@
       ],
       "name": "shelf_wall_030",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -2562,8 +2563,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -3753,6 +3753,7 @@
       ],
       "name": "furniture_frame_n",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -3765,8 +3766,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -3789,7 +3789,6 @@
       ],
       "name": "furniture_frame_n001",
       "extras": {
-        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -3802,7 +3801,8 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1
+        "paramedgewidth": 1,
+        "scaleInLightmap": 1.0
       }
     },
     {
@@ -3832,6 +3832,7 @@
       ],
       "name": "furniture_scandi_shelf",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -3844,8 +3845,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -3868,6 +3868,7 @@
       ],
       "name": "furniture_frame_0",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -3880,8 +3881,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -4073,6 +4073,7 @@
       ],
       "name": "furniture_scandi_shelf001",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -4085,8 +4086,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -4176,6 +4176,7 @@
       ],
       "name": "furniture_scandi_shelf002",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -4188,8 +4189,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     },
     {
@@ -4344,6 +4344,7 @@
       ],
       "name": "furniture_frame_n002",
       "extras": {
+        "scaleInLightmap": 1.0,
         "paramrenderwidth": 2048,
         "paramrenderheight": 2048,
         "paramfacecolor": [
@@ -4356,8 +4357,7 @@
           0.7764706,
           0.0
         ],
-        "paramedgewidth": 1,
-        "scaleInLightmap": 1.0
+        "paramedgewidth": 1
       }
     }
   ],
@@ -54305,10 +54305,16 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 70
+          "index": 71
         },
         "metallicFactor": 0.0,
-        "roughnessFactor": 0.44
+        "metallicRoughnessTexture": {
+          "index": 72
+        }
+      },
+      "normalTexture": {
+        "index": 70,
+        "scale": 0.3
       },
       "doubleSided": true,
       "name": "fabric_sillón",
@@ -54599,10 +54605,16 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 70
+          "index": 71
         },
         "metallicFactor": 0.0,
-        "roughnessFactor": 0.44
+        "metallicRoughnessTexture": {
+          "index": 72
+        }
+      },
+      "normalTexture": {
+        "index": 70,
+        "scale": 0.3
       },
       "doubleSided": true,
       "name": "fabric_sillón",
@@ -54647,9 +54659,16 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 70
+          "index": 71
         },
-        "metallicFactor": 0.0
+        "metallicFactor": 0.0,
+        "metallicRoughnessTexture": {
+          "index": 72
+        }
+      },
+      "normalTexture": {
+        "index": 70,
+        "scale": 0.3
       },
       "doubleSided": true,
       "name": "Material #2",
@@ -54883,7 +54902,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 71
+          "index": 73
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.44
@@ -54982,7 +55001,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 70
+          "index": 74
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.44
@@ -55330,7 +55349,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 72
+          "index": 75
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.0
@@ -55525,7 +55544,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 72
+          "index": 75
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.0
@@ -55573,7 +55592,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 70
+          "index": 74
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.44
@@ -55621,13 +55640,13 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 74
+          "index": 77
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.6
       },
       "normalTexture": {
-        "index": 73
+        "index": 76
       },
       "doubleSided": true,
       "name": "piel",
@@ -55717,10 +55736,16 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 70
+          "index": 71
         },
         "metallicFactor": 0.0,
-        "roughnessFactor": 0.44
+        "metallicRoughnessTexture": {
+          "index": 72
+        }
+      },
+      "normalTexture": {
+        "index": 70,
+        "scale": 0.3
       },
       "doubleSided": true,
       "name": "fabric",
@@ -55765,13 +55790,13 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 74
+          "index": 77
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.6
       },
       "normalTexture": {
-        "index": 73
+        "index": 76
       },
       "doubleSided": true,
       "name": "piel",
@@ -55861,10 +55886,16 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 70
+          "index": 71
         },
         "metallicFactor": 0.0,
-        "roughnessFactor": 0.44
+        "metallicRoughnessTexture": {
+          "index": 72
+        }
+      },
+      "normalTexture": {
+        "index": 70,
+        "scale": 0.3
       },
       "doubleSided": true,
       "name": "fabric",
@@ -55909,13 +55940,13 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 74
+          "index": 77
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.6
       },
       "normalTexture": {
-        "index": 73
+        "index": 76
       },
       "doubleSided": true,
       "name": "piel",
@@ -56056,12 +56087,12 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 76
+          "index": 79
         },
         "metallicFactor": 0.0
       },
       "normalTexture": {
-        "index": 75
+        "index": 78
       },
       "doubleSided": true,
       "name": "Material #19",
@@ -56106,7 +56137,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 71
+          "index": 73
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.85
@@ -56250,7 +56281,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 77
+          "index": 80
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -56298,7 +56329,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 78
+          "index": 81
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -56355,7 +56386,7 @@
         "roughnessFactor": 0.9
       },
       "normalTexture": {
-        "index": 79,
+        "index": 82,
         "scale": 0.3,
         "extensions": {
           "KHR_texture_transform": {
@@ -56615,12 +56646,12 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 76
+          "index": 79
         },
         "metallicFactor": 0.0
       },
       "normalTexture": {
-        "index": 75
+        "index": 78
       },
       "doubleSided": true,
       "name": "Material #19",
@@ -56665,7 +56696,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 71
+          "index": 73
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.85
@@ -56809,7 +56840,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 77
+          "index": 80
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -56857,7 +56888,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 78
+          "index": 81
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -56914,7 +56945,7 @@
         "roughnessFactor": 0.9
       },
       "normalTexture": {
-        "index": 79,
+        "index": 82,
         "scale": 0.3,
         "extensions": {
           "KHR_texture_transform": {
@@ -57174,12 +57205,12 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 76
+          "index": 79
         },
         "metallicFactor": 0.0
       },
       "normalTexture": {
-        "index": 75
+        "index": 78
       },
       "doubleSided": true,
       "name": "Material #19",
@@ -57224,7 +57255,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 71
+          "index": 73
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.85
@@ -57368,7 +57399,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 77
+          "index": 80
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -57416,7 +57447,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 78
+          "index": 81
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -57473,7 +57504,7 @@
         "roughnessFactor": 0.9
       },
       "normalTexture": {
-        "index": 79,
+        "index": 82,
         "scale": 0.3,
         "extensions": {
           "KHR_texture_transform": {
@@ -57733,12 +57764,12 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 76
+          "index": 79
         },
         "metallicFactor": 0.0
       },
       "normalTexture": {
-        "index": 75
+        "index": 78
       },
       "doubleSided": true,
       "name": "Material #19",
@@ -57783,7 +57814,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 71
+          "index": 73
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.85
@@ -57927,7 +57958,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 77
+          "index": 80
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -57975,7 +58006,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 78
+          "index": 81
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -58032,7 +58063,7 @@
         "roughnessFactor": 0.9
       },
       "normalTexture": {
-        "index": 79,
+        "index": 82,
         "scale": 0.3,
         "extensions": {
           "KHR_texture_transform": {
@@ -58292,12 +58323,12 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 76
+          "index": 79
         },
         "metallicFactor": 0.0
       },
       "normalTexture": {
-        "index": 75
+        "index": 78
       },
       "doubleSided": true,
       "name": "Material #19",
@@ -58342,7 +58373,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 71
+          "index": 73
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.85
@@ -58486,7 +58517,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 77
+          "index": 80
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -58534,7 +58565,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 78
+          "index": 81
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -58591,7 +58622,7 @@
         "roughnessFactor": 0.9
       },
       "normalTexture": {
-        "index": 79,
+        "index": 82,
         "scale": 0.3,
         "extensions": {
           "KHR_texture_transform": {
@@ -58851,12 +58882,12 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 76
+          "index": 79
         },
         "metallicFactor": 0.0
       },
       "normalTexture": {
-        "index": 75
+        "index": 78
       },
       "doubleSided": true,
       "name": "Material #19",
@@ -58901,7 +58932,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 71
+          "index": 73
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.85
@@ -59045,7 +59076,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 77
+          "index": 80
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -59093,7 +59124,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 78
+          "index": 81
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -59150,7 +59181,7 @@
         "roughnessFactor": 0.9
       },
       "normalTexture": {
-        "index": 79,
+        "index": 82,
         "scale": 0.3,
         "extensions": {
           "KHR_texture_transform": {
@@ -59410,12 +59441,12 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 76
+          "index": 79
         },
         "metallicFactor": 0.0
       },
       "normalTexture": {
-        "index": 75
+        "index": 78
       },
       "doubleSided": true,
       "name": "Material #19",
@@ -59460,7 +59491,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 71
+          "index": 73
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.85
@@ -59604,7 +59635,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 77
+          "index": 80
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -59652,7 +59683,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 78
+          "index": 81
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -59709,7 +59740,7 @@
         "roughnessFactor": 0.9
       },
       "normalTexture": {
-        "index": 79,
+        "index": 82,
         "scale": 0.3,
         "extensions": {
           "KHR_texture_transform": {
@@ -59969,12 +60000,12 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 76
+          "index": 79
         },
         "metallicFactor": 0.0
       },
       "normalTexture": {
-        "index": 75
+        "index": 78
       },
       "doubleSided": true,
       "name": "Material #19",
@@ -60019,7 +60050,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 71
+          "index": 73
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.85
@@ -60163,7 +60194,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 77
+          "index": 80
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -60211,7 +60242,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 78
+          "index": 81
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -60268,7 +60299,7 @@
         "roughnessFactor": 0.9
       },
       "normalTexture": {
-        "index": 79,
+        "index": 82,
         "scale": 0.3,
         "extensions": {
           "KHR_texture_transform": {
@@ -60528,12 +60559,12 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 76
+          "index": 79
         },
         "metallicFactor": 0.0
       },
       "normalTexture": {
-        "index": 75
+        "index": 78
       },
       "doubleSided": true,
       "name": "Material #19",
@@ -60578,7 +60609,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 71
+          "index": 73
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.85
@@ -60722,7 +60753,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 77
+          "index": 80
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -60770,7 +60801,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 78
+          "index": 81
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -60827,7 +60858,7 @@
         "roughnessFactor": 0.9
       },
       "normalTexture": {
-        "index": 79,
+        "index": 82,
         "scale": 0.3,
         "extensions": {
           "KHR_texture_transform": {
@@ -61087,12 +61118,12 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 76
+          "index": 79
         },
         "metallicFactor": 0.0
       },
       "normalTexture": {
-        "index": 75
+        "index": 78
       },
       "doubleSided": true,
       "name": "Material #19",
@@ -61137,7 +61168,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 71
+          "index": 73
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.85
@@ -61281,7 +61312,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 77
+          "index": 80
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -61329,7 +61360,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 78
+          "index": 81
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -61386,7 +61417,7 @@
         "roughnessFactor": 0.9
       },
       "normalTexture": {
-        "index": 79,
+        "index": 82,
         "scale": 0.3,
         "extensions": {
           "KHR_texture_transform": {
@@ -61646,12 +61677,12 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 76
+          "index": 79
         },
         "metallicFactor": 0.0
       },
       "normalTexture": {
-        "index": 75
+        "index": 78
       },
       "doubleSided": true,
       "name": "Material #19",
@@ -61696,7 +61727,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 71
+          "index": 73
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.85
@@ -61840,7 +61871,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 77
+          "index": 80
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -61888,7 +61919,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 78
+          "index": 81
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -61945,7 +61976,7 @@
         "roughnessFactor": 0.9
       },
       "normalTexture": {
-        "index": 79,
+        "index": 82,
         "scale": 0.3,
         "extensions": {
           "KHR_texture_transform": {
@@ -62205,12 +62236,12 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 76
+          "index": 79
         },
         "metallicFactor": 0.0
       },
       "normalTexture": {
-        "index": 75
+        "index": 78
       },
       "doubleSided": true,
       "name": "Material #19",
@@ -62255,7 +62286,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 71
+          "index": 73
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.85
@@ -62399,7 +62430,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 77
+          "index": 80
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -62447,7 +62478,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 78
+          "index": 81
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -62504,7 +62535,7 @@
         "roughnessFactor": 0.9
       },
       "normalTexture": {
-        "index": 79,
+        "index": 82,
         "scale": 0.3,
         "extensions": {
           "KHR_texture_transform": {
@@ -62764,12 +62795,12 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 76
+          "index": 79
         },
         "metallicFactor": 0.0
       },
       "normalTexture": {
-        "index": 75
+        "index": 78
       },
       "doubleSided": true,
       "name": "Material #19",
@@ -62814,7 +62845,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 71
+          "index": 73
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.85
@@ -62958,7 +62989,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 77
+          "index": 80
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -63006,7 +63037,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 78
+          "index": 81
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -63063,7 +63094,7 @@
         "roughnessFactor": 0.9
       },
       "normalTexture": {
-        "index": 79,
+        "index": 82,
         "scale": 0.3,
         "extensions": {
           "KHR_texture_transform": {
@@ -63323,12 +63354,12 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 76
+          "index": 79
         },
         "metallicFactor": 0.0
       },
       "normalTexture": {
-        "index": 75
+        "index": 78
       },
       "doubleSided": true,
       "name": "Material #19",
@@ -63373,7 +63404,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 71
+          "index": 73
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.85
@@ -63517,7 +63548,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 77
+          "index": 80
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -63565,7 +63596,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 78
+          "index": 81
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -63622,7 +63653,7 @@
         "roughnessFactor": 0.9
       },
       "normalTexture": {
-        "index": 79,
+        "index": 82,
         "scale": 0.3,
         "extensions": {
           "KHR_texture_transform": {
@@ -63882,12 +63913,12 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 76
+          "index": 79
         },
         "metallicFactor": 0.0
       },
       "normalTexture": {
-        "index": 75
+        "index": 78
       },
       "doubleSided": true,
       "name": "Material #19",
@@ -63932,7 +63963,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 71
+          "index": 73
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.85
@@ -64076,7 +64107,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 77
+          "index": 80
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -64124,7 +64155,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 78
+          "index": 81
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -64181,7 +64212,7 @@
         "roughnessFactor": 0.9
       },
       "normalTexture": {
-        "index": 79,
+        "index": 82,
         "scale": 0.3,
         "extensions": {
           "KHR_texture_transform": {
@@ -64441,12 +64472,12 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 76
+          "index": 79
         },
         "metallicFactor": 0.0
       },
       "normalTexture": {
-        "index": 75
+        "index": 78
       },
       "doubleSided": true,
       "name": "Material #19",
@@ -64491,7 +64522,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 71
+          "index": 73
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.85
@@ -64635,7 +64666,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 77
+          "index": 80
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -64683,7 +64714,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 78
+          "index": 81
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -64740,7 +64771,7 @@
         "roughnessFactor": 0.9
       },
       "normalTexture": {
-        "index": 79,
+        "index": 82,
         "scale": 0.3,
         "extensions": {
           "KHR_texture_transform": {
@@ -65000,12 +65031,12 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 76
+          "index": 79
         },
         "metallicFactor": 0.0
       },
       "normalTexture": {
-        "index": 75
+        "index": 78
       },
       "doubleSided": true,
       "name": "Material #19",
@@ -65050,7 +65081,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 71
+          "index": 73
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.85
@@ -65194,7 +65225,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 77
+          "index": 80
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -65242,7 +65273,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 78
+          "index": 81
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -65299,7 +65330,7 @@
         "roughnessFactor": 0.9
       },
       "normalTexture": {
-        "index": 79,
+        "index": 82,
         "scale": 0.3,
         "extensions": {
           "KHR_texture_transform": {
@@ -65559,12 +65590,12 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 76
+          "index": 79
         },
         "metallicFactor": 0.0
       },
       "normalTexture": {
-        "index": 75
+        "index": 78
       },
       "doubleSided": true,
       "name": "Material #19",
@@ -65609,7 +65640,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 71
+          "index": 73
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.85
@@ -65753,7 +65784,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 77
+          "index": 80
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -65801,7 +65832,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 78
+          "index": 81
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -65858,7 +65889,7 @@
         "roughnessFactor": 0.9
       },
       "normalTexture": {
-        "index": 79,
+        "index": 82,
         "scale": 0.3,
         "extensions": {
           "KHR_texture_transform": {
@@ -66118,12 +66149,12 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 76
+          "index": 79
         },
         "metallicFactor": 0.0
       },
       "normalTexture": {
-        "index": 75
+        "index": 78
       },
       "doubleSided": true,
       "name": "Material #19",
@@ -66168,7 +66199,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 71
+          "index": 73
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.85
@@ -66312,7 +66343,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 77
+          "index": 80
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -66360,7 +66391,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 78
+          "index": 81
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -66417,7 +66448,7 @@
         "roughnessFactor": 0.9
       },
       "normalTexture": {
-        "index": 79,
+        "index": 82,
         "scale": 0.3,
         "extensions": {
           "KHR_texture_transform": {
@@ -66677,12 +66708,12 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 76
+          "index": 79
         },
         "metallicFactor": 0.0
       },
       "normalTexture": {
-        "index": 75
+        "index": 78
       },
       "doubleSided": true,
       "name": "Material #19",
@@ -66727,7 +66758,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 71
+          "index": 73
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.85
@@ -66871,7 +66902,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 77
+          "index": 80
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -66919,7 +66950,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 78
+          "index": 81
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -66976,7 +67007,7 @@
         "roughnessFactor": 0.9
       },
       "normalTexture": {
-        "index": 79,
+        "index": 82,
         "scale": 0.3,
         "extensions": {
           "KHR_texture_transform": {
@@ -67236,12 +67267,12 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 76
+          "index": 79
         },
         "metallicFactor": 0.0
       },
       "normalTexture": {
-        "index": 75
+        "index": 78
       },
       "doubleSided": true,
       "name": "Material #19",
@@ -67286,7 +67317,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 71
+          "index": 73
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.85
@@ -67430,7 +67461,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 77
+          "index": 80
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -67478,7 +67509,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 78
+          "index": 81
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -67535,7 +67566,7 @@
         "roughnessFactor": 0.9
       },
       "normalTexture": {
-        "index": 79,
+        "index": 82,
         "scale": 0.3,
         "extensions": {
           "KHR_texture_transform": {
@@ -67795,12 +67826,12 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 76
+          "index": 79
         },
         "metallicFactor": 0.0
       },
       "normalTexture": {
-        "index": 75
+        "index": 78
       },
       "doubleSided": true,
       "name": "Material #19",
@@ -67845,7 +67876,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 71
+          "index": 73
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.85
@@ -67989,7 +68020,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 77
+          "index": 80
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -68037,7 +68068,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 78
+          "index": 81
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -68094,7 +68125,7 @@
         "roughnessFactor": 0.9
       },
       "normalTexture": {
-        "index": 79,
+        "index": 82,
         "scale": 0.3,
         "extensions": {
           "KHR_texture_transform": {
@@ -68354,12 +68385,12 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 76
+          "index": 79
         },
         "metallicFactor": 0.0
       },
       "normalTexture": {
-        "index": 75
+        "index": 78
       },
       "doubleSided": true,
       "name": "Material #19",
@@ -68404,7 +68435,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 71
+          "index": 73
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.85
@@ -68548,7 +68579,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 77
+          "index": 80
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -68596,7 +68627,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 78
+          "index": 81
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -68653,7 +68684,7 @@
         "roughnessFactor": 0.9
       },
       "normalTexture": {
-        "index": 79,
+        "index": 82,
         "scale": 0.3,
         "extensions": {
           "KHR_texture_transform": {
@@ -68913,12 +68944,12 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 76
+          "index": 79
         },
         "metallicFactor": 0.0
       },
       "normalTexture": {
-        "index": 75
+        "index": 78
       },
       "doubleSided": true,
       "name": "Material #19",
@@ -68963,7 +68994,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 71
+          "index": 73
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.85
@@ -69107,7 +69138,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 77
+          "index": 80
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -69155,7 +69186,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 78
+          "index": 81
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -69212,7 +69243,7 @@
         "roughnessFactor": 0.9
       },
       "normalTexture": {
-        "index": 79,
+        "index": 82,
         "scale": 0.3,
         "extensions": {
           "KHR_texture_transform": {
@@ -69472,12 +69503,12 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 76
+          "index": 79
         },
         "metallicFactor": 0.0
       },
       "normalTexture": {
-        "index": 75
+        "index": 78
       },
       "doubleSided": true,
       "name": "Material #19",
@@ -69522,7 +69553,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 71
+          "index": 73
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.85
@@ -69666,7 +69697,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 77
+          "index": 80
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -69714,7 +69745,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 78
+          "index": 81
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -69771,7 +69802,7 @@
         "roughnessFactor": 0.9
       },
       "normalTexture": {
-        "index": 79,
+        "index": 82,
         "scale": 0.3,
         "extensions": {
           "KHR_texture_transform": {
@@ -70031,12 +70062,12 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 76
+          "index": 79
         },
         "metallicFactor": 0.0
       },
       "normalTexture": {
-        "index": 75
+        "index": 78
       },
       "doubleSided": true,
       "name": "Material #19",
@@ -70081,7 +70112,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 71
+          "index": 73
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.85
@@ -70225,7 +70256,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 77
+          "index": 80
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -70273,7 +70304,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 78
+          "index": 81
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -70330,7 +70361,7 @@
         "roughnessFactor": 0.9
       },
       "normalTexture": {
-        "index": 79,
+        "index": 82,
         "scale": 0.3,
         "extensions": {
           "KHR_texture_transform": {
@@ -70590,12 +70621,12 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 76
+          "index": 79
         },
         "metallicFactor": 0.0
       },
       "normalTexture": {
-        "index": 75
+        "index": 78
       },
       "doubleSided": true,
       "name": "Material #19",
@@ -70640,7 +70671,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 71
+          "index": 73
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.85
@@ -70784,7 +70815,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 77
+          "index": 80
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -70832,7 +70863,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 78
+          "index": 81
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -70889,7 +70920,7 @@
         "roughnessFactor": 0.9
       },
       "normalTexture": {
-        "index": 79,
+        "index": 82,
         "scale": 0.3,
         "extensions": {
           "KHR_texture_transform": {
@@ -72016,7 +72047,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 106
+          "index": 109
         },
         "metallicFactor": 0.0
       },
@@ -72064,7 +72095,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 107
+          "index": 110
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.2
@@ -72112,7 +72143,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 108
+          "index": 111
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.8
@@ -72160,7 +72191,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 106
+          "index": 109
         },
         "metallicFactor": 0.0
       },
@@ -72208,7 +72239,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 107
+          "index": 110
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.2
@@ -72256,7 +72287,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 108
+          "index": 111
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.8
@@ -72304,7 +72335,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 106
+          "index": 109
         },
         "metallicFactor": 0.0
       },
@@ -72352,7 +72383,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 107
+          "index": 110
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.2
@@ -72400,7 +72431,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 108
+          "index": 111
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.8
@@ -72448,7 +72479,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 106
+          "index": 109
         },
         "metallicFactor": 0.0
       },
@@ -72496,7 +72527,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 107
+          "index": 110
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.2
@@ -72544,7 +72575,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 108
+          "index": 111
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.8
@@ -72643,7 +72674,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 109
+          "index": 112
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -72742,7 +72773,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 110
+          "index": 113
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -72841,7 +72872,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 108
+          "index": 111
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -72889,7 +72920,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 111
+          "index": 114
         },
         "metallicFactor": 0.0
       },
@@ -73237,7 +73268,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 112
+          "index": 115
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.0
@@ -73285,7 +73316,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 113
+          "index": 116
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.0
@@ -73384,7 +73415,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 114
+          "index": 117
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -73786,7 +73817,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 115
+          "index": 118
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.4
@@ -73834,7 +73865,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 115
+          "index": 118
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.4
@@ -74120,7 +74151,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 116
+          "index": 119
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -74168,7 +74199,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 117
+          "index": 120
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -74216,7 +74247,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 115
+          "index": 118
         },
         "metallicFactor": 0.0
       },
@@ -74263,7 +74294,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 118
+          "index": 121
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.0
@@ -74359,7 +74390,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 117
+          "index": 120
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.4
@@ -74407,7 +74438,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 119
+          "index": 122
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.4
@@ -74503,7 +74534,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 120
+          "index": 123
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.2
@@ -74650,7 +74681,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 108
+          "index": 111
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -74698,7 +74729,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 111
+          "index": 114
         },
         "metallicFactor": 0.0
       },
@@ -74797,7 +74828,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 108
+          "index": 111
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -74845,7 +74876,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 111
+          "index": 114
         },
         "metallicFactor": 0.0
       },
@@ -74944,7 +74975,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 108
+          "index": 111
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -74992,7 +75023,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 111
+          "index": 114
         },
         "metallicFactor": 0.0
       },
@@ -75091,7 +75122,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 108
+          "index": 111
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -75139,7 +75170,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 111
+          "index": 114
         },
         "metallicFactor": 0.0
       },
@@ -75238,7 +75269,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 108
+          "index": 111
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -75286,7 +75317,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 111
+          "index": 114
         },
         "metallicFactor": 0.0
       },
@@ -75385,7 +75416,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 108
+          "index": 111
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -75433,7 +75464,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 111
+          "index": 114
         },
         "metallicFactor": 0.0
       },
@@ -75532,7 +75563,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 108
+          "index": 111
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -75580,7 +75611,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 111
+          "index": 114
         },
         "metallicFactor": 0.0
       },
@@ -75928,7 +75959,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 112
+          "index": 115
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.0
@@ -75976,7 +76007,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 113
+          "index": 116
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.0
@@ -76024,7 +76055,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 24
+          "index": 48
         },
         "metallicFactor": 0.0
       },
@@ -76071,7 +76102,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 117
+          "index": 120
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.4
@@ -76082,7 +76113,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 24
+          "index": 48
         },
         "metallicFactor": 0.0
       },
@@ -76129,7 +76160,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 117
+          "index": 120
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.4
@@ -76140,7 +76171,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 24
+          "index": 48
         },
         "metallicFactor": 0.0
       },
@@ -76187,7 +76218,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 117
+          "index": 120
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.4
@@ -76198,7 +76229,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 24
+          "index": 48
         },
         "metallicFactor": 0.0
       },
@@ -76245,7 +76276,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 117
+          "index": 120
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.4
@@ -76556,7 +76587,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 112
+          "index": 115
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.0
@@ -76604,7 +76635,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 113
+          "index": 116
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.0
@@ -76703,7 +76734,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 108
+          "index": 111
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -76751,7 +76782,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 111
+          "index": 114
         },
         "metallicFactor": 0.0
       },
@@ -76850,7 +76881,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 108
+          "index": 111
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -76898,7 +76929,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 111
+          "index": 114
         },
         "metallicFactor": 0.0
       },
@@ -76946,7 +76977,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 24
+          "index": 48
         },
         "metallicFactor": 0.0
       },
@@ -76993,7 +77024,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 117
+          "index": 120
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.4
@@ -77004,7 +77035,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 24
+          "index": 48
         },
         "metallicFactor": 0.0
       },
@@ -77051,7 +77082,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 117
+          "index": 120
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.4
@@ -77062,7 +77093,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 24
+          "index": 48
         },
         "metallicFactor": 0.0
       },
@@ -77109,7 +77140,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 117
+          "index": 120
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.4
@@ -77120,7 +77151,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 24
+          "index": 48
         },
         "metallicFactor": 0.0
       },
@@ -77167,7 +77198,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 117
+          "index": 120
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.4
@@ -77178,7 +77209,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 24
+          "index": 48
         },
         "metallicFactor": 0.0
       },
@@ -77225,7 +77256,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 117
+          "index": 120
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.4
@@ -77236,7 +77267,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 24
+          "index": 48
         },
         "metallicFactor": 0.0
       },
@@ -77283,7 +77314,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 117
+          "index": 120
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.4
@@ -77345,7 +77376,7 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 109
+          "index": 112
         },
         "metallicFactor": 0.0,
         "roughnessFactor": 0.5
@@ -77745,256 +77776,271 @@
     {
       "sampler": 0,
       "source": 24,
-      "name": "fabric_clair_basecolor.jpg"
+      "name": "fabric_bump.jpg"
     },
     {
       "sampler": 0,
       "source": 25,
-      "name": "wood_clair.jpg"
+      "name": "fabric_grey.jpg"
     },
     {
       "sampler": 0,
       "source": 26,
-      "name": "travertine.jpg"
+      "name": "fabric_roughness0.jpg"
     },
     {
       "sampler": 0,
       "source": 27,
-      "name": "vm_v1_075_leather_blend.jpg"
+      "name": "wood_clair.jpg"
     },
     {
       "sampler": 0,
       "source": 28,
-      "name": "piel_basecolor.jpg"
+      "name": "fabric_clair_basecolor.jpg"
     },
     {
       "sampler": 0,
       "source": 29,
-      "name": "fabric_normal.jpg"
+      "name": "travertine.jpg"
     },
     {
       "sampler": 0,
       "source": 30,
-      "name": "fabric_CrayolasCadet_albedo.jpg"
+      "name": "vm_v1_075_leather_blend.jpg"
     },
     {
       "sampler": 0,
       "source": 31,
-      "name": "wallpaper_pc.jpg"
+      "name": "piel_basecolor.jpg"
     },
     {
       "sampler": 0,
       "source": 32,
-      "name": "pc_apple_01.jpg"
+      "name": "fabric_normal.jpg"
     },
     {
       "sampler": 0,
       "source": 33,
-      "name": "vm_v1_007_leather_normal.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 33,
-      "name": "vm_v1_007_leather_normal.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 33,
-      "name": "vm_v1_007_leather_normal.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 33,
-      "name": "vm_v1_007_leather_normal.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 33,
-      "name": "vm_v1_007_leather_normal.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 33,
-      "name": "vm_v1_007_leather_normal.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 33,
-      "name": "vm_v1_007_leather_normal.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 33,
-      "name": "vm_v1_007_leather_normal.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 33,
-      "name": "vm_v1_007_leather_normal.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 33,
-      "name": "vm_v1_007_leather_normal.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 33,
-      "name": "vm_v1_007_leather_normal.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 33,
-      "name": "vm_v1_007_leather_normal.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 33,
-      "name": "vm_v1_007_leather_normal.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 33,
-      "name": "vm_v1_007_leather_normal.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 33,
-      "name": "vm_v1_007_leather_normal.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 33,
-      "name": "vm_v1_007_leather_normal.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 33,
-      "name": "vm_v1_007_leather_normal.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 33,
-      "name": "vm_v1_007_leather_normal.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 33,
-      "name": "vm_v1_007_leather_normal.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 33,
-      "name": "vm_v1_007_leather_normal.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 33,
-      "name": "vm_v1_007_leather_normal.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 33,
-      "name": "vm_v1_007_leather_normal.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 33,
-      "name": "vm_v1_007_leather_normal.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 33,
-      "name": "vm_v1_007_leather_normal.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 33,
-      "name": "vm_v1_007_leather_normal.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 33,
-      "name": "vm_v1_007_leather_normal.jpg"
-    },
-    {
-      "sampler": 0,
-      "source": 33,
-      "name": "vm_v1_007_leather_normal.jpg"
+      "name": "fabric_CrayolasCadet_albedo.jpg"
     },
     {
       "sampler": 0,
       "source": 34,
-      "name": "plant_palmtree_albedo.png"
+      "name": "wallpaper_pc.jpg"
     },
     {
       "sampler": 0,
       "source": 35,
-      "name": "scandi_terrace_plant_beige.jpg"
+      "name": "pc_apple_01.jpg"
     },
     {
       "sampler": 0,
       "source": 36,
-      "name": "scandi_living_plant_soil.jpg"
+      "name": "vm_v1_007_leather_normal.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 36,
+      "name": "vm_v1_007_leather_normal.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 36,
+      "name": "vm_v1_007_leather_normal.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 36,
+      "name": "vm_v1_007_leather_normal.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 36,
+      "name": "vm_v1_007_leather_normal.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 36,
+      "name": "vm_v1_007_leather_normal.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 36,
+      "name": "vm_v1_007_leather_normal.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 36,
+      "name": "vm_v1_007_leather_normal.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 36,
+      "name": "vm_v1_007_leather_normal.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 36,
+      "name": "vm_v1_007_leather_normal.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 36,
+      "name": "vm_v1_007_leather_normal.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 36,
+      "name": "vm_v1_007_leather_normal.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 36,
+      "name": "vm_v1_007_leather_normal.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 36,
+      "name": "vm_v1_007_leather_normal.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 36,
+      "name": "vm_v1_007_leather_normal.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 36,
+      "name": "vm_v1_007_leather_normal.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 36,
+      "name": "vm_v1_007_leather_normal.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 36,
+      "name": "vm_v1_007_leather_normal.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 36,
+      "name": "vm_v1_007_leather_normal.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 36,
+      "name": "vm_v1_007_leather_normal.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 36,
+      "name": "vm_v1_007_leather_normal.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 36,
+      "name": "vm_v1_007_leather_normal.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 36,
+      "name": "vm_v1_007_leather_normal.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 36,
+      "name": "vm_v1_007_leather_normal.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 36,
+      "name": "vm_v1_007_leather_normal.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 36,
+      "name": "vm_v1_007_leather_normal.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 36,
+      "name": "vm_v1_007_leather_normal.jpg"
     },
     {
       "sampler": 0,
       "source": 37,
-      "name": "geo.jpg"
+      "name": "plant_palmtree_albedo.png"
     },
     {
       "sampler": 0,
       "source": 38,
-      "name": "geometric-shape-background-engraving-style.jpg"
+      "name": "scandi_terrace_plant_beige.jpg"
     },
     {
       "sampler": 0,
       "source": 39,
-      "name": "plant_banano.png"
+      "name": "scandi_living_plant_soil.jpg"
     },
     {
       "sampler": 0,
       "source": 40,
-      "name": "harley-lin-Y5Vrxf2he9Q-unsplash (1).jpg"
+      "name": "geo.jpg"
     },
     {
       "sampler": 0,
       "source": 41,
-      "name": "retro_abstract_design_background_2007.jpg"
+      "name": "geometric-shape-background-engraving-style.jpg"
     },
     {
       "sampler": 0,
       "source": 42,
-      "name": "abstract-bluish-paint-background-wallpaper.jpg"
+      "name": "plant_banano.png"
     },
     {
       "sampler": 0,
       "source": 43,
-      "name": "color_blue_super_light---Copy.jpg"
+      "name": "harley-lin-Y5Vrxf2he9Q-unsplash (1).jpg"
     },
     {
       "sampler": 0,
       "source": 44,
-      "name": "color_orange.jpg"
+      "name": "retro_abstract_design_background_2007.jpg"
     },
     {
       "sampler": 0,
       "source": 45,
-      "name": "color_blue_super_light - Copy.jpg"
+      "name": "abstract-bluish-paint-background-wallpaper.jpg"
     },
     {
       "sampler": 0,
       "source": 46,
-      "name": "Screenshot 2024-05-14 112115.jpg"
+      "name": "color_blue_super_light---Copy.jpg"
     },
     {
       "sampler": 0,
       "source": 47,
-      "name": "color_pink.jpg"
+      "name": "color_orange.jpg"
     },
     {
       "sampler": 0,
       "source": 48,
+      "name": "color_blue_super_light - Copy.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 49,
+      "name": "Screenshot 2024-05-14 112115.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 50,
+      "name": "color_pink.jpg"
+    },
+    {
+      "sampler": 0,
+      "source": 51,
       "name": "color_terracotta.jpg"
     }
   ],
@@ -78072,10 +78118,19 @@
       "uri": "wood_spirit_albedo2.jpg"
     },
     {
-      "uri": "fabric_clair_basecolor.jpg"
+      "uri": "fabric_bump.jpg"
+    },
+    {
+      "uri": "fabric_grey.jpg"
+    },
+    {
+      "uri": "fabric_roughness0.jpg"
     },
     {
       "uri": "wood_clair.jpg"
+    },
+    {
+      "uri": "fabric_clair_basecolor.jpg"
     },
     {
       "uri": "travertine.jpg"
