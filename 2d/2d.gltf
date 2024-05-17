@@ -55592,10 +55592,16 @@
     {
       "pbrMetallicRoughness": {
         "baseColorTexture": {
-          "index": 74
+          "index": 71
         },
         "metallicFactor": 0.0,
-        "roughnessFactor": 0.44
+        "metallicRoughnessTexture": {
+          "index": 72
+        }
+      },
+      "normalTexture": {
+        "index": 70,
+        "scale": 0.3
       },
       "doubleSided": true,
       "name": "fabric",
